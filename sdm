@@ -15,72 +15,7 @@ http://www.youtube.com/watch?v=BOpCrPFc-UI
 
 ******************** SDM-LOKAL ********************
 #EXTM3U
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
-https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-mp4a_64000=2-avc1_100000=8.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV
-https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-mp4a_64000=2-avc1_800000=6.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
-https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021-mp4a_64000=2-avc1_800000=6.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews
-https://d1akid76fpbq4x.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
-http://rr2.dens.tv/s/s07/index.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.15",INDOSIAR
-http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png?v=2.0.0.15",SCTV
-http://210.210.155.35/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7
-http://rr.dens.tv/h/h11/index.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
-http://rr2.dens.tv/s/s105/index.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
-http://rr.dens.tv/h/h12/index.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",RTV
-http://rr1.dens.tv/h/h10/index.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png",Kompas TV
-http://rr2.dens.tv/s/s104/index.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg",TVRI Nasional
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="SDM-LOKAL",TVRI SPORT
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg",NET
-http://rr2.dens.tv/s/s08/index.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_103.jpg",Berita Satu News
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="SDM-LOKAL",BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png?v=2.0.0.13" group-title="SDM-LOKAL",BERITA SATU WORLD
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13" group-title="SDM-LOKAL",CNN INDONESIA
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="SDM-LOKAL",CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://i.ibb.co/YkXktVs/032-magna.png",Magna Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
-#EXTINF:-1 tvg-id="DigdayaTV.id" tvg-name="" tvg-url="" tvg-logo="https://i.imgur.com/3EVWz1z.png" group-title="SDM-LOKAL",Garuda TV
-https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
-#EXTINF:-1 tvg-id="TV PARLEMEN" tvg-name="TV PARLEMEN" tvg-url="http://www.firstmedia.com" tvg-logo="https://i.imgur.com/Hh3mx3u.png" group-title="SDM-LOKAL",TV PARLEMEN
-http://103.16.220.69:1935/golive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV
-http://202.169.224.76:1935/tv/jitv/eroz_brebes.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/58/Jogjatv3d.png/1200px-Jogjatv3d.png",Jogja TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png",JakTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Logobantenrayatv.png",Banten Raya TV
-https://v2.siar.us/barayatv/live/chunks.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/91/TVKU-BChannel.png",TVKU
-http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/800px-BMSTV_Banyumas-Purwokerto.png",BMSTV
-http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://i.imgur.com/RRu0wKR.png",PRIMA TV
-http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8?
-#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png",SAKTI TV
-http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
+"Local"
 
 
 ******************** SDM-MOVIES ********************
@@ -140,6 +75,86 @@ http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 
 
 ******************** SDM-SPORTS ********************
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeNrZxCsgvVNo2XsQZaczmz-zrGfgUdKV_qX_LvgRNNOddKA1IoaKdNUjrbTjd3l4Q.png",Astro Arena
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OLc2ZJ3i-rBifjJYvb96ONe
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SGQgGn1vk6-A5DT5b4N_vMPTDsn8RlTeSDQTFMvVDuCk.png",Astro Arena 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OLlasxqeNSHG8VVAjeF_B9J
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4ZKYb0esh43L_stJRENuq48fqjxghI5sT0ALUh_usM3Qch41sfGHtMTkvhpyLLNhvLc8_--RHM1sI-zJbkIdQEg.png",beIN Sports 1 ID
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OLdigeVNd1-HqBn0Ayk6iSh
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4ZKYb0esh43L_stJRENuq4_VEh1KxKj2ftE8FIdzQuDC9rVWvQK5xKtDEqT5A6zwOBegytzg0r-B8fC7-qqUtuo.png",beIN Sports 3 ID
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJ0vsd24oDli1fsLnOq8RVF
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdZL90iHxImdmCANmf_YKi3epr9zswQesjXzTtBkZPAK_2g8UCem2vmI4-fgwSzw3Q.png",Champion TV 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OIY7wKeMQTM72yFfWtkCfuy
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfXklQ4MT8lBpWf2y3cIYW7rGEmzNJI5x7ruM2bK67HnK5_j9ankbThWOQ8EkbGwc0.png",Champion TV 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJ6GgyPBLqYL_Z_-ixw9aAe
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWd97x8yXqaXN76PCzuMmAaTYrXuCTKnXnf37yOHqFomGfcf_IkxwmtbPoXd6FHbGmQ.png",Champion TV 3
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OL7zGohMh6zqD2MZBoVJSjo
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeAvd1L1J_MFB3qSaFy8aWWBu78MkMYlPDhy6UONlGMXgknoXBQenX9Pp-XP9-b7vw.png",Champion TV 4
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OKNLBTXL1PLRY_ye5lqeKZ4
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez8K6tHQfYLJ1gKVkaid8kBMwnVs_n9bvAcNFkdHdkPGaxtp-gw7w7fDuMObS-pKCY8.png",Dubai Sport 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OIA1Xf-E0Cda0kAZt3IRuXp
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfZboOywfldjoTYvYIUuVrohW8Y4VgS5LMBByHqzeTI2KoqLNfpMvReSEpTl7QZxJo.png",Dubai Sport 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OLLcIYOAxMFnoFUp7R2VXlw
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/120532c7412bc9b4be2d0003604423a0.png",Fight Sports
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OK_qgqRGDqXO4X_iCClWNzm
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdjoVIaKuVUDsxUOYJnF_9qMcXEmM_M2kTibr66uvlzuvmgJD8Pf7vlgkhV-mMVcXQ.png",One Golf
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJzVJyV8hyfQsL8SDEa-oFo
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="http://iptv.lancartech.co.id:8080/images/a59e2fcd2ab41b549f4dbbd9300d7962.png",Red Bull TV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OKh5DYiVakpCn3NJiutZVY7
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdwhVKRyQt-xTq7TICJe-h6Ks9FKj1xbWSgqe7xY1Dt7960iEjpkWRVIu8pz0hXlcE.png",SPO TV 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJ8p4OyXYR3XXxH9godUq0B
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWf7V3KYnGXY0PyJfgklipZFEC8MptWxJM6eTdIwgq20P4pFTK24eDam8EtB2eKiScI.png",SPO TV 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OLPzo41uzIcCa_YXHhzpGOb
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYgyzndY4JnVGTYZp6Yip1JJY9vUfZsyhHdkFa38FWA38UVeu6wO4CiB6RDuFuBGe9k.png",Tennis Channel
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OL0bfxfqoJs-uRADGR8bhlY
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez9K20Ej_JB4q9zwGEUCK_wp6jjtenE7gdlbgZF-X7gV7dw_Bba5ajK6OGaBx50SuAM.png",UFC
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OKF33_qZ3o7ztVvlNeExyZN
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdxg-22UKjmktRHp5cqzRxL1QI8xqBL6eNsZVonVpPdsqlo2PB4aLmT0RpiuEvUEL8.png",Usee Sports 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OKBM2XM-Mm-BxcsrbLsOUSK
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfBRaVDjOYZeRlLerb1-lrH4v5i5IAx3rTUqPZ39nNiKGfx_FgcOjPgFibB8EA1IGQ.png",Usee Sports 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OIyEntaTaaPXdKdREzvLTua
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeBGBQOc1Xo2qdTp59-txZyG3JvVEEqDCMdjFKvbqSa9S_RnG-wgXXJWusnphobHdQ.png",WWE Superslam
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OIez5J2GtJ88rq4UU8wHY-z
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeNrZxCsgvVNo2XsQZaczmz-zrGfgUdKV_qX_LvgRNNOddKA1IoaKdNUjrbTjd3l4Q.png",Astro Arena
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5ZkpGNm0xDPDTf2drMzviiv
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SGQgGn1vk6-A5DT5b4N_vMPTDsn8RlTeSDQTFMvVDuCk.png",Astro Arena 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5YxgX8Yz5yH5V9bTL2pD7YZ
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4ZKYb0esh43L_stJRENuq48fqjxghI5sT0ALUh_usM3Qch41sfGHtMTkvhpyLLNhvLc8_--RHM1sI-zJbkIdQEg.png",beIN Sports 1 ID
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5YXRPPK-fRLBVDppgGCzJRp
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4ZKYb0esh43L_stJRENuq4_VEh1KxKj2ftE8FIdzQuDC9rVWvQK5xKtDEqT5A6zwOBegytzg0r-B8fC7-qqUtuo.png",beIN Sports 3 ID
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5a5HJIZEX8ot1ea313gzf8k
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdZL90iHxImdmCANmf_YKi3epr9zswQesjXzTtBkZPAK_2g8UCem2vmI4-fgwSzw3Q.png",Champion TV 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5Y8sPupl78mMkv-AF1AdKpq
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfXklQ4MT8lBpWf2y3cIYW7rGEmzNJI5x7ruM2bK67HnK5_j9ankbThWOQ8EkbGwc0.png",Champion TV 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5bgvU8ZISNLtLjb-hJMZKhH
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWd97x8yXqaXN76PCzuMmAaTYrXuCTKnXnf37yOHqFomGfcf_IkxwmtbPoXd6FHbGmQ.png",Champion TV 3
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5YAUMWj_OdlCdX9WaVliKnw
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeAvd1L1J_MFB3qSaFy8aWWBu78MkMYlPDhy6UONlGMXgknoXBQenX9Pp-XP9-b7vw.png",Champion TV 4
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5bWVCgHVzj8IPODoevE1gA9
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez8K6tHQfYLJ1gKVkaid8kBMwnVs_n9bvAcNFkdHdkPGaxtp-gw7w7fDuMObS-pKCY8.png",Dubai Sport 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5YcJJhpISbxLNqnQdRmUnN0
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfZboOywfldjoTYvYIUuVrohW8Y4VgS5LMBByHqzeTI2KoqLNfpMvReSEpTl7QZxJo.png",Dubai Sport 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5YDmiOe-75vVrau-2ysi7yg
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/120532c7412bc9b4be2d0003604423a0.png",Fight Sports
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5bGMeNnPLP1qRgS-b8R5Ckt
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdjoVIaKuVUDsxUOYJnF_9qMcXEmM_M2kTibr66uvlzuvmgJD8Pf7vlgkhV-mMVcXQ.png",One Golf
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5aYtXYDiK8n3qs8vpeuyuKS
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="http://iptv.lancartech.co.id:8080/images/a59e2fcd2ab41b549f4dbbd9300d7962.png",Red Bull TV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5a_BwgqA_wcd5dTO8xgJCth
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdwhVKRyQt-xTq7TICJe-h6Ks9FKj1xbWSgqe7xY1Dt7960iEjpkWRVIu8pz0hXlcE.png",SPO TV 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5bfi0yGba_6LK43K26g8KO4
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWf7V3KYnGXY0PyJfgklipZFEC8MptWxJM6eTdIwgq20P4pFTK24eDam8EtB2eKiScI.png",SPO TV 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5YGIVpqsQB3uUuc7LbyJs5t
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYgyzndY4JnVGTYZp6Yip1JJY9vUfZsyhHdkFa38FWA38UVeu6wO4CiB6RDuFuBGe9k.png",Tennis Channel
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5Y8Gp2PdgWO5hIZnQtskr4F
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez9K20Ej_JB4q9zwGEUCK_wp6jjtenE7gdlbgZF-X7gV7dw_Bba5ajK6OGaBx50SuAM.png",UFC
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5Y8wrAkS-6toss-nm_irx3G
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdxg-22UKjmktRHp5cqzRxL1QI8xqBL6eNsZVonVpPdsqlo2PB4aLmT0RpiuEvUEL8.png",Usee Sports 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5YFvk5s4mY8Y-r5-KQ7VTAK
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfBRaVDjOYZeRlLerb1-lrH4v5i5IAx3rTUqPZ39nNiKGfx_FgcOjPgFibB8EA1IGQ.png",Usee Sports 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5bgrdxbD9x5qEx4aJPstzbo
+#EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeBGBQOc1Xo2qdTp59-txZyG3JvVEEqDCMdjFKvbqSa9S_RnG-wgXXJWusnphobHdQ.png",WWE Superslam
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5ZyYJd24Ze6hOIzCbl_ZElx
 #EXTINF:-1 group-title="SDM-SPORTS" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1647684965~exp=9007200902425956~acl=/99545824f
 #EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="SDM-SPORTS",TVRI SPORT
@@ -176,6 +191,115 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 ******************** SDM-VIP SPORTS ********************
 #EXTM3U
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/ce3c6f4098a88251fe7d8d3d60a544eb.png",Astro Super Sport 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OLqm1qm770qTSlHSn4Xjxdt
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/a071056319cedd46e3e2ee3dbea1089c.png",Astro Super Sport 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OKTWnf5IzaSmuWHCK-Qv5pj
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/4e4598a34197ddcbb33b33471e07a30f.png",Astro Super Sport 3
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OLHnX1zFxvZF50-sxYw3pCN
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/c024e2c0573bd0e4ef0af5cd9b45a6f1.png",Astro Super Sport 4
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OKb1M9fLo7VjmwXG6Hy_9AX
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/1a08bb9378fb821f52114b12c6f61dca.png",Astro Super Sport 5
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OI4p7VIEFuHcb7O2OwFKYts
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWf-fIQNxqqiEy-X9Vd-3KboYmEjNaZx81xZ8YGzW2yP9wcGrWtv_TXWs84ksivUIuQ.png",Bein Premium 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OLGlR7ZGlRalVVtcvEZB2qy
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/fb8b7984b4bcc545a8f0fde681e5f8fe.png",Bein Premium 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJiMHrsJVCRswW3Ml0lRsbC
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/f021e77768691f218148fc0242b3d93d.png",Bein Premium 3
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OKlAvnG8pVni_vwAVHuIEPl
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeqQiKKeMO_cGlatL6n5tRzhyZrfenTLsZ3dbAEShxUt7MYxnA8RCAi9V21Wg3UGOM.png",Bein Sports MAX
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJBYidaHJR48YIDmknAef2T
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcDavUZOuXeM2LW1bm4aFqOzls62zzI0xfEnGqE-VbjlEjDC9hnWT5pAVb5lKNB-f0.png",BT Sport 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OIQbOCSdDpUa6JKuHi9TYYh
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeNBPuuqhNR0k0GPK10Fw1UKX1xFzTgqhjbxuKehGW3JFoJQkF_4A87mzTZT2A7gAg.png",BT Sport 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OKFs6bLshT9DIuDGysDBVC5
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfBP_VapV6wPBPKOJpGHDBOuj41UITJ5SdC3uXN3clKxGFI49egSfyr9HMm5RlLJMo.png",BT Sport 3
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OLfmCkGlOcGCeA4aK7N1cNA
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/d36c6cc8684ff8f2a6e2ddc6c8f48a26.png",ESPN
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OL_3R6y35drOiJ6yT0t-yVH
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYgZNwM_4VC7CcE8zgBrbZmAr2Jz9XSEb1fJTXcUN_7FOxLaJ1RKFHQ39TbfRujKddQ.png",Eurosport 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OK8bxcitutQEyurn0DX-irr
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfpLSJ7sRnx9h4xDybTByLRSDxpPrwVWGGG_fGqgiARtyiMd-k61eqqFDHTnFswIMM.png",Eurosport 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJsTFuIl7F9bndDgKyJzKGW
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWclhgA61fnSYG0yF5lCcFb786KwUtCX06DryXNbCBmOr6Bhqgz0XW1FOKGmat9SibQ.png",NBA TV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJDbb3OZPlhlcYHoaEjOgmj
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYjFe1zm4d9AMRGO2RfTpzi_iO_CfuEhbdEcFGslaTdlTztVWjvlqCKb3uvKW2GDV4Y.png",NBC Sport Network
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OIuFZ4U8WvUoPukqTEvIxEC
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez-VKllK7XXqG5OVch5N-l1CXUaghYbBphIITZcNvHKJViwp1zMglYFI9tciGa-QwbA.png",RMC Sport 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OLDtgWLdm3jD_W2SPZVYbjv
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWef_JCJpUVvb0X9aDz-x8D7kaLNHy2VoZxfAG46r_hljEqtwTAArfV3IOLQU7e6nVY.png",RMC Sport 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJ2bLF1Z8TqzIOP2bFzpRyB
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez8rD1weC-HsovxUzzMrWz09bMjHSGVBgbDlLqKZJq4LDW8DEIhrps7DdCR-31KG-fI.png",SPORT TV 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJzqyIgTydov8A2hInuLQWf
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYgYila2Jdu3S8m51dppwYsawn-TLFmDXP7ekzZvMwKuZpXUgHq44QtTH-k3T2UHU6A.png",SPORT TV 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OIduHjDy1gVpOmnJkr6_mF1
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez8rCgAaBX1cK5aq5vY6hHA2ViKiOEvzRrEWp_4o6cIYHIezI2D20FxUecxT6beAcBM.png",SPORT TV 3
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OI27l-J6NRIN5r5QHVx4O5i
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYi67cbsGMuLfB96143dyC_I3er4L9-bgeJy1FydaRCpX3RqSPvTy4d8W074b1YGpr0.png",SPORT TV 4
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OKT7DMB3ayff5snUCQ6FLB-
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez8MpXD7FIfdSd38L0gK4bWm8Wuo1LerNWiQdtyKbzZ1bcfV-gevTL2s8yEb2ejC4Ss.png",SPORT TV 5
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OI-m5PBAWWLk-FygRQpVFta
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeG05PlLbcom36beFp3pl3MVuG2dUrCQJ7igxbuLtQaXvSH0u_zpUDSl83R7yRfiCI.png",Supersport Premier League
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OK9oa1PIwJK_o3yBQccYpH-
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez9R8oeFVmeYJRY6n-5VzYQQ35HnjZfz0tO9vFP2MSqqEYZpGcySavJAa5l5DrDMxdc.png",Ziggo Sports Football
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OIhVcFXHqMzDxisylxQ0QN7
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYiFsLIGVqrHHWEJAqLxcONZ9fzCuZWWs2iBNAmQj0M6A275pHklRS8cAc_YOuP3fgA.png",Ziggo Sports Select
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OLIs3fo3Hkm3Z3-sIKy3gZ-
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/ce3c6f4098a88251fe7d8d3d60a544eb.png",Astro Super Sport 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5bXxVwctxLIGSPUyVaVGRgx
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/a071056319cedd46e3e2ee3dbea1089c.png",Astro Super Sport 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5a4tRtPg4-wtvzKVTUzixEJ
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/4e4598a34197ddcbb33b33471e07a30f.png",Astro Super Sport 3
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5Yacwmc9wtCOWYYGGco-UUy
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/c024e2c0573bd0e4ef0af5cd9b45a6f1.png",Astro Super Sport 4
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5bzc1dDgnwr5MR2lZFuPWI2
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/1a08bb9378fb821f52114b12c6f61dca.png",Astro Super Sport 5
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5aF3lQsDM0to1eD-iFw8bdu
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWf-fIQNxqqiEy-X9Vd-3KboYmEjNaZx81xZ8YGzW2yP9wcGrWtv_TXWs84ksivUIuQ.png",Bein Premium 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5Ynl8UCSZ7uFBPCpnbTQm6S
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/fb8b7984b4bcc545a8f0fde681e5f8fe.png",Bein Premium 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5YNSpm6jnOXGoi6mJOYEXtN
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/f021e77768691f218148fc0242b3d93d.png",Bein Premium 3
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5a9vc44GlEYpEtoscH5MtM_
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeqQiKKeMO_cGlatL6n5tRzhyZrfenTLsZ3dbAEShxUt7MYxnA8RCAi9V21Wg3UGOM.png",Bein Sports MAX
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5YOBJPZ2j4ozjdmmzog-mXx
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcDavUZOuXeM2LW1bm4aFqOzls62zzI0xfEnGqE-VbjlEjDC9hnWT5pAVb5lKNB-f0.png",BT Sport 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5bLrMCDPzb72W8DWHew8-Z5
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeNBPuuqhNR0k0GPK10Fw1UKX1xFzTgqhjbxuKehGW3JFoJQkF_4A87mzTZT2A7gAg.png",BT Sport 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5aXTj4LYL_e43NASXVUiLGg
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfBP_VapV6wPBPKOJpGHDBOuj41UITJ5SdC3uXN3clKxGFI49egSfyr9HMm5RlLJMo.png",BT Sport 3
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5aj50jor5d7l5r8JOFjcVtZ
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/d36c6cc8684ff8f2a6e2ddc6c8f48a26.png",ESPN
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5YniDOm2aDKAZ1EgoUfqx7s
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYgZNwM_4VC7CcE8zgBrbZmAr2Jz9XSEb1fJTXcUN_7FOxLaJ1RKFHQ39TbfRujKddQ.png",Eurosport 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5aDwUDuzyLHGU2zQyRw-rn3
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfpLSJ7sRnx9h4xDybTByLRSDxpPrwVWGGG_fGqgiARtyiMd-k61eqqFDHTnFswIMM.png",Eurosport 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5bEe9cBCyxhmz4KVaKrtkEZ
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWclhgA61fnSYG0yF5lCcFb786KwUtCX06DryXNbCBmOr6Bhqgz0XW1FOKGmat9SibQ.png",NBA TV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5ZFe4GXHAByvxOZ7Lq3FF0T
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYjFe1zm4d9AMRGO2RfTpzi_iO_CfuEhbdEcFGslaTdlTztVWjvlqCKb3uvKW2GDV4Y.png",NBC Sport Network
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5bhyB5p29on_vq6cUFWc1GZ
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez-VKllK7XXqG5OVch5N-l1CXUaghYbBphIITZcNvHKJViwp1zMglYFI9tciGa-QwbA.png",RMC Sport 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5ZYgutoPyHBl56tXvgHtPvf
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWef_JCJpUVvb0X9aDz-x8D7kaLNHy2VoZxfAG46r_hljEqtwTAArfV3IOLQU7e6nVY.png",RMC Sport 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5boRw3sQco2PKMVXiPACgK5
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez8rD1weC-HsovxUzzMrWz09bMjHSGVBgbDlLqKZJq4LDW8DEIhrps7DdCR-31KG-fI.png",SPORT TV 1
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5Z5lPKODeLRNixdjvzWE2ks
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYgYila2Jdu3S8m51dppwYsawn-TLFmDXP7ekzZvMwKuZpXUgHq44QtTH-k3T2UHU6A.png",SPORT TV 2
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5ZeexOI5l59h-WsXAoVoyvM
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez8rCgAaBX1cK5aq5vY6hHA2ViKiOEvzRrEWp_4o6cIYHIezI2D20FxUecxT6beAcBM.png",SPORT TV 3
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5ZTLK_vttouPR2Ogs3A41v9
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYi67cbsGMuLfB96143dyC_I3er4L9-bgeJy1FydaRCpX3RqSPvTy4d8W074b1YGpr0.png",SPORT TV 4
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5bm3CD8LXfM3nS3V7UiHoR8
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez8MpXD7FIfdSd38L0gK4bWm8Wuo1LerNWiQdtyKbzZ1bcfV-gevTL2s8yEb2ejC4Ss.png",SPORT TV 5
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5bpAqqDv48a7_0HcUDaBqPS
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeG05PlLbcom36beFp3pl3MVuG2dUrCQJ7igxbuLtQaXvSH0u_zpUDSl83R7yRfiCI.png",Supersport Premier League
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5amqasxaElru4RaPMyNAcuY
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez9R8oeFVmeYJRY6n-5VzYQQ35HnjZfz0tO9vFP2MSqqEYZpGcySavJAa5l5DrDMxdc.png",Ziggo Sports Football
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5ZmH-zIGNU5yQI-KNObuytd
+#EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://iptv.lancartech.co.id:443/images/u0NVcfJOeSx7QNfrov3u2O_muaug1Juayv5C5f-MLYiFsLIGVqrHHWEJAqLxcONZ9fzCuZWWs2iBNAmQj0M6A275pHklRS8cAc_YOuP3fgA.png",Ziggo Sports Select
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5Y6LEVW_bhjbZm6DyEf5AKr
+
 #EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5ZwUMnDB8ASYFzI8FXxtYn-nLnaUTcpNkA&usqp=CAU",ASTRO ARENA 1
 http://urtv.cc/live/435118/435118/6707.m3u8
 #EXTINF:-1 group-title="SDM-VIP SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5ZwUMnDB8ASYFzI8FXxtYn-nLnaUTcpNkA&usqp=CAU",ASTRO ARENA 2
