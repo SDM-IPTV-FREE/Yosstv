@@ -15,7 +15,116 @@ http://www.youtube.com/watch?v=BOpCrPFc-UI
 
 ******************** SDM-LOKAL ********************
 #EXTM3U
-"Local"
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/0cc15eb4946ea5aea150cf36cf494d98.png",ANTV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OKvraqVsQCHgJK6vszSI-Lt
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/a09601bc98096c0083191e9d08b4221f.png",Berita Satu
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OL4Fi-PoTfT5gVrSl5KOj52
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/799ae1a8ef618f98fbc5585408a99655.png",Citra Dangdut
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OIhILQVV_eTN46r7BHoE11E
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/0045ffe4af3bead23aa2ddb2bc13990d.png",Citra Drama
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJE-N33owy5yADaj2SO3OvZ
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfLPeN-YTrqAdfOMLZLC0Pjjc-a-vVVRFw2ruN5t_JhkAnsPZjPy6ySOrcNo8BMWI0.png",CNBC Indonesia
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OIVaLblBEg_MLKwcme7Cm_N
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWctVbiWYZkrICI6u80t51ZMUCgciERxF-JrPf32m_oRgpn1vc8phYYtZBsPS2BYxq4.png",CNN Indonesia
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJjVvsFohG1AmD6JDJAxjHh
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeySTp7PAeLMgTgnyCHlEY6zxuYz9LoSJl88v6aL0KA6qZ7o_jZzm1Tq6uSv-p4UUo.png",Dunia Lain
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OK7js6cSN09HWCY-OrExRgE
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/86bc07bd0683c37fba03f5ae2d0ec791.png",GTV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OK0rs4jCWfbapY7U4088lRj
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/d105831b70f9087125f4efa736bdcad8.png",Indosiar
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OIzxJJ6Dj8OVHCi3mknTYmj
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdG8b9MDD1UcH5ZAiuCJlmeGBbNsrOFMPPKYasiiYXgq9m1Xobh2UVn5k9MKXh0eyc.png",iNews
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OIK1JcoaHgD6UhNVVkZiNhC
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SUAbZ0Fb0Hqci8zVT_0ryww.png",JAK TV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OKFk-EUmANmgRjnJK2LTI4d
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcSJtHIzTJOgr1uB8JzjdWmFFUawhypjRd4pt2z_3nxqD9vEAgrltnQQDD3g5XbGwo.png",Kompas TV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OLhe2bf3WggS1oVc4tdjEjm
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/5ded91fddc9a777b4958242b722e4164.png",Magna TV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OL8-zetb4Z1Xa-goY5L-09Q
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4STfnH7dzZQoJEkP67ydzap6LjnyV3VT1NXTd5b1cxb5Y.png",Metro Globe Network
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OItKBCwCR46fFScUcdG94re
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfERq-XGJUAbYTA0JS9ukNrPotIZ77HYl2OtRxOB7clFftgRDhbZAednqdmD2sSj10.png",Metro TV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJhRzaEtHNAAp2X3LJVWSpl
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/dade5028e41ad98b4ad6d35ac30be46a.png",MNC
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OKWa68zFa5LFDSwGQU0da1E
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWftHqKrXl0Q6glzNfJcGbZhXggCdIRy1RwCEU6t0pYeOfP_87AQmlV8d1JybuEg__E.png",Net. TV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJXzPI8sIZmbLqFwOCAghWU
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfBdO7BOzHiYZm8E0bJN0ysrNk9kSzZG0cH8I7Ppr3SwightA6m-q9I61PXigZVEE8.png",O Channel
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OLZmiRmO-wVLjsE88OI9Hza
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/8ba168ef77583cc4653d20bdc3f32689.png",RCTI
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OLWnrjd_w3DXPbmikraQe49
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeCbfSd-4KundWbazxA1Fifm1M8lQqU9BjRNSlhsAehG_ooDKS5STRs-wFiNWdcyLs.png",RTV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OK4LDR8gDG3UuQ9g1b7lNec
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdsJRwX8bGMPLdtX5mYwRB8MGIH1i6S-NLbT88qmS23LcKqnPzeTGD6jDSsn7XaIg8.png",SCTV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJIB90Y-ml-DbnLWiSPy3F6
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S5nBMvJA0ftImTPa8RCcm1Xqq-pc6IFznm35sfPTJidI.png",The Indonesia Channel
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJE75yP7_64PcWaSG8w3dUk
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/9202507dddc04eae317327ce611a75a5.png",Trans 7
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OKiBO7WzaTEwBvZCbkWWjtj
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeKigfeIuRdmmVVmA55hx85ilOrhYNC5Y5jUq8r0jfWs7iaw0u_5H9CqLdlcVl63W8.png",Trans TV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJIokQpdtLQLGg-gW5M4YRM
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWe97I6yXM-wa89UU21Lq-jwkadrfqvTZoNAr-8wpIFXyXhFNOpzObN6q9ktSxquI9M.png",TV One
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJd9LN8zM1YwcQDMT_fyWog
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfzofR75RXAuATFAS617QdaKbnX0Zym1QeTIypz-3XRbeLIgYIEjW6rxgYW8fpEbZc.png",TVKU
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OJGQAgK8PO5OVv4QzP856Bt
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez-OhZIQv9VOOAqA03tCi65UhrDxSYaWYR7mIUXfMonlvJdpnwSidLQEosvBsEILeno.png",TVRI
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawiSm9zzK70LC5M2Dgb_at-OIQr5Z6ZAJfJPuyscAs2p_D
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/0cc15eb4946ea5aea150cf36cf494d98.png",ANTV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5b0KnRKN4Xe-kM3iXDse1KA
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/a09601bc98096c0083191e9d08b4221f.png",Berita Satu
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5aTtpEo8vmW2mNpHY6B73Jj
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/799ae1a8ef618f98fbc5585408a99655.png",Citra Dangdut
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5a_g5l2a2xqgL4pNCmn3OV-
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/0045ffe4af3bead23aa2ddb2bc13990d.png",Citra Drama
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5YR2rlJrbS8NfVAx6Xkylyg
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfLPeN-YTrqAdfOMLZLC0Pjjc-a-vVVRFw2ruN5t_JhkAnsPZjPy6ySOrcNo8BMWI0.png",CNBC Indonesia
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5a_nkfVIr1ZMAIpTLGBZ9wH
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWctVbiWYZkrICI6u80t51ZMUCgciERxF-JrPf32m_oRgpn1vc8phYYtZBsPS2BYxq4.png",CNN Indonesia
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5bYCnB_f6aqFQvjFXe4n0tT
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeySTp7PAeLMgTgnyCHlEY6zxuYz9LoSJl88v6aL0KA6qZ7o_jZzm1Tq6uSv-p4UUo.png",Dunia Lain
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5bAij4saJP6-k2Hs59nT3XO
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/86bc07bd0683c37fba03f5ae2d0ec791.png",GTV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5Y2pUKj8kM5X6XAPITArDbC
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/d105831b70f9087125f4efa736bdcad8.png",Indosiar
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5YOE-Ya85sM2iOy_-IYvXvz
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdG8b9MDD1UcH5ZAiuCJlmeGBbNsrOFMPPKYasiiYXgq9m1Xobh2UVn5k9MKXh0eyc.png",iNews
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5Yr3bQe7S_bm7ydKNZtn5_B
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4SUAbZ0Fb0Hqci8zVT_0ryww.png",JAK TV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5aXnCZiuu1rON6Sp8Adl8x1
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWcSJtHIzTJOgr1uB8JzjdWmFFUawhypjRd4pt2z_3nxqD9vEAgrltnQQDD3g5XbGwo.png",Kompas TV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5YZg4QgvMlCReeYDLKySCnK
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/5ded91fddc9a777b4958242b722e4164.png",Magna TV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5Ysn87mF6V0ah0yjFmDAfUL
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4STfnH7dzZQoJEkP67ydzap6LjnyV3VT1NXTd5b1cxb5Y.png",Metro Globe Network
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5aOzM0GHUibPv8FIaC8lDF6
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfERq-XGJUAbYTA0JS9ukNrPotIZ77HYl2OtRxOB7clFftgRDhbZAednqdmD2sSj10.png",Metro TV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5aGSLQ1gu8W7RJ-iGaBu4sm
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/dade5028e41ad98b4ad6d35ac30be46a.png",MNC
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5YBpdi0XSjmCoJKseTDHPLp
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWftHqKrXl0Q6glzNfJcGbZhXggCdIRy1RwCEU6t0pYeOfP_87AQmlV8d1JybuEg__E.png",Net. TV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5Yu_9ESJw1lByB0pTUGXJWi
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfBdO7BOzHiYZm8E0bJN0ysrNk9kSzZG0cH8I7Ppr3SwightA6m-q9I61PXigZVEE8.png",O Channel
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5aGe-vdkL29KMCxfbUhrJ-8
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/8ba168ef77583cc4653d20bdc3f32689.png",RCTI
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5aU6jxll4QvkvnPAArJw8xO
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeCbfSd-4KundWbazxA1Fifm1M8lQqU9BjRNSlhsAehG_ooDKS5STRs-wFiNWdcyLs.png",RTV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5ayg3Z9A2AdFcWtdJ7s3s0K
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdsJRwX8bGMPLdtX5mYwRB8MGIH1i6S-NLbT88qmS23LcKqnPzeTGD6jDSsn7XaIg8.png",SCTV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5Yir9QtXR2fFQY7xQv684pW
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/bOELDbOhk8jbz4hDGyjxeUIcFLSMKIjqn6Qi-UmMa02BQJVl5RvZ-MoS5FcENp4S5nBMvJA0ftImTPa8RCcm1Xqq-pc6IFznm35sfPTJidI.png",The Indonesia Channel
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5bD2E64BjaiOUiNJx_tZm-I
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/9202507dddc04eae317327ce611a75a5.png",Trans 7
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5bjFTwvFGiSewAWEbYV-QDF
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeKigfeIuRdmmVVmA55hx85ilOrhYNC5Y5jUq8r0jfWs7iaw0u_5H9CqLdlcVl63W8.png",Trans TV
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5bQTAbfZEnTM9F0Et5oUH06
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWe97I6yXM-wa89UU21Lq-jwkadrfqvTZoNAr-8wpIFXyXhFNOpzObN6q9ktSxquI9M.png",TV One
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5YqmrvIGFHv2z2kP61oahyc
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfzofR75RXAuATFAS617QdaKbnX0Zym1QeTIypz-3XRbeLIgYIEjW6rxgYW8fpEbZc.png",TVKU
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5b79ZVv5_L-WeMeLCdGn9zs
+#EXTINF:-1 group-title="SDM-LOKAL" tvg-logo="https://iptv.lancartech.co.id:443/images/vEofS2ZrzPiKuXs39crkFgLOAda-xVrkmsX4Dws2ez-OhZIQv9VOOAqA03tCi65UhrDxSYaWYR7mIUXfMonlvJdpnwSidLQEosvBsEILeno.png",TVRI
+https://iptv.lancartech.co.id:443/play/hHJ8rGZ_Iix-Z5qYeHawibNAweYUQnRSMxAnEcfp-5ahRrTIHxeAVWLLjuiIoESt
+
+
 
 
 ******************** SDM-MOVIES ********************
