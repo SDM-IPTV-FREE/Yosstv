@@ -456,6 +456,58 @@ http://gplus.live:8080/168573780756/N9UFR0P64W/84478
 
 
 
+
+******************** SDM-DAERAH ********************
+#EXTM3U
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://thumbor.prod.vid.id/qyk6RzFNDnT8Nh103ZvffR88YWw=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5415/802b76.png",Jak TV
+https://dukun.masuk.id/daerah/jaktv1.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/FHBy8Bc/jtv-modified.png",JTV
+https://dukun.masuk.id/daerah/jtv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/3hdCJvJ/download-3-modified-1.png",Banten TV
+https://dukun.masuk.id/daerah/bantentv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/bQHtPDn/a-SBab-Zsd-400x400-modified.png",Jakarta Globe
+https://dukun.masuk.id/daerah/jakglobal.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/c1PvgS8/balitv-modified.png",Bali TV
+https://dukun.masuk.id/daerah/balitv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/XYhDDHc/download-2-modified.png",Bandung TV
+https://dukun.masuk.id/daerah/bandungtv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/TPvj6ts/BTV-Balikpapan-live-streaming-modified.png",Balikpapan TV
+https://dukun.masuk.id/daerah/balikpapantv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/NV4PdWc/channels4-profile-1-modified.png",Badar TV
+https://dukun.masuk.id/daerah/brtv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/FzKtsTj/download-modified.png",Simpang 5 TV
+https://dukun.masuk.id/daerah/simpang5.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/5sLdGw7/Batam-TV-live-streaming-modified.png",Batam TV
+https://dukun.masuk.id/daerah/batamtv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/S7yGrXG/download-3-modified.png",Palembang TV
+https://dukun.masuk.id/daerah/paltv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/37pVzFm/download-4-modified.png",Banjar TV
+https://dukun.masuk.id/daerah/banjartv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/jhmcnz1/320e81beb4d74cc3ed676ca809628885-400x400-modified.png",Jambi TV
+https://dukun.masuk.id/daerah/jambitv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/RN953pB/RCTV-Cirebon-live-streaming-modified.png",Radar Cirebon TV
+https://dukun.masuk.id/daerah/rctv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/0QPSzYK/Et5-Hp-A-b-400x400-modified.png",Sakti TV Madiun
+https://dukun.masuk.id/daerah/saktitv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/DQg1f4Q/unnamed-4-modified.png",Sultra TV
+https://dukun.masuk.id/daerah/sultratv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/fHkWBLt/no-image-modified.png",Riau TV
+https://dukun.masuk.id/daerah/riautv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/YpSjGbG/smtv-modified.png",Sumedang TV
+https://dukun.masuk.id/daerah/smtv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/zVpH84Y/channels4-profile-modified.png",Padang TV
+https://dukun.masuk.id/daerah/padangtv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/xH1vv3M/Jek-TV-Jambi-live-streaming-modified.png",Jambi Ekspres TV
+https://dukun.masuk.id/daerah/jektv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/bFLxzRJ/download-2-modified-1.png",Pontianak TV
+https://dukun.masuk.id/daerah/pontv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/mvQJpgt/unnamed-3-modified.png",Radar Lampung TV
+https://dukun.masuk.id/daerah/radar.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/7b5Hs5w/Kawanua-TV-Manado-live-streaming-modified.png",Kawanua TV Manado
+https://dukun.masuk.id/daerah/kawanuatv.m3u8
+#EXTINF:-1 group-title="SDM-DAERAH" tvg-logo="https://i.ibb.co/VYpq57v/cropped-Gj-Y9v6w-I-400x400-2-modified.png",Sriwijaya TV
+https://dukun.masuk.id/daerah/sriwijaya.m3u8
+
 ******************** SDM-MUSIC ********************
 #EXTM3U
 #EXTINF:-1 group-title="SDM-SPORT(non logo)" tvg-logo="https://i.imgur.com/MJUHFFP.png",AD Sports 1 HD AR
