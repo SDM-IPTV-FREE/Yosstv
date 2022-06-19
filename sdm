@@ -920,7 +920,7 @@ https://dukun.masuk.id/pengetahuan/kbskids.m3u8
 http://bravo.kugo.id:1935/spacetoon/udp.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.awn.com/sites/default/files/styles/original/public/image/featured/toonzkids.jpg?itok=FVmJe15S" group-title="SDM-ANAK-ANAK",TOONZ KIDS
 http://210.210.155.37/x6bnqe/s/s81/01.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Toonz_Kids
-#EXTINF:0 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOITYpX3j7YdrBcudY1WUaIfFHcpG0fHbDg&usqp=CAU'' group-title="SDM-ANAK-ANAK",LEGO CHANNEL
+#EXTINF:0 tvg-id="ext" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOITYpX3j7YdrBcudY1WUaIfFHcpG0fHbDg&usqp=CAU" group-title="SDM-ANAK-ANAK",LEGO CHANNEL
 https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SDM-ANAK-ANAK" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
