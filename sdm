@@ -14,29 +14,7 @@ http://www.youtube.com/watch?v=iDnlMcNS7u4
 http://www.youtube.com/watch?v=BOpCrPFc-UI
 
 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
-#EXTM3U url-tvg="https://bit.ly/3itZsSm"
-#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
-#EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
-#EXTM3U x-url-tvg="https://bit.ly/3itZsSm"
-#EXTM3U x-url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
-#EXTM3U x-tvg="http://epg.51zmt.top:8000/e.xml"
 
-#EXTINF:-1 group-title="Jangan lupa subscribe TiviMe Youtube",SUBSCRIBE TiviMe YOUTUBE
-https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
-
-#EXTINF:-1 group-title="Playlist Channel Premium Terbaru",SUBSCRIBE TiviMe YOUTUBE
-https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
-
-#EXTINF:-1 group-title="Kunjungi TiviMe Youtube untuk update terbaru",SUBSCRIBE TiviMe YOUTUBE
-https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
-
-#EXTINF:-1 group-title="Subscribe TiviMe Youtube",SUBSCRIBE TiviMe YOUTUBE
-https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
-
-#EXTINF:-1 group-title="Playlist editan TiviMe Youtube ini jangan diperjualbelikan",SUBSCRIBE TiviMe YOUTUBE
-https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
 
 
 @@@@@@@ TV NASIONAL INDONESIA @@@@@@@
