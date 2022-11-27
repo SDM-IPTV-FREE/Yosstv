@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLMipJG.jpg" group-title="WORLD CUP 2022",QA: beIN Sports Max 1
+http://iptvtree.net:8080/fatihduraku2022/wy5h2GVXZsXuk9cG/296991
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLMipJG.jpg" group-title="WORLD CUP 2022",QA: beIN Sports Max 2
+http://iptvtree.net:8080/fatihduraku2022/wy5h2GVXZsXuk9cG/199001
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLMipJG.jpg" group-title="WORLD CUP 2022",QA: beIN Sports Max 3
+http://iptvtree.net:8080/fatihduraku2022/wy5h2GVXZsXuk9cG/296992
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLMipJG.jpg" group-title="WORLD CUP 2022",QA: beIN Sports Max 4
+http://iptvtree.net:8080/fatihduraku2022/wy5h2GVXZsXuk9cG/13813
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLMipJG.jpg" group-title="WORLD CUP 2022",beIN SPORTS MAX 1 HD
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLMipJG.jpg" group-title="WORLD CUP 2022",beIN SPORTS MAX 2 HD
