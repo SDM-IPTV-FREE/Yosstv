@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 ,PT: SPORT TV + SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLMipJG.jpg" group-title="WORLD CUP 2022",PT: SPORT TV + SD
 http://dominoiptv.com:2082/Fauconcon/pzAXuZwFdAjy/224079
-#EXTINF:-1 ,PT: SPORT TV 1 SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLMipJG.jpg" group-title="WORLD CUP 2022",PT: SPORT TV 1 SD
 http://dominoiptv.com:2082/Fauconcon/pzAXuZwFdAjy/224081
-#EXTINF:-1 ,PT: SPORT TV + HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLMipJG.jpg" group-title="WORLD CUP 2022",PT: SPORT TV + HD
 http://dominoiptv.com:2082/Fauconcon/pzAXuZwFdAjy/224078
-#EXTINF:-1 ,PT: SPORT TV 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLMipJG.jpg" group-title="WORLD CUP 2022",PT: SPORT TV 1 HD
 http://dominoiptv.com:2082/Fauconcon/pzAXuZwFdAjy/224080
-#EXTINF:-1 ,PT: SPORT TV + FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLMipJG.jpg" group-title="WORLD CUP 2022",PT: SPORT TV + FHD
 http://dominoiptv.com:2082/Fauconcon/pzAXuZwFdAjy/159979
-#EXTINF:-1 ,PT: SPORT TV 1 FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLMipJG.jpg" group-title="WORLD CUP 2022",PT: SPORT TV 1 FHD
 http://dominoiptv.com:2082/Fauconcon/pzAXuZwFdAjy/159980
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TLMipJG.jpg" group-title="WORLD CUP 2022",QA: beIN Sports Max 1
 http://iptvtree.net:8080/fatihduraku2022/wy5h2GVXZsXuk9cG/296991
