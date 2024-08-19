@@ -6442,9 +6442,6 @@ https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Musik Pop" tvg-name="Musik Pop" tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="9.VIOS_CH | MUSIK❤️",Musik Pop
 https://play.accolamedia.id/accola/popCHANNEL | MUSIK.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://i.imgur.com/07b00He.png" group-title="9.VIOS_CH | MUSIK❤️",IMTV
-https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -6476,8 +6473,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/sting rayfestival.m3u8
 
 #EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="9.VIOS_CH | MUSIK❤️",Nagaswara Dangdut
 https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswaradensdut.m3u8
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://i.imgur.com/07b00He.png" group-title="9.VIOS_CH | MUSIK❤️",IMTV
-https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -6515,8 +6510,6 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradangdut.m3u8
 #EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="9.VIOS_CH | MUSIK❤️",Nagaswara Dangdut
 #https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswaradensdut.m3u8
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="9.VIOS_CH | MUSIK❤️",IMTV
-https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 
 
