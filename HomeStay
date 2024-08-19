@@ -2443,7 +2443,7 @@ http://e6ce69f2.kazaktelekom.com/iptv/K4NFFYMLT9ZLUX/7342/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="4.VIOS_CH | SPORTS❤️", NBA TV FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36  
 
-#EXTINF:-1 xui-id="146" tvg-id="DAZN1HD" tvg-name="DE | DAZN Bar 1 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/ DAZN1.png" grup-judul="1.VIOS_CH |.OLAHRAGA❤️",DAZN 1
+#EXTINF:-1 xui-id="146" tvg-id="DAZN1HD" tvg-name="DE | DAZN Bar 1 HD+" tvg-logo="http://boomtivi.xyz/images/logos/DE/ DAZN1.png" grup-judul="4.VIOS_CH | SPORTS❤️",DAZN 1
 #EXTINF:-1 xui-id="148" tvg-id="DAZN2HD" tvg-name="ID | DAZN Bar 2 HD+" tvg-logo="http://boomtivi.xyz/images/logos/ID/DAZN2.png" group-title="4.VIOS_CH | SPORTS❤️",DAZN 2
 
 #EXTINF:-1 xui-id="70005" tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="https://t3.ftcdn.net/jpg/02/13/23/24/360_F_213232423_6LKkQZ7uB0r9qBQVDLAflYgi6Ty7K0xH.jpg" group-title="4.VIOS_CH | SPORTS❤️",Tenis SuperSports
@@ -2476,7 +2476,7 @@ http://iptvtree.net:8080/paulthom01/fb97ea32/264
 #EXTINF:-1 grup-judul="4.VIOS_CH | SPORTS❤️" tvg-id="" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/logo-olahraga-golf-vektor-gratis.jpg",Movistar Golf
 http://iptvtree.net:8080/F14995/a84c0963/1142
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="1.VIOS_CH | OLAHRAGA ❤️", INDOSIAR 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="4.VIOS_CH | SPORTS❤️", INDOSIAR 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="4.VIOS_CH | SPORTS❤️", MOJI 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
@@ -2626,7 +2626,7 @@ https://63b2dc7196c38.streamlock.net:1937/singkawang/myStream/chunklist_w1045338
 https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/chunklist_w2128698489.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8a/- PadjadjaranTVLogo_Baru.jpg" group-title="1.VIOS_CH |.DAERAH❤️",PJTV Bandung
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8a/- PadjadjaranTVLogo_Baru.jpg" group-title="5.VIOS_CH | DAERAH❤️",PJTV Bandung
 https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3408,13 +3408,13 @@ https://melon-live-cdn.mncnow.id/live/eds/CHANNEL | MUSICChannel/sa_dash_vmx/CHA
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://worker-little-bread-fe1e.aimiemah.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png" group-title="1.VIOS_CH | MUSIC❤️",Musik Indonesia (Cbm)
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857e04fca5017ec528dc550e98/2c1c8244c7b942fd9c00f938c745eb26.png" group-title="3.VIOS_CH | MUSIC❤️",Musik Indonesia (Cbm)
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
-#EXTINF:-1 tvg-id="Musik Indonesia" tvg-logo="https://i.imgur.com/2hpyTyO.png" group-title="1.VIOS_CH | MUSIC❤️",Musik Indonesia (India)
+#EXTINF:-1 tvg-id="Musik Indonesia" tvg-logo="https://i.imgur.com/2hpyTyO.png" group-title="3.VIOS_CH | MUSIC❤️",Musik Indonesia (India)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="1.VIOS_CH | MUSIC❤️" tvg-logo="",VH1
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="3.VIOS_CH | MUSIC❤️" tvg-logo="",VH1
 http://170.254.18.106/VH1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="9.VIOS_CH | MUSIK❤️" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a7d0a511226fce3ea3842a91056762d9.png",SEKARANG 70
@@ -3440,9 +3440,9 @@ https://r.mjh.nz/PlutoTV/65a6939b4a10d800085cee92-alt.m3u8
 https://r.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
 #EXTINF:-1 saluran-id="pluto-5d14fdb8ca91eedee1633117" tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" tvg-chno="4770" grup-judul="9.VIOS_CH | MUSIK❤️", MTV Spankin' Baru
 https://r.mjh.nz/PlutoTV/5d14fdb8ca91eedee1633117-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5d14fd1a252d35decbc4080c" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" tvg-chno="4780" group-title="1.VIOS_CH | MUSIC❤️", MTV Pop Terbesar
+#EXTINF:-1 channel-id="pluto-5d14fd1a252d35decbc4080c" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" tvg-chno="4780" group-title="3.VIOS_CH | MUSIC❤️", MTV Pop Terbesar
 https://r.mjh.nz/PlutoTV/5d14fd1a252d35decbc4080c-alt.m3u8
-#EXTINF:-1 group-title="1.VIOS_CH | MUSIC❤️" tvg-id="mtv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.svg", MTV Pop Jepang Terbesar
+#EXTINF:-1 group-title="3.VIOS_CH | MUSIC❤️" tvg-id="mtv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.svg", MTV Pop Jepang Terbesar
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 channel-id="pluto-5d4af2a24f1c5ab2d298776b" tvg-id="5d4af2a24f1c5ab2d298776b" tvg-logo="https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png" tvg-chno="857" group-title="9.VIOS_CH | MUSIK❤️", SALURAN TV Pluto | MUSIK
 https://r.mjh.nz/PlutoTV/5d4af2a24f1c5ab2d298776b-alt.m3u8
@@ -3459,7 +3459,7 @@ https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
 #EXTINF:-1 id-saluran="samsung-USBD3300008DG" id-tvg="USBD3300008DG" id-tvg="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300008DG_20231024T231916SQUARE.png_20231024231917.png" tvg-chno="1512" tjudul-grup="9.VIOS_CH | MUSIK❤️", XITE Hanya Cinta
 https://i.mjh.nz/SamsungTVPlus/USBD3300008DG.m3u8
-#EXTINF:-1 channel-id="samsung-USBD350003932" tvg-id="USBD350003932" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240401T235814SQUARE.png" tvg-chno="1513" group-title="1.VIOS_CH | MUSIC❤️", XITE Merayakan
+#EXTINF:-1 channel-id="samsung-USBD350003932" tvg-id="USBD350003932" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240401T235814SQUARE.png" tvg-chno="1513" group-title="3.VIOS_CH | MUSIC❤️", XITE Merayakan
 https://i.mjh.nz/SamsungTVPlus/USBD350003932.m3u8
 
 #EXTINF:-1 saluran-id="samsung-USBB4400015F5" tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20230322T000025SQUARE.png_20230322000026.png" tvg-chno="1523" judul-grup="9.VIOS_CH | MUSIK❤️", Vevo 2K
@@ -3479,7 +3479,7 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8
 #EXTINF:-1 channel-id="samsung-USBD1200008GL" tvg-id="USBD1200008GL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20240401T235749SQUARE.png" tvg-chno="1533" group-title="9.VIOS_CH | MUSIK❤️", Fitur Vevo
 https://i.mjh.nz/SamsungTVPlus/USBD1200008GL.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="1.VIOS_CH | MUSIC❤️",Saluran K Pop
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="3.VIOS_CH | MUSIC❤️",Saluran K Pop
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
 #https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #https://srv1.zcast.com.br/kpoptv/kpoptv/daftar_potongan_w987955597.m3u8
@@ -3499,16 +3499,16 @@ https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Iheart90s" tvg-name="Iheart90s" tvg-logo="" judul-grup="9.VIOS_CH | MUSIK❤️", IHeart 90s
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:0 tvg-country="PL" tvg-logo="https://telewizjaCHANNEL | MUSICplus.pl/wp-content/uploads/2024/03/CHANNEL | MUSIC-Note-Logo-1-pink.png" group-title="1.VIOS_CH | MUSIC❤️",CHANNEL | MUSIC+ (1080p)
+#EXTINF:0 tvg-country="PL" tvg-logo="https://telewizjaCHANNEL | MUSICplus.pl/wp-content/uploads/2024/03/CHANNEL | MUSIC-Note-Logo-1-pink.png" group-title="3.VIOS_CH | MUSIC❤️",CHANNEL | MUSIC+ (1080p)
 https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-79/3fqc-ohua/chunklist_DVR.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="" group-title="1.VIOS_CH | MUSIC❤️",Nagaswara Dangdut
+#EXTINF:-1 tvg-logo="" group-title="3.VIOS_CH | MUSIC❤️",Nagaswara Dangdut
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswaradensdut.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.VIOS_CH | MUSIC❤️", Nagaswara Koplo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="3.VIOS_CH | MUSIC❤️", Nagaswara Koplo
 https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswarakoplo.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="1.VIOS_CH | MUSIC❤️", Nagaswara Pop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="3.VIOS_CH | MUSIC❤️", Nagaswara Pop
 https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswarapop.m3u8
 
@@ -3518,7 +3518,7 @@ https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Musik Pop" tvg-name="Musik Pop" tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="9.VIOS_CH | MUSIK❤️",Musik Pop
 https://play.accolamedia.id/accola/popCHANNEL | MUSIK.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="1.VIOS_CH | MUSIC❤️",IMTV
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="3.VIOS_CH | MUSIC❤️",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3527,7 +3527,7 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 #EXTINF:-1 group-title="9.VIOS_CH | MUSIK❤️" tvg-logo ="https://i.postimg.cc/TYSLSSyn/Music-TV.png", MUSIK TV🔻
 http://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 group-title="1.VIOS_CH | MUSIC❤️" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg", 9XM india
+#EXTINF:-1 group-title="3.VIOS_CH | MUSIC❤️" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg", 9XM india
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/playlist.m3u8
 
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="9.VIOS_CH | MUSIK❤️", KPOP
@@ -3550,11 +3550,11 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingrayjazz.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Festival%20HD-FirstMedia-Chl-344.jpg" group-title="9.VIOS_CH | MUSIK❤️",Festival Ikan Pari
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/sting rayfestival.m3u8
 
-#EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="1.VIOS_CH | MUSIC❤️", Citra Dangdut
+#EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="3.VIOS_CH | MUSIC❤️", Citra Dangdut
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradangdut.m3u8
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="1.VIOS_CH | MUSIC❤️",Nagaswara Dangdut
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="3.VIOS_CH | MUSIC❤️",Nagaswara Dangdut
 https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswaradensdut.m3u8
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="1.VIOS_CH | MUSIC❤️",IMTV
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="3.VIOS_CH | MUSIC❤️",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3563,7 +3563,7 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 #EXTINF:-1 grup-judul="9.VIOS_CH | MUSIK❤️" tvg-logo ="https://i.postimg.cc/TYSLSSyn/Music-TV.png", MUSIK TV V+
 http://melon-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
-#EXTINF:-1 group-title="1.VIOS_CH | MUSIC❤️" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg", 9XM india
+#EXTINF:-1 group-title="3.VIOS_CH | MUSIC❤️" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg", 9XM india
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3589,11 +3589,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/pla
 #EXTINF:-0 tvg-name="TV" tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="9.VIOS_CH | MUSIK❤️", KPOP2
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
-#EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="1.VIOS_CH | MUSIC❤️", Citra Dangdut
+#EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="3.VIOS_CH | MUSIC❤️", Citra Dangdut
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradangdut.m3u8
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="1.VIOS_CH | MUSIC❤️",Nagaswara Dangdut
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="3.VIOS_CH | MUSIC❤️",Nagaswara Dangdut
 #https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswaradensdut.m3u8
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="1.VIOS_CH | MUSIC❤️",IMTV
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="3.VIOS_CH | MUSIC❤️",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 
@@ -3748,7 +3748,7 @@ https://melon-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mp
 #EXTINF:-1 group-title="10.VIOS_CH | NEWS❤️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX Channel V+
 https://melon-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="https://i.postimg.cc/tJPnk4B7/beritasatu.png" group-title="1.VIOS_CH | NEWS❤️", BeritaSatu
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-name="BeritaSatu" tvg-logo="https://i.postimg.cc/tJPnk4B7/beritasatu.png" group-title="10.VIOS_CH | NEWS❤️", BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PqxLc4Sg/beritasatu-dunia.png" group-title="10.VIOS_CH | NEWS❤️",BeritaSatu Dunia
