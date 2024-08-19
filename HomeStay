@@ -1791,13 +1791,13 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 #EXTINF:-1 group-title="1.VIOS_CH | INDONESIA❤️" tvg-logo="https://i.imgur.com/07b00He.png", Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/x1jqJ5VX/cnn-id.png" group-title="1.VIOS_CH | INDONESIA❤️",CNN Indo
+#EXTINF: -1 tvg-logo="https://i.imgur.com/07b00He.png" group-title="1.VIOS_CH | INDONESIA❤️",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/07b00He.png" group-title="1.VIOS_CH | INDONESIA❤️",CNBC Indo
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/07b00He.png" group-title="1.VIOS_CH | INDONESIA❤️",Beritasatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.postimg.cc/t4JxzGFG/ntv.png" group-title="1.VIOS_CH | INDONESIA❤️",Nusantara TV
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.imgur.com/07b00He.png" group-title="1.VIOS_CH | INDONESIA❤️",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/07b00He.png" group-title="1.VIOS_CH | INDONESIA❤️",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
