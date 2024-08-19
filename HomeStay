@@ -1837,12 +1837,12 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:0 tvg-name="Citra Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png" group-title="2.VIOS_CH | MOVIES❤️",Citra Bioskop
+#EXTINF:0 tvg-name="Citra Bioskop" tvg-logo="https://i.imgur.com/07b00He.png" group-title="2.VIOS_CH | MOVIES❤️",Citra Bioskop
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=636974726164616e6764757430303030:65232737d3a5e4e14dbfd3d96805d30b
 https://cdn08jtedge.indihometv.com/dassdvr/130/citradangdut/manifest.mpd  
 
-#EXTINF:0 tvg-name="Citra Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="2.VIOS_CH | MOVIES❤️",Citra Drama
+#EXTINF:0 tvg-name="Citra Drama" tvg-logo="https://i.imgur.com/07b00He.png" group-title="2.VIOS_CH | MOVIES❤️",Citra Drama
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
 #EXTINF:-1 tvg-id="Bioskop Indonesia" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" group-title="2.VIOS_CH | MOVIES❤️" group-logo="https://akcdn.detik.net.id/visual/2023/11/09/cubmu-dari-transvision_169.png" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be26e4325724/20200924032733.png",Bioskop Indonesia
@@ -2059,7 +2059,7 @@ http://210.210.155.37/uq2663/h/h18/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="2.VIOS_CH | MOVIES❤️" tvg-id="keluargaku.id" tvg-logo="https://subsystem.indihome.co.id/cms-ih/aset/uploads /daftar_saluran/UPLOAD-1633000350-.png",Saluran Keluargaku V+
+#EXTINF:-1 group-title="2.VIOS_CH | MOVIES❤️" tvg-id="keluargaku.id" tvg-logo="https://i.imgur.com/07b00He.png",Saluran Keluargaku V+
 https://melon-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2195,13 +2195,13 @@ http://melon-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SALURAN SEPAKBOLA" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="4.VIOS_CH | SPORTS❤️",SALURAN SEPAKBOLA ( V+)
+#EXTINF:-1 tvg-name="SALURAN SEPAKBOLA" tvg-logo="https://i.imgur.com/07b00He.png" group-title="4.VIOS_CH | SPORTS❤️",SALURAN SEPAKBOLA ( V+)
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="SALURAN SEPAKBOLA" tvg-logo="https://hometv.pw/logo/sports/saluran_sepakbola.jpg" group-title="4.VIOS_CH | SPORTS❤️",SALURAN SEPAKBOLA B (V+)
+#EXTINF:-1 tvg-name="SALURAN SEPAKBOLA" tvg-logo="https://i.imgur.com/07b00He.png" group-title="4.VIOS_CH | SPORTS❤️",SALURAN SEPAKBOLA B (V+)
 https://liveaneviadev.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #EXTINF:-1 tvg-id="Saluran Sepak Bola HD - [Saluran 420].id" tvg-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png" grup -title="4.VIOS_CH | SPORTS❤️, SALURAN SEPAKBOLA
@@ -2279,17 +2279,17 @@ http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103625
 #EXTVLCOPT:caching-jaringan=1000
 http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103626
 
-#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2023/06/Logo-baru-La-liga-merah.png" group-title="4.VIOS_CH | SPORTS❤️",Sprsports Laliga
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07b00He.png" group-title="4.VIOS_CH | SPORTS❤️",Sprsports Laliga
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/515.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b2/Sukan_RTM_1_April.png/200px-Sukan_RTM_1_April.png" group-title="4.VIOS_CH | SPORTS❤️",RTM Sukan
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07b00He.png" group-title="4.VIOS_CH | SPORTS❤️",RTM Sukan
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/segment_ua194x9ch_ctvideo_cfm4s_ridp0va0br4500000_cs87121008000_mpd.m4s
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="4.VIOS_CH | SPORTS❤️",TV OKEY (AFF)
 
-#EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-mantan-juara-wwe-mengatakan-wwe-lebih-fisik-daripada-ufc.png" grup- title="4.VIOS_CH | SPORTS❤️", Unifi (UFC langsung)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07b00He.png" grup- title="4.VIOS_CH | SPORTS❤️", Unifi (UFC langsung)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
@@ -2461,15 +2461,15 @@ https://jmp2.uk/SamsungTVPlus/USBC600001QL.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/golf-sport-logo-free-vector.jpg" group-title="4.VIOS_CH | SPORTS❤️", Golf Olahraga Super
 http://toh-users.xyz:8080/42204120/16250164/857258
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/logo-olahraga-golf-vektor-gratis.jpg" group-title="4.VIOS_CH | SPORTS❤️", Saluran Golf NBC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07b00He.png" group-title="4.VIOS_CH | SPORTS❤️", Saluran Golf NBC
 http://iptvtree.net:8080/F14995/a84c0963/279613
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/logo-olahraga-golf-vektor-gratis.jpg" group-title="4.VIOS_CH | SPORTS❤️", NBC Golf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07b00He.png" group-title="4.VIOS_CH | SPORTS❤️", NBC Golf
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/85
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/logo-olahraga-golf-vektor-gratis.jpg" group-title="4.VIOS_CH | SPORTS❤️", Sky Sports Golf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07b00He.png" group-title="4.VIOS_CH | SPORTS❤️", Sky Sports Golf
 http://iptvtree.net:8080/paulthom01/fb97ea32/264
-#EXTINF:-1 group-title="4.VIOS_CH | SPORTS❤️" tvg-id="" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/007/688/918/small/logo-olahraga-golf-vektor-gratis.jpg",Movistar Golf
+#EXTINF:-1 group-title="4.VIOS_CH | SPORTS❤️" tvg-id="" tvg-logo="https://i.imgur.com/07b00He.png",Movistar Golf
 http://iptvtree.net:8080/F14995/a84c0963/1142
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="4.VIOS_CH | SPORTS❤️", INDOSIAR 1
@@ -2550,7 +2550,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/chunklist_w912292865.m3u
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="5.VIOS_CH | DAERAH❤️",TV Tabalong
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/07b00He.png" group-title="5.VIOS_CH | DAERAH❤️",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/80.0.3987.100 Safari/537.36
@@ -2622,7 +2622,7 @@ https://63b2dc7196c38.streamlock.net:1937/singkawang/myStream/chunklist_w1045338
 https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/chunklist_w2128698489.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8a/- PadjadjaranTVLogo_Baru.jpg" group-title="5.VIOS_CH | DAERAH❤️",PJTV Bandung
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/07b00He.png" group-title="5.VIOS_CH | DAERAH❤️",PJTV Bandung
 https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2688,7 +2688,7 @@ https://liveaneviadev.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="5.VIOS_CH | DAERAH❤️",TV Tabalong
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/07b00He.png" group-title="5.VIOS_CH | DAERAH❤️",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2778,7 +2778,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/chunklist_w2128698489.m3
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8a/- PadjadjaranTVLogo_Baru.jpg" group-title="5.VIOS_CH | DAERAH❤️",PJTV Bandung
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/07b00He.png" group-title="5.VIOS_CH | DAERAH❤️",PJTV Bandung
 https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 
 
@@ -3099,7 +3099,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="7.VIOS_CH | KIDS❤️" tvg-logo="https://i.postimg.cc/QNwbBzzC/Anak-Bahagia.png", Anak-Anak Bahagia JR
 #https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="https://imageio.forbes.com/specials-images/imageserve/5f9b27a46a9216a1a3c8df3b/Blue-Moonbug-Kids-logo-dengan-berbagai-pertunjukan-mereka- -karakter-di-latar-belakang/960x0.jpg" group-title="7.VIOS_CH | KIDS❤️" tvg-logo="",Moonbug
+#EXTINF:-1 tvg-id="" tvg-name="https://i.imgur.com/07b00He.png" group-title="7.VIOS_CH | KIDS❤️" tvg-logo="",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="7.VIOS_CH | KIDS❤️" tvg-logo="https://i.postimg.cc/TP0yx8rw/babyfirst.png", Bayi Pertama
@@ -3358,25 +3358,6 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 #EXTINF:-1 group-title="8.VIOS_CH | RELIGI❤️" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/ed/TV9_Nusantara.png", TV9 V+
 http://melon-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="8.VIOS_CH | RELIGI❤️" grup-judul="8.VIOS_CH | RELIGI❤️" tvg-logo="https://www.dropbox.com/s/o61ukgw2t61yq86/lifetv. png?dl=1", KEHIDUPAN ✝️ V+
-http://melon-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="8.VIOS_CH | RELIGI❤️" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/05/EWTN_logo.svg/450px-EWTN_logo.svg.png", EWTN ✝️ V+
-http://melon-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="8.VIOS_CH | RELIGI❤️" tvg-logo="https://www.dropbox.com/s/zkei3ublal4pq06/remofed21.jpg?dl=1", REFORMED 21 ✝️ V+
-http://melon-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
-
-
 
 
 
@@ -3386,7 +3367,7 @@ http://melon-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://hometv.pw/logo/CHANNEL | MUSIK/mtv_live.png" group-title="9.VIOS_CH | MUSIK❤️",MTV LIVE (V+)
+#EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://i.imgur.com/07b00He.png" group-title="9.VIOS_CH | MUSIK❤️",MTV LIVE (V+)
 https://melon-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 #https://melon-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
@@ -3413,9 +3394,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="9.VIOS_CH | MUSIK❤️" tvg-logo="",VH1
 http://170.254.18.106/VH1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="9.VIOS_CH | MUSIK❤️" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a7d0a511226fce3ea3842a91056762d9.png",SEKARANG 70
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="9.VIOS_CH | MUSIK❤️" tvg-logo="https://i.imgur.com/07b00He.png",SEKARANG 70
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="9.VIOS_CH | MUSIK❤️" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7330c92fcbc8b452e64e160cf048cc21.png",SEKARANG 80
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="9.VIOS_CH | MUSIK❤️" tvg-logo="https://i.imgur.com/07b00He.png",SEKARANG 80
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-nama="" tvg-id="" judul-grup="9.VIOS_CH | MUSIK❤️" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nowrock.png",NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
@@ -3438,7 +3419,7 @@ https://r.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
 https://r.mjh.nz/PlutoTV/5d14fdb8ca91eedee1633117-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5d14fd1a252d35decbc4080c" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" tvg-chno="4780" group-title="9.VIOS_CH | MUSIK❤️", MTV Pop Terbesar
 https://r.mjh.nz/PlutoTV/5d14fd1a252d35decbc4080c-alt.m3u8
-#EXTINF:-1 group-title="9.VIOS_CH | MUSIK❤️" tvg-id="mtv" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.svg", MTV Pop Jepang Terbesar
+#EXTINF:-1 group-title="9.VIOS_CH | MUSIK❤️" tvg-id="mtv" tvg-logo="https://i.imgur.com/07b00He.png", MTV Pop Jepang Terbesar
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
 #EXTINF:-1 channel-id="pluto-5d4af2a24f1c5ab2d298776b" tvg-id="5d4af2a24f1c5ab2d298776b" tvg-logo="https://images.pluto.tv/channels/5d4af2a24f1c5ab2d298776b/colorLogoPNG.png" tvg-chno="857" group-title="9.VIOS_CH | MUSIK❤️", SALURAN TV Pluto | MUSIK
 https://r.mjh.nz/PlutoTV/5d4af2a24f1c5ab2d298776b-alt.m3u8
@@ -3486,7 +3467,7 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FSiqLLSWQAIxK78?format=png&name=240x240" group-title="9.VIOS_CH | MUSIK❤️",K Pop
 https://marine2.miplay.cl/kpop/playlist.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" group-title="9.VIOS_CH | MUSIK❤️" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retroCHANNEL | MUSIK.png",Retro tv 🇨🇿
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="9.VIOS_CH | MUSIK❤️" tvg-logo="https://i.imgur.com/07b00He.png",Retro tv 🇨🇿
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
 
 #EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="" judul-grup="9.VIOS_CH | MUSIK❤️", IHeart 80s
@@ -3495,7 +3476,7 @@ https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Iheart90s" tvg-name="Iheart90s" tvg-logo="" judul-grup="9.VIOS_CH | MUSIK❤️", IHeart 90s
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:0 tvg-country="PL" tvg-logo="https://telewizjaCHANNEL | MUSICplus.pl/wp-content/uploads/2024/03/CHANNEL | MUSIC-Note-Logo-1-pink.png" group-title="9.VIOS_CH | MUSIK❤️",CHANNEL | MUSIC+ (1080p)
+#EXTINF:0 tvg-country="PL" tvg-logo="https://i.imgur.com/07b00He.png" group-title="9.VIOS_CH | MUSIK❤️",CHANNEL | MUSIC+ (1080p)
 https://hugh.cdn.rumble.cloud/live/4gf18j5s/slot-79/3fqc-ohua/chunklist_DVR.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="" group-title="9.VIOS_CH | MUSIK❤️",Nagaswara Dangdut
@@ -3520,7 +3501,7 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="9.VIOS_CH | MUSIK❤️" tvg-logo ="https://i.postimg.cc/TYSLSSyn/Music-TV.png", MUSIK TV🔻
+#EXTINF:-1 group-title="9.VIOS_CH | MUSIK❤️" tvg-logo ="https://i.imgur.com/07b00He.png", MUSIK TV🔻
 http://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:-1 group-title="9.VIOS_CH | MUSIK❤️" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg", 9XM india
@@ -3546,11 +3527,9 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingrayjazz.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Festival%20HD-FirstMedia-Chl-344.jpg" group-title="9.VIOS_CH | MUSIK❤️",Festival Ikan Pari
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/sting rayfestival.m3u8
 
-#EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="9.VIOS_CH | MUSIK❤️", Citra Dangdut
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/citradangdut.m3u8
 #EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="9.VIOS_CH | MUSIK❤️",Nagaswara Dangdut
 https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswaradensdut.m3u8
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="9.VIOS_CH | MUSIK❤️",IMTV
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="https://i.imgur.com/07b00He.png" group-title="9.VIOS_CH | MUSIK❤️",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3571,7 +3550,7 @@ https://melon-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="MTV 90-an - [Saluran 149].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/a8d4099d/7ed4_r32.jpg" group-title="9.VIOS_CH | MUSIK❤️",MTV 90-an
+#EXTINF:-1 tvg-id="MTV 90-an - [Saluran 149].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/07b00He.png" group-title="9.VIOS_CH | MUSIK❤️",MTV 90-an
 https://melon-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 
 #EXTINF:-1 tvg-id="ClubbingTV.fr" grup-judul="9.VIOS_CH | MUSIK❤️" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle-150x150-1.png",Clubbing tv
