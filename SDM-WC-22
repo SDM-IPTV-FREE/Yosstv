@@ -3534,7 +3534,7 @@ http://91.224.190.66:4263/bysid/26624
 
 ****************************************************    VIOS_CH | TRANSVISIONER     *****************************************************************
 
-#EXTINF:-1 group-logo="https://i.imgur.com/xpYw4gO.jpg",
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjCy6rzJ/TVRI.png" group-title="2.CH | TRANSVISIONER❤️",TVRI
 #KODIPROP:inputstreamaddon=inputstream.adaptif
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
