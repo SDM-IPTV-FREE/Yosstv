@@ -1996,6 +1996,8 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a
 
 
 ****************************************************   VIOS_CH | KIDS     *****************************************************************
+
+#EXTINF:-1 group-logo="https://i.imgur.com/xpYw4gO.jpg",
 #EXTINF:-1 group-title="1.VIOS_CH | KIDS❤️" tvg-id="Dreamworks.id" tvg-logo="https://iptv.urfan.web.id/logo/dreamworks.png",Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
