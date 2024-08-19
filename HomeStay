@@ -1471,7 +1471,7 @@ https://yt.urfan.web.id/stream/UC1-ATnDVEwKT6-0aEeJ2ibA/master.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch115.m3u8
 
-#EXTINF:-1 group-title="1.VIOS_CH | INDONESIA❤️" tvg-id="nusantaratv.id" tvg-logo="https://iptv.urfan.web.id/logo/nusantaratv.png",Nusantara TV
+#EXTINF:-1 group-title="1.VIOS_CH | INDONESIA❤️" tvg-id="nusantaratv.id" tvg-logo="https://i.imgur.com/07b00He.png",Nusantara TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
@@ -1612,7 +1612,7 @@ https://flv.intechmedia.net/live/ch106.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="1.VIOS_CH | INDONESIA❤️" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxw6WRd9xYbW32DdRtj_Ss1zxwzbZdqoe_mECGfdY7kdD56GphocBouJKs3yAUt8yg1rWI-0eHCgCdYYX8A QOqH0- Hz3egnZ_Tc5tiGl223c5a6DLSYpuumq5satujOP_0Y7Dyron_DPfs15Rw_E3Oe9UJ3Fvv2sc8YTv3gqig7p3RboYEfkOG4aV5QbE", MNCTV V+
+#EXTINF:-1 group-title="1.VIOS_CH | INDONESIA❤️" tvg-logo="https://i.imgur.com/07b00He.png", MNCTV V+
 https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1766,42 +1766,42 @@ http://melon-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #EXTINF:-1 group-title="1.VIOS_CH | INDONESIA❤️" tvg-logo="https://github.com/Qingtvnew/test/raw/main/OKTV.png", OK TV V+
 http://melon-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/ZKbxk3FZ/RCTI.png" group-title="1.VIOS_CH | INDONESIA❤️", RCTI ( RCTI+)
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/07b00He.png" group-title="1.VIOS_CH | INDONESIA❤️", RCTI ( RCTI+)
 #EXTVLCOPT:http-agen-pengguna=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kggxhb3Z/MNCTV.png" group-title="1.VIOS_CH | INDONESIA❤️", MNCTV (rcti+)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07b00He.png" group-title="1.VIOS_CH | INDONESIA❤️", MNCTV (rcti+)
 #EXTVLCOPT:http-agen-pengguna=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zMnFjDX/GTV-1.png" group-title="1.VIOS_CH | INDONESIA❤️", GTV (rcti+)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07b00He.png" group-title="1.VIOS_CH | INDONESIA❤️", GTV (rcti+)
 #EXTVLCOPT:http-agen-pengguna=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbXY0KHm/inews.png" group-title="1.VIOS_CH | INDONESIA❤️", INEWS (rcti+)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07b00He.png" group-title="1.VIOS_CH | INDONESIA❤️", INEWS (rcti+)
 #EXTVLCOPT:http-agen-pengguna=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR4TC0TX/trans-tv.png" group-title="1.VIOS_CH | INDONESIA❤️",Trans TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07b00He.png" group-title="1.VIOS_CH | INDONESIA❤️",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
-#EXTINF:-1 group-title="1.VIOS_CH | INDONESIA❤️" tvg-logo="https://i.postimg.cc/zv6Fn5hG/trans7.png", Trans7
+#EXTINF:-1 group-title="1.VIOS_CH | INDONESIA❤️" tvg-logo="https://i.imgur.com/07b00He.png", Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/x1jqJ5VX/cnn-id.png" group-title="1.VIOS_CH | INDONESIA❤️",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/9FZNRPYH/cnbc-id.png" group-title="1.VIOS_CH | INDONESIA❤️",CNBC Indo
+#EXTINF: -1 tvg-logo="https://i.imgur.com/07b00He.png" group-title="1.VIOS_CH | INDONESIA❤️",CNBC Indo
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/tJPnk4B7/beritasatu.png" group-title="1.VIOS_CH | INDONESIA❤️",Beritasatu
+#EXTINF: -1 tvg-logo="https://i.imgur.com/07b00He.png" group-title="1.VIOS_CH | INDONESIA❤️",Beritasatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://i.postimg.cc/t4JxzGFG/ntv.png" group-title="1.VIOS_CH | INDONESIA❤️",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/L8Cs9Vc2/inspira-tv1.png" group-title="1.VIOS_CH | INDONESIA❤️",Inspira TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/07b00He.png" group-title="1.VIOS_CH | INDONESIA❤️",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0j96MT93/magna.png" group-title="1.VIOS_CH | INDONESIA❤️",MAGNA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/07b00He.png" group-title="1.VIOS_CH | INDONESIA❤️",MAGNA
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3rCzggDV/Moji.png" group-title="1.VIOS_CH | INDONESIA❤️", Moji
