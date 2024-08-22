@@ -22206,12 +22206,11 @@ http://63b2dc7196c38.streamlock.net:1935/ch25/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbtneTB.png" group-title=".Vios-Ch | DAERAH",Tegar TV Lampung
 http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
  
- 
-
-################################       MOVIES        ################################################
 
 
-#EXTINF:-1 group-logo="https://i.imgur.com/miJIOvX.png",
+**************************************************** 2.VIOS_CH | FILM *****************************************************************
+
+#EXTINF:-1 group-logo="https://i.imgur.com/07b00He.png",
 #EXTINF:0 tvg-id="Animax.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROz0htVZPk71-LA5yNlSrd9DSjU0GIfZkYNA&usqp=CAU" group-title=".Vios-Ch | MOVIES",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -22248,7 +22247,7 @@ https://cdnjkt4.transvision.co.id:1003/live/master/4/4028c6856c3db2cc016cf0b533f
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
-#EXTINF:0 grup-judul=".Vios-Ch | MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png",Cinemachi Action
+#EXTINF:0 group-title=".Vios-Ch | MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png",Cinemachi Action
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -22266,7 +22265,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:0 grup-judul=".Vios-Ch | MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",Cinemachi Kids
+#EXTINF:0 group-title=".Vios-Ch | MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",Cinemachi Kids
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -22565,6 +22564,17 @@ http://melon-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title=".Vios-Ch | MOVIES" tvg-logo="https://github.com/Qingtvnew/test/raw/main/HITSMOVIES.png", Film HITS V+
 http://melon-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+
+
+
+
+
+
+
+
+
+################################       MOVIES        ################################################
 
 
 
