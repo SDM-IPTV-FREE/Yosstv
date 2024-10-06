@@ -2288,7 +2288,7 @@
 #EXTM3U
 
 *****************  0.Ch | HANDAKO   ****************
-
+#EXTINF:-1 group-logo="https://i.imgur.com/twkroaN.jpg",
 #EXTINF:-1 group-title="0.Ch | HANDAKO❤️" tvg-logo="https://i.imgur.com/twkroaN.jpg", Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #http://vod.linknetott.swiftcontent.com/Konten/HLS/Langsung/Saluran(ch31)/index.m3u8
