@@ -6635,6 +6635,7 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
 
+
 # ██ ██ █ ██ ██ █ █▀█ █ █▀█ █ ▀█ ▀█
 # █ ▀ █ █ █ ▀ █ █ █▀▀ █ █▀▀ █ █▄ █▄
 # ――――――――――――――――――――――――――――――――――――――――――――――
@@ -7244,7 +7245,7 @@ https://stream.hownetwork.xyz/xxx/national-anthem-2024-webdl_X_a54f05c2/22/480.m
 #EXTINF:-1 type="movie" group-title="MOVIES  2024" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/08/film-the-union-2024-lk21-d21.jpg.webp",The Union 2024
 https://stream.hownetwork.xyz/xxx/the-union-2024-webdl_X_f34382cb/22/480.m3u8
 
-#EXTINF:-1 group-title="MOVIES  2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhMTBlN2QtMWJmOS00OTliLWEwZTUtZjI3NWM2NjdmZjI3XkEyXkFqcGc@._V1_SX300.jpg",My Spy: The Eternal City 2024
+#EXTINF:-1 type="movie" group-title="MOVIES  2024" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjVhMTBlN2QtMWJmOS00OTliLWEwZTUtZjI3NWM2NjdmZjI3XkEyXkFqcGc@._V1_SX300.jpg",My Spy: The Eternal City 2024
 https://storage.dewanonton.online/hls/829b79c8-b6c6-496d-9d58-2a695ea71756.mp4/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -7879,6 +7880,8 @@ https://stream.hownetwork.xyz/xxx/breathe-2024-bluray_X_f4eff792/20/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" group-title="MOVIES  2024" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/02/film-air-force-one-down-2024-lk21-d21.jpg.webp",Air Force One Down 2024
 https://stream.hownetwork.xyz/xxx/air-force-one-down-2024-webdl_X_ea0f1fc1/20/480.m3u8
+
+
 
 
 
