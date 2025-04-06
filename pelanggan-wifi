@@ -11102,6 +11102,86 @@ https://hls2.dewanonton.online/vultr/yPALSHkaNQXht/hls-stream.m3u8
 https://cdn7iv.diebutx.com/ownhls/2020/28cdfc9db9535519cd8fe994f9c70bbb/720p/index.m3u8
 
 
+//========================================================================
+//Collected by @mimipipi22 menampilkan playlist >>> MOVIES INT
+//========================================================================
+
+
+
+
+#EXTINF:-1 tvg-id="5e8254118601b80007b4b7ae" tvg-name="" group-title="FILM ViosNet" tvg-logo="https://i.imgur.com/tuHvhlW.jpeg",AMC 🇺🇸 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-name="" group-title="FILM ViosNet" tvg-logo="https://i.imgur.com/tuHvhlW.jpeg",AMC Thrillers 🇺🇸
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet", Pluto TV Action 1
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet", Pluto TV Action 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet",Hallmark Movies & More 🇺🇸
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f02-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c3402af-f54f-4488-b74f-62b1998013e4&serverSideAds=false
+#https://jmp2.uk/SamsungTVPlus/USBD270001633.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet",IFC Films Picks 🇺🇸
+https://423a4f21fb8d45a4a7e4bd304a14e2f0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_IFCFilmsPicks/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet",Action Hollywood Movies 🇺🇸
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet",ION Mystery 🇺🇸
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet",ION Plus 🇺🇸
+https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet",ION 🇺🇸
+https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet",MyTime Movie
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet",MovieFone 🇺🇸
+https://connection3-ent-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet",MovieDome 🇺🇸
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-tcl/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet",Sphere by Lionsgate 🇺🇸
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet", Run Time Latino
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet", Run Time English
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2648
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet", Run Time France
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet", Run Time Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet", Run Time Cine y Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet", Run Time Films
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet", Run Time Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet", Run Time Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet", Run Time Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet", Run Time Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet", Run Time Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet", Canela Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet", Canela Novelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet", Canela Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet", Canela Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuHvhlW.jpeg" group-title="FILM ViosNet",tvN3
+https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p8ea370fl7r4f-ssai-prd/82f296fd_2916_45b7_b799_525a4226957a/hls/playlist.m3u8
 
 
 #EXTM3U billed-msg="⛔ Playlist Ini Hanya Untuk Pelanggan Viosnet ⛔"
