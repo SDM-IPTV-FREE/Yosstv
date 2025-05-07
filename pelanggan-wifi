@@ -3097,13 +3097,13 @@ https://tet.cett.my.id/https://linearjitp-playback.astro.com.my/dash-wv/linear/2
 EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-chno="2190" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19729619_ico.png?ts=1659723741" group-title="1.2 ❤️Vios-SPORT❤️",beIN SPORTS XTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein1.png" group-title="1.2 ❤️Vios-SPORT❤️",BEIN SPORTS 1 TH
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 https://ctrl.laotv.la/live/Bsport1/index.m3u8 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
 EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein2.png" group-title="1.2 ❤️Vios-SPORT❤️",BEIN SPORTS 2 TH
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
@@ -3158,19 +3158,19 @@ https://cors-proxy.cooks.fyi/http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://cors-proxy.cooks.fyi/http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 group-title="1.2 ❤️Vios-SPORT❤️" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein1.png",Bein Sport 1
+EXTINF:-1 group-title="1.2 ❤️Vios-SPORT❤️" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein1.png",Bein Sport 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
-#EXTINF:-1 group-title="1.2 ❤️Vios-SPORT❤️" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein2.png",Bein Sport 2
+EXTINF:-1 group-title="1.2 ❤️Vios-SPORT❤️" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein2.png",Bein Sport 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 
-#EXTINF:-1 group-title="1.2 ❤️Vios-SPORT❤️" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",Bein Sport 3
+EXTINF:-1 group-title="1.2 ❤️Vios-SPORT❤️" tvg-id="eleven.pt" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",Bein Sport 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
@@ -3213,35 +3213,35 @@ EXTINF:-1 group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubu
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="1.2 ❤️Vios-SPORT❤️",LIVE 1
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="1.2 ❤️Vios-SPORT❤️",LIVE 1
 https://raw.githubusercontent.com/Iqbalbala/INTEKTV/refs/heads/main/Live.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="1.2 ❤️Vios-SPORT❤️",LIVE 2
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="1.2 ❤️Vios-SPORT❤️",LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://raw.githubusercontent.com/Iqbalbala/INTEKTV/refs/heads/main/Live2.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein1.png", beIN Sports 1 
+EXTINF:-1 tvg-id="beINSports" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein1.png", beIN Sports 1 
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports2" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein2.png", beIN Sports 2 
+EXTINF:-1 tvg-id="beINSports2" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein2.png", beIN Sports 2 
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports3" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png", beIN Sports 3 
+EXTINF:-1 tvg-id="beINSports3" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png", beIN Sports 3 
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports4" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein4.png", beIN Sports 4
+EXTINF:-1 tvg-id="beINSports4" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein4.png", beIN Sports 4
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3253,7 +3253,7 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports5" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png", beIN Sports 5
+EXTINF:-1 tvg-id="beINSports5" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png", beIN Sports 5
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/5
@@ -3263,10 +3263,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 
 
 #EXTINF:-1 tvg-id="beINSports5" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",beIN_English_1_HD
-http://93.123.72.138:8000/play/a022
+http://93.123.72.138:8000/play/a010
 
 #EXTINF:-1 tvg-id="beINSports5" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",beIN_English_2_HD 
-http://93.123.72.138:8000/play/a023
+http://93.123.72.138:8000/play/a011
 
 
 
