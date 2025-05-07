@@ -3290,11 +3290,11 @@ http://93.123.72.138:8000/play/a00v
 #EXTINF:-1 tvg-id="beINSports5" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",beIN_9_SD 
 http://93.123.72.138:8000/play/a00w
 
-#EXTINF:-1 tvg-id="" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="" ,TNT-1
+#EXTINF:-1 tvg-id="beINSports5" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",TNT-1
 http://m.devtv.biz/play/live.php?mac=00:1A:79:0B:Ba:9F&stream=38387&extension=ts
-#EXTINF:-1 tvg-id="" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="",TNT-2
+#EXTINF:-1 tvg-id="beINSports5" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",TNT-2
 http://m.devtv.biz/play/live.php?mac=00:1A:79:0B:Ba:9F&stream=38381&extension=ts
-#EXTINF:-1 tvg-id="" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="",TNT-3
+#EXTINF:-1 tvg-id="beINSports5" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",TNT-3
 http://m.devtv.biz/play/live.php?mac=00:1A:79:0B:Ba:9F&stream=38380&extension=ts
 
 
