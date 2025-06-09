@@ -3211,146 +3211,10 @@ EXTINF:-1 group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubu
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="1.2 ❤️Vios-SPORT❤️",LIVE 1
-https://raw.githubusercontent.com/Iqbalbala/INTEKTV/refs/heads/main/Live.m3u8
-
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="1.2 ❤️Vios-SPORT❤️",LIVE 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://raw.githubusercontent.com/Iqbalbala/INTEKTV/refs/heads/main/Live2.m3u8
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-EXTINF:-1 tvg-id="beINSports" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein1.png", beIN Sports 1 
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-EXTINF:-1 tvg-id="beINSports2" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein2.png", beIN Sports 2 
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-EXTINF:-1 tvg-id="beINSports3" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png", beIN Sports 3 
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-EXTINF:-1 tvg-id="beINSports4" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein4.png", beIN Sports 4
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beINSports4" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png", beIN Sports 4
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
-
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-EXTINF:-1 tvg-id="beINSports5" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png", beIN Sports 5
-https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
-
 #EXTVLCOPT:http-referrer=https://www.dens.tv/5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/98.jpg" group-title="1.2 ❤️Vios-SPORT❤️",Motorvision+ (DNS)
 https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
-
-
-#EXTINF:-1 tvg-id="beINSports5" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",beIN_English_1_HD
-http://93.123.72.138:8000/play/a010
-
-#EXTINF:-1 tvg-id="beINSports5" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",beIN_English_2_HD 
-http://93.123.72.138:8000/play/a011
-
-
-
-
-#EXTM3U
-#EXTM3U
-#EXTINF:0 CUID="2" tvg-name="⚽ beIN Newsᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN Newsᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/496.ts
-#EXTINF:0 CUID="3" tvg-name="⚽ beIN Sportsᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN Sportsᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/497.ts
-#EXTINF:0 CUID="4" tvg-name="⚽ beIN SPORTS 1ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN SPORTS 1ᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/498.ts
-#EXTINF:0 CUID="5" tvg-name="⚽ beIN SPORTS 2ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN SPORTS 2ᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/499.ts
-#EXTINF:0 CUID="6" tvg-name="⚽ beIN SPORTS 3ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN SPORTS 3ᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/500.ts
-#EXTINF:0 CUID="7" tvg-name="⚽ beIN SPORTS 4ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN SPORTS 4ᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/501.ts
-#EXTINF:0 CUID="8" tvg-name="⚽ beIN SPORTS 5ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN SPORTS 5ᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/502.ts
-#EXTINF:0 CUID="9" tvg-name="⚽ beIN SPORTS 6ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN SPORTS 6ᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/503.ts
-#EXTINF:0 CUID="10" tvg-name="⚽ beIN SPORTS 7ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN SPORTS 7ᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/504.ts
-#EXTINF:0 CUID="11" tvg-name="⚽ beIN SPORTS 8ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN SPORTS 8ᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/505.ts
-#EXTINF:0 CUID="12" tvg-name="⚽ beIN SPORTS 9ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN SPORTS 9ᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/506.ts
-#EXTINF:0 CUID="13" tvg-name="⚽ beIN XTRA 1ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN XTRA 1ᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/507.ts
-#EXTINF:0 CUID="14" tvg-name="⚽ beIN XTRA 2ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN XTRA 2ᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/508.ts
-#EXTINF:0 CUID="15" tvg-name="⚽ beIN XTRA 3ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN XTRA 3ᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/509.ts
-#EXTINF:0 CUID="16" tvg-name="⚽ beIN NBAᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN NBAᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/510.ts
-#EXTINF:0 CUID="17" tvg-name="⚽ beIN AFC ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN AFC ᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/511.ts
-#EXTINF:0 CUID="18" tvg-name="⚽ beIN AFC 1 ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN AFC 1 ᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/512.ts
-#EXTINF:0 CUID="19" tvg-name="⚽ beIN AFC 2 ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN AFC 2 ᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/513.ts
-#EXTINF:0 CUID="20" tvg-name="⚽ beIN AFC 3ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN AFC 3ᴴᴰ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/514.ts
-#EXTINF:0 CUID="21" tvg-name="⚽ beIN SPORTS 1ടⅾ" group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",⚽ beIN SPORTS 1ടⅾ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/515.ts
-#EXTINF:0 CUID="22" tvg-name="⚽ beIN SPORTS 2ടⅾ"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"⚽ beIN SPORTS 2ടⅾ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/516.ts
-#EXTINF:0 CUID="23" tvg-name="⚽ beIN SPORTS 3ടⅾ"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"⚽ beIN SPORTS 3ടⅾ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/517.ts
-#EXTINF:0 CUID="24" tvg-name="⚽ beIN SPORTS 4ടⅾ"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"⚽ beIN SPORTS 4ടⅾ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/518.ts
-#EXTINF:0 CUID="25" tvg-name="⚽ beIN SPORTS 5ടⅾ"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"⚽ beIN SPORTS 5ടⅾ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/519.ts
-#EXTINF:0 CUID="26" tvg-name="⚽ beIN SPORTS 6ടⅾ"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"⚽ beIN SPORTS 6ടⅾ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/520.ts
-#EXTINF:0 CUID="27" tvg-name="⚽ beIN SPORTS 7ടⅾ"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"⚽ beIN SPORTS 7ടⅾ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/521.ts
-#EXTINF:0 CUID="28" tvg-name="⚽ beIN SPORTS 8ടⅾ"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"⚽ beIN SPORTS 8ടⅾ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/522.ts
-#EXTINF:0 CUID="29" tvg-name="⚽ beIN SPORTS 9ടⅾ"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"⚽ beIN SPORTS 9ടⅾ
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/523.ts
-#EXTINF:0 CUID="304" tvg-name="Bein 1"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"",Bein 1
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/612.ts
-#EXTINF:0 CUID="305" tvg-name="Bein 2"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"",Bein 2
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/613.ts
-#EXTINF:0 CUID="306" tvg-name="Bein 3"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"",Bein 3
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/614.ts
-#EXTINF:0 CUID="307" tvg-name="Bein 4"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"",Bein 4
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/615.ts
-#EXTINF:0 CUID="308" tvg-name="Bein 5"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"",Bein 5
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/616.ts
-#EXTINF:0 CUID="309" tvg-name="Bein 6"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"",Bein 6
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/617.ts
-#EXTINF:0 CUID="310" tvg-name="Bein 7"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"",Bein 7
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/618.ts
-#EXTINF:0 CUID="311" tvg-name="Bein 8"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"",Bein 8
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/619.ts
-#EXTINF:0 CUID="312" tvg-name="Bein 9"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"",Bein 9
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/620.ts
-#EXTINF:0 CUID="313" tvg-name="Bein 1 fr"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"",Bein 1 fr
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/621.ts
-#EXTINF:0 CUID="314" tvg-name="Bein 2 fr"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"",Bein 2 fr
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/622.ts
-#EXTINF:0 CUID="315" tvg-name="Bein 3 fr"  group-title="1.2 ❤️  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png"",Bein 3 fr
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/623.ts
 
 #EXTINF:-1 tvg-id="beINSports5" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",TNT-1
 http://m.devtv.biz/play/live.php?mac=00:1A:79:0B:Ba:9F&stream=38387&extension=ts
@@ -3365,6 +3229,86 @@ http://m.devtv.biz/play/live.php?mac=00:1A:79:0B:Ba:9F&stream=38381&extension=ts
 http://m.devtv.biz/play/live.php?mac=00:1A:79:0B:Ba:9F&stream=38380&extension=ts
 
 
+#EXTINF:0 CUID="2" tvg-name="⚽ beIN Newsᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN Newsᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/496.ts
+#EXTINF:0 CUID="3" tvg-name="⚽ beIN Sportsᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN Sportsᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/497.ts
+#EXTINF:0 CUID="4" tvg-name="⚽ beIN SPORTS 1ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 1ᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/498.ts
+#EXTINF:0 CUID="5" tvg-name="⚽ beIN SPORTS 2ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 2ᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/499.ts
+#EXTINF:0 CUID="6" tvg-name="⚽ beIN SPORTS 3ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 3ᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/500.ts
+#EXTINF:0 CUID="7" tvg-name="⚽ beIN SPORTS 4ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 4ᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/501.ts
+#EXTINF:0 CUID="8" tvg-name="⚽ beIN SPORTS 5ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 5ᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/502.ts
+#EXTINF:0 CUID="9" tvg-name="⚽ beIN SPORTS 6ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 6ᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/503.ts
+#EXTINF:0 CUID="10" tvg-name="⚽ beIN SPORTS 7ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 7ᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/504.ts
+#EXTINF:0 CUID="11" tvg-name="⚽ beIN SPORTS 8ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 8ᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/505.ts
+#EXTINF:0 CUID="12" tvg-name="⚽ beIN SPORTS 9ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 9ᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/506.ts
+#EXTINF:0 CUID="13" tvg-name="⚽ beIN XTRA 1ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN XTRA 1ᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/507.ts
+#EXTINF:0 CUID="14" tvg-name="⚽ beIN XTRA 2ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN XTRA 2ᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/508.ts
+#EXTINF:0 CUID="15" tvg-name="⚽ beIN XTRA 3ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN XTRA 3ᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/509.ts
+#EXTINF:0 CUID="16" tvg-name="⚽ beIN NBAᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN NBAᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/510.ts
+#EXTINF:0 CUID="17" tvg-name="⚽ beIN AFC ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN AFC ᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/511.ts
+#EXTINF:0 CUID="18" tvg-name="⚽ beIN AFC 1 ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN AFC 1 ᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/512.ts
+#EXTINF:0 CUID="19" tvg-name="⚽ beIN AFC 2 ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN AFC 2 ᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/513.ts
+#EXTINF:0 CUID="20" tvg-name="⚽ beIN AFC 3ᴴᴰ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN AFC 3ᴴᴰ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/514.ts
+#EXTINF:0 CUID="21" tvg-name="⚽ beIN SPORTS 1ടⅾ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 1ടⅾ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/515.ts
+#EXTINF:0 CUID="22" tvg-name="⚽ beIN SPORTS 2ടⅾ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 2ടⅾ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/516.ts
+#EXTINF:0 CUID="23" tvg-name="⚽ beIN SPORTS 3ടⅾ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 3ടⅾ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/517.ts
+#EXTINF:0 CUID="24" tvg-name="⚽ beIN SPORTS 4ടⅾ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 4ടⅾ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/518.ts
+#EXTINF:0 CUID="25" tvg-name="⚽ beIN SPORTS 5ടⅾ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 5ടⅾ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/519.ts
+#EXTINF:0 CUID="26" tvg-name="⚽ beIN SPORTS 6ടⅾ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 6ടⅾ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/520.ts
+#EXTINF:0 CUID="27" tvg-name="⚽ beIN SPORTS 7ടⅾ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 7ടⅾ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/521.ts
+#EXTINF:0 CUID="28" tvg-name="⚽ beIN SPORTS 8ടⅾ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 8ടⅾ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/522.ts
+#EXTINF:0 CUID="29" tvg-name="⚽ beIN SPORTS 9ടⅾ" group-title="1.2 ❤️Vios-SPORT❤️",⚽ beIN SPORTS 9ടⅾ
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/523.ts
+#EXTINF:0 CUID="304" tvg-name="Bein 1" group-title="1.2 ❤️Vios-SPORT❤️",Bein 1
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/612.ts
+#EXTINF:0 CUID="305" tvg-name="Bein 2" group-title="1.2 ❤️Vios-SPORT❤️",Bein 2
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/613.ts
+#EXTINF:0 CUID="306" tvg-name="Bein 3" group-title="1.2 ❤️Vios-SPORT❤️",Bein 3
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/614.ts
+#EXTINF:0 CUID="307" tvg-name="Bein 4" group-title="1.2 ❤️Vios-SPORT❤️",Bein 4
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/615.ts
+#EXTINF:0 CUID="308" tvg-name="Bein 5" group-title="1.2 ❤️Vios-SPORT❤️",Bein 5
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/616.ts
+#EXTINF:0 CUID="309" tvg-name="Bein 6" group-title="1.2 ❤️Vios-SPORT❤️",Bein 6
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/617.ts
+#EXTINF:0 CUID="310" tvg-name="Bein 7" group-title="1.2 ❤️Vios-SPORT❤️",Bein 7
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/618.ts
+#EXTINF:0 CUID="311" tvg-name="Bein 8" group-title="1.2 ❤️Vios-SPORT❤️",Bein 8
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/619.ts
+#EXTINF:0 CUID="312" tvg-name="Bein 9" group-title="1.2 ❤️Vios-SPORT❤️",Bein 9
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/620.ts
+#EXTINF:0 CUID="313" tvg-name="Bein 1 fr" group-title="1.2 ❤️Vios-SPORT❤️",Bein 1 fr
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/621.ts
+#EXTINF:0 CUID="314" tvg-name="Bein 2 fr" group-title="1.2 ❤️Vios-SPORT❤️",Bein 2 fr
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/622.ts
+#EXTINF:0 CUID="315" tvg-name="Bein 3 fr" group-title="1.2 ❤️Vios-SPORT❤️",Bein 3 fr
+https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/623.ts
 
 
 
