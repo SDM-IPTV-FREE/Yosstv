@@ -2802,6 +2802,10 @@ http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/zoomoo.png" group-title="1.4 ❤️Vios-ANAK-ANAK❤️",ZOO MOO ASIA
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Kids" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/zoomoo.png" group-title="1.4 ❤️Vios-ANAK-ANAK❤️",Tring Kids
+http://62.210.123.134:98/live/an75d/75d/104.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Tring" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/zoomoo.png" group-title="1.4 ❤️Vios-ANAK-ANAK❤️",Tring Tring
+http://62.210.123.134:98/live/an75d/75d/21.ts
 
 
 
@@ -2957,11 +2961,11 @@ https://mhdtvweb.com/sliv/stream.php?id=sony-pix-hd&.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/starmovies.png" group-title="1.1 ❤️Vios-FILM❤️",STAR MOVIES
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/chi.png" group-title="1.1 ❤️Vios-FILM❤️",Cinemachi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/chi.png" group-title="1.1 ❤️Vios-FILM❤️",Tring Life
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
-https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+http://62.210.123.134:98/live/an75d/75d/16.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/mycinema.png" group-title="1.1 ❤️Vios-FILM❤️",My Cinema
@@ -3003,6 +3007,20 @@ https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
 https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Life" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/paramount.png" group-title="",Tring Life
+http://62.210.123.134:98/live/an75d/75d/16.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Fantasy" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/paramount.png" group-title="1.1 ❤️Vios-FILM❤️",Tring Fantasy
+http://62.210.123.134:98/live/an75d/75d/13.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Action" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/paramount.png" group-title="1.1 ❤️Vios-FILM❤️",Tring Action
+http://62.210.123.134:98/live/an75d/75d/17.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Super" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/paramount.png" group-title="1.1 ❤️Vios-FILM❤️",Tring Super
+http://62.210.123.134:98/live/an75d/75d/20.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Shqip" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/paramount.png" group-title="1.1 ❤️Vios-FILM❤️",Tring Shqip
+http://62.210.123.134:98/live/an75d/75d/19.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Jolly HD" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/paramount.png" group-title="1.1 ❤️Vios-FILM❤️",Jolly HD
+http://62.210.123.134:98/live/an75d/75d/109.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/paramount.png" group-title="1.1 ❤️Vios-FILM❤️",Fox
+http://62.210.123.134:98/live/an75d/75d/108.ts
 
 
 
@@ -3397,6 +3415,13 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/nagaswara.png" group-title="1.8 ❤️Vios-MUSIK❤️",NAGASWARA DANGDUT
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="MTV KOSOVA" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/maleo.png" group-title="1.8 ❤️Vios-MUSIK❤️",MTV KOSOVA
+http://62.210.123.134:98/live/an75d/75d/86.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBF" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/maleo.png" group-title="1.8 ❤️Vios-MUSIK❤️",BBF
+http://62.210.123.134:98/live/an75d/75d/93.ts
+#EXTINF:-1 tvg-ID="" tvg-name="21 PLUS" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/maleo.png" group-title="1.8 ❤️Vios-MUSIK❤️",21 PLUS
+http://62.210.123.134:98/live/an75d/75d/92.ts
 
 
 
