@@ -3071,11 +3071,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h123/live.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=W-Sport
 
+#EXTINF:-1 tvg-ID="" tvg-name=".Eu-sp0rt" tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.2 ❤️Vios-SPORT❤️",EUROSPORT 1
+http://62.210.123.134:98/live/an75d/75d/144.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name=".Eu-sp0rt-2" tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.2 ❤️Vios-SPORT❤️",EUROSPORT 2
 http://62.210.123.134:98/live/an75d/75d/145.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name=".Eu-sp0rt" tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.2 ❤️Vios-SPORT❤️",EUROSPORT
-http://62.210.123.134:98/live/an75d/75d/144.ts
 
 
 
