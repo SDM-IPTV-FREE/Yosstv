@@ -3033,19 +3033,7 @@ http://210.210.155.37/uq2663/h/h09/01.m3u8|User-Agent=Lavf/56.15.102
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://cors-proxy.cooks.fyi/http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tnt2.png" group-title="1.2 ❤️Vios-SPORT❤️",TNT SPORTS 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://cors-proxy.cooks.fyi/http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
- 
-#EXTINF:-1 group-title="1.2 ❤️Vios-SPORT❤️" tvg-id="btsport3.uk" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tnt3.png",TNT SPORTS 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-https://cors-proxy.cooks.fyi/http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
 
 
 #EXTINF:-1 group-title="1.2 ❤️Vios-SPORT❤️" tvg-id="playsports.be" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/pctv.png",Peacock TV Premier League
@@ -3067,17 +3055,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 
 #EXTINF:-1 tvg-id="beINSports5" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",TNT-1
 http://m.devtv.biz/play/live.php?mac=00:1A:79:0B:Ba:9F&stream=38387&extension=ts
-http://1.1usd.tv:80/ch236/mono.m3u8?token=1usdtv_vvv0102.ARiTbVhFV-4gvzAGfFSrZFW5GGH5SNcMYVQn8j20lC0RbuwyUkDHs65NzDbNT5Oq
-#EXTINF:-1 tvg-id="beINSports5" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",TNT-2
-http://1.1usd.tv:80/ch334/mono.m3u8?token=1usdtv_vvv0102.ARiTbVhFV-4gvzAGfFSrZBfqPq-GZ0Xz3GKEDTRv9T5sXoNvGDJr84vSSLnbyhiW
-http://m.devtv.biz/play/live.php?mac=00:1A:79:0B:Ba:9F&stream=38365&extension=ts
-#EXTINF:-1 tvg-id="beINSports5" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",TNT-3
-http://1.1usd.tv:80/ch233/mono.m3u8?token=1usdtv_vvv0102.ARiTbVhFV-4gvzAGfFSrZJhY73a68ma3sNoVZrPxCMMFI7TZCjgtuG0BYFhWaCc1
-http://m.devtv.biz/play/live.php?mac=00:1A:79:0B:Ba:9F&stream=38381&extension=ts
-#EXTINF:-1 tvg-id="beINSports5" group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein3.png",TNT-4
-https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/623.ts
-#http://m.devtv.biz/play/live.php?mac=00:1A:79:0B:Ba:9F&stream=38380&extension=ts
-
 
 #EXTINF:-1 tvg-id="60" tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.2 ❤️Vios-SPORT❤️", FIGHT SPORTS HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
