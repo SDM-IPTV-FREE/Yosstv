@@ -3018,12 +3018,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/fight.png" group-title="1.2 ❤️Vios-SPORT❤️",FIGHT SPORTS HD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
-https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/redbulltv.png" group-title="1.2 ❤️Vios-SPORT❤️",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
@@ -3061,31 +3055,6 @@ https://cors-proxy.cooks.fyi/http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/truepre1.png" group-title="1.2 ❤️Vios-SPORT❤️",True Premier Football 1
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-
-EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-name="True Premier Football 2" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/truepre2.png" group-title="1.2 ❤️Vios-SPORT❤️",True Premier Football
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
-
-EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-name="True Premier Football 3" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28431293_ico.png?ts=1696151935" group-title="1.2 ❤️Vios-SPORT❤️",True Premier Football 3
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
-
-EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-name="True Premier Football 4" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28431296_ico.png?ts=1696151980" group-title="1.2 ❤️Vios-SPORT❤️",True Premier Football 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://sport.livedoomovies.com:4431/02_PremierHD4_480p/chunklist.m3u8
-
-EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-name="True Premier Football 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28431298_ico.png?ts=1696152022" group-title="1.2 ❤️Vios-SPORT❤️",True Premier Football 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://sport.livedoomovies.com:4431/02_PremierHD5_480p/chunklist.m3u8
-
 EXTINF:-1 group-title="1.2 ❤️Vios-SPORT❤️" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/ssc1.png", SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
@@ -3114,11 +3083,6 @@ https://mo3ad.xyz/live/mATMt4qe8v/hjqPF4mVCP/623.ts
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
-
-#EXTINF:-1 tvg-id="98" tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.2 ❤️Vios-SPORT❤️", Motorvision+
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B
 
 #EXTINF:-1 tvg-id="120" tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.2 ❤️Vios-SPORT❤️", MotoRRacing TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
