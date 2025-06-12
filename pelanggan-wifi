@@ -2602,34 +2602,34 @@ https://e.siar.us/live/surabayatv.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="❤️Vios-LOKAL❤️",Allplay Ent
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.0 ❤️Vios-LOKAL❤️",Allplay Ent
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="❤️Vios-LOKAL❤️",Aniplus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.0 ❤️Vios-LOKAL❤️",Aniplus
 https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
 
-#EXTINF:-1 tvg-id="Bandung TV.id" tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="❤️Vios-LOKAL❤️",Bandung TV
+#EXTINF:-1 tvg-id="Bandung TV.id" tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.0 ❤️Vios-LOKAL❤️",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
-#EXTINF:-1 group-title="❤️Vios-LOKAL❤️" tvg-id="bnchannel.id" tvg-logo="https://i.imgur.com/gSzl8d4.png",BN Channel
+#EXTINF:-1 group-title="1.0 ❤️Vios-LOKAL❤️" tvg-id="bnchannel.id" tvg-logo="https://i.imgur.com/gSzl8d4.png",BN Channel
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch112.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="❤️Vios-LOKAL❤️",El John TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.0 ❤️Vios-LOKAL❤️",El John TV
 https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1865740852.m3u8
 
-#EXTINF:-1 group-title="❤️Vios-LOKAL❤️" tvg-id="fujitv" tvg-logo="https://i.imgur.com/gSzl8d4.png", Fuji Tv 
+#EXTINF:-1 group-title="1.0 ❤️Vios-LOKAL❤️" tvg-id="fujitv" tvg-logo="https://i.imgur.com/gSzl8d4.png", Fuji Tv 
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="❤️Vios-LOKAL❤️",Oxygen Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.0 ❤️Vios-LOKAL❤️",Oxygen Tv
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="❤️Vios-LOKAL❤️",My Cinema 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.0 ❤️Vios-LOKAL❤️",My Cinema 
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="❤️Vios-LOKAL❤️",My Cinema Asia 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.0 ❤️Vios-LOKAL❤️",My Cinema Asia 
 https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
 
 
@@ -3025,12 +3025,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="❤️Vios-FILM❤️",My Cinema 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.1 ❤️Vios-FILM❤️",My Cinema 
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="❤️Vios-FILM❤️",My Cinema Asia 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.1 ❤️Vios-FILM❤️",My Cinema Asia 
 https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
 
 
