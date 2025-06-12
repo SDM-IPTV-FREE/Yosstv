@@ -2633,6 +2633,16 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="❤️Vios-LOKAL❤️",Oxygen Tv
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="❤️Vios-LOKAL❤️",My Cinema 
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="❤️Vios-LOKAL❤️",My Cinema Asia 
+https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
+
 
 
 
