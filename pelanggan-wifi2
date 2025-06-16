@@ -444,7 +444,7 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/06/Salvable.20
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/06/Night.of.Deception.Dajal.Satu.Malam.Dipedajal.2025.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6lamti02vdF6xvxA7aj3Ohwaxtk.jpg",Worlds Apart (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/05/Worlds.Apart.2025.mp4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 type="movie" ,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="movie" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/tLQqoRaw0x2ORm4PbW4Rz5Pb6CV.jpg",Sneaks (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/05/Sneaks.2025.mp4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 type="movie" group-title="FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/tzJQuBZx8tXy2OGF6NlK3NLKguo.jpg",The Seat (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/05/The.Seat.2025.mp4/tracks-v1a1/mono.m3u8
