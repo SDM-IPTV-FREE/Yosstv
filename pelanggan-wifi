@@ -2624,7 +2624,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;useri
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.0 ❤️Vios-LOKAL❤️" TV,Fashion TV UHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="2.2❤️ENTERTAINMENT" TV,Fashion TV UHD
 https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.0 ❤️Vios-LOKAL❤️", UGTV
