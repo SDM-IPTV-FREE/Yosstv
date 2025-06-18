@@ -4157,19 +4157,16 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 
 
-
-
-
 =======================================================DAERAH==========================================
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="❤️TV-DAERAH❤️",Jowo Channel
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="2.1❤️TV-DAERAH❤️"",Jowo Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web
 
-#EXTINF:-1 group-title="❤️TV-DAERAH❤️" tvg-id="BandungTV.id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/k25BFBs/bandungtv2.png",Bandung TV
+#EXTINF:-1 group-title="2.1❤️TV-DAERAH❤️"" tvg-id="BandungTV.id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/k25BFBs/bandungtv2.png",Bandung TV
 http://202.150.153.254:443/bandungtvWEBSITE.m3u8
 
-#EXTINF:-1 tvg-id="smtv sumedang" tvg-logo="https://e7.pngegg.com/pngimages/132/406/png-clipart-logo-sumedang-regency-brand-design-blue-text.png" group-title="❤️TV-DAERAH❤️",SMTV Sumedang
+#EXTINF:-1 tvg-id="smtv sumedang" tvg-logo="https://e7.pngegg.com/pngimages/132/406/png-clipart-logo-sumedang-regency-brand-design-blue-text.png" group-title="2.1❤️TV-DAERAH❤️"",SMTV Sumedang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -4178,90 +4175,91 @@ http://202.150.153.254:443/bandungtvWEBSITE.m3u8
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://e.siar.us/live/smtv.m3u8
 
-#EXTINF:-1 group-title="❤️TV-DAERAH❤️" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png",Surabaya TV
+#EXTINF:-1 group-title="2.1❤️TV-DAERAH❤️"" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png",Surabaya TV
 https://e.siar.us/live/surabayatv.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-country"ID" tvg-logo="https://iili.io/d0UXGiG.md.png" group-title="❤️TV-DAERAH❤️",CarubanTV
+#EXTINF:-1 tvg-country"ID" tvg-logo="https://iili.io/d0UXGiG.md.png" group-title="2.1❤️TV-DAERAH❤️"",CarubanTV
 https://stream.carubantv.id/hls/1/stream.m3u8?cachebust=9cd08107
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8f/Logo_Balikpapan_TV.png" group-title="❤️TV-DAERAH❤️",Balikpapan TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8f/Logo_Balikpapan_TV.png" group-title="2.1❤️TV-DAERAH❤️"",Balikpapan TV
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Jambi_TV_2008.png" group-title="❤️TV-DAERAH❤️",JAMBI TV
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Jambi_TV_2008.png" group-title="2.1❤️TV-DAERAH❤️"",JAMBI TV
 #https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 group-title="❤️TV-DAERAH❤️" "" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/x6b4Lxk/dhohotv.png",Dhoho TV- Kediri
+#EXTINF:-1 group-title="2.1❤️TV-DAERAH❤️"" "" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/x6b4Lxk/dhohotv.png",Dhoho TV- Kediri
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/10/7c/a7/107ca7e4d5ed77b136f2dca2f8658673.png" group-title="❤️TV-DAERAH❤️",Radar Lampung TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/10/7c/a7/107ca7e4d5ed77b136f2dca2f8658673.png" group-title="2.1❤️TV-DAERAH❤️"",Radar Lampung TV
 http://103.140.188.211:1935/radarlampungtv/myStream/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://elshintatv.co.id/public/assets/312f2-logo-elshinta.png" group-title="❤️TV-DAERAH❤️",Elshinta TV
+#EXTINF:-1 tvg-logo="http://elshintatv.co.id/public/assets/312f2-logo-elshinta.png" group-title="2.1❤️TV-DAERAH❤️"",Elshinta TV
 https://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 
-#EXTINF:-1 tvg-country=ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Inspira.png" group-title="❤️TV-DAERAH❤️",InspiraTV
+#EXTINF:-1 tvg-country=ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Inspira.png" group-title="2.1❤️TV-DAERAH❤️"",InspiraTV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:0 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="❤️TV-DAERAH❤️",Dhamma TV
+#EXTINF:0 tvg-id="DhammaTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" group-title="2.1❤️TV-DAERAH❤️"",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 
-#EXTINF:-1 tvg-country"ID" tvg-logo="https://iili.io/Jbtox8x.png" group-title="❤️TV-DAERAH❤️",Kilisuci TV
+#EXTINF:-1 tvg-country"ID" tvg-logo="https://iili.io/Jbtox8x.png" group-title="2.1❤️TV-DAERAH❤️"",Kilisuci TV
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZCkTNY9lxhd0K0-gG4QBKRzlxMmhBZQCHpQ&usqp=CAU" group-title="❤️TV-DAERAH❤️",Sampit TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZCkTNY9lxhd0K0-gG4QBKRzlxMmhBZQCHpQ&usqp=CAU" group-title="2.1❤️TV-DAERAH❤️"",Sampit TV
 https://e.siar.us/live/sampit-tv.m3u8
 
-#EXTINF:-1  tvg-id="JAKTV.id" group-title="❤️TV-DAERAH❤️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11y1uTmD-dGr2jCPqrxjZzpcmkMCFih-jsQ&usqp=CAU",JakTV
+#EXTINF:-1  tvg-id="JAKTV.id" group-title="2.1❤️TV-DAERAH❤️"" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11y1uTmD-dGr2jCPqrxjZzpcmkMCFih-jsQ&usqp=CAU",JakTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Jak_tv
 
-#EXTINF:-1 group-title="❤️TV-DAERAH❤️" tvg-id="" tvg-url="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",Madu TV
+#EXTINF:-1 group-title="2.1❤️TV-DAERAH❤️"" tvg-id="" tvg-url="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 
-#EXTINF:-1 group-title="❤️TV-DAERAH❤️" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/0fYZFNf/jitv.png",JITV Jogja
+#EXTINF:-1 group-title="2.1❤️TV-DAERAH❤️"" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/0fYZFNf/jitv.png",JITV Jogja
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
  
-#EXTINF:0 tvg-id="MQTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTaXyg1-yCE7t6WHkeK0XlSmzpb7KIBcplg&usqp=CAU" group-title="❤️TV-DAERAH❤️",Bungo TV
+#EXTINF:0 tvg-id="MQTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLTaXyg1-yCE7t6WHkeK0XlSmzpb7KIBcplg&usqp=CAU" group-title="2.1❤️TV-DAERAH❤️"",Bungo TV
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="❤️TV-DAERAH❤️",LingkarTV
+#EXTINF:0 tvg-country="ID" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="2.1❤️TV-DAERAH❤️"",LingkarTV
 https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/HHN436D/tabalong.png" group-title="❤️TV-DAERAH❤️",TV Tabalong
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/HHN436D/tabalong.png" group-title="2.1❤️TV-DAERAH❤️"",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
-#EXTINF:0 tvg-country="ID" tvg-logo="https://iptv.urfan.web.id/logo/saktitv.png" group-title="❤️TV-DAERAH❤️",Sakti TV
+#EXTINF:0 tvg-country="ID" tvg-logo="https://iptv.urfan.web.id/logo/saktitv.png" group-title="2.1❤️TV-DAERAH❤️"",Sakti TV
 https://saktitv.siar.us/saktitv/live/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WHeb9Yt.png" group-title="❤️TV-DAERAH❤️", Duta TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WHeb9Yt.png" group-title="2.1❤️TV-DAERAH❤️"", Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Jektv_Jambi.png" group-title="❤️TV-DAERAH❤️",JEKTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Jektv_Jambi.png" group-title="2.1❤️TV-DAERAH❤️"",JEKTV
 #https://63b2dc7196c38.streamlock.net:1937/ch14/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://brtvcoid.b-cdn.net/2022/06/logo-brtv-original.png" group-title="❤️TV-DAERAH❤️",BRTV
+#EXTINF:-1 tvg-logo="https://brtvcoid.b-cdn.net/2022/06/logo-brtv-original.png" group-title="2.1❤️TV-DAERAH❤️"",BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://iili.io/d0PC1n9.png" group-title="❤️TV-DAERAH❤️",TATV Solo
+#EXTINF:-1 tvg-logo="https://iili.io/d0PC1n9.png" group-title="2.1❤️TV-DAERAH❤️"",TATV Solo
 https://tatv.siar.us/tatv/live.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-country"ID" tvg-logo="https://iili.io/JbtnSCF.png" group-title="❤️TV-DAERAH❤️",BMS TV
+#EXTINF:-1 tvg-country"ID" tvg-logo="https://iili.io/JbtnSCF.png" group-title="2.1❤️TV-DAERAH❤️"",BMS TV
 #https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/YjS0g65/pontv.png" group-title="❤️TV-DAERAH❤️",PON TV Pontianak
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/YjS0g65/pontv.png" group-title="2.1❤️TV-DAERAH❤️"",PON TV Pontianak
 #https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/dtvi.png" group-title="❤️TV-DAERAH❤️",dTVi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/dtvi.png" group-title="2.1❤️TV-DAERAH❤️"",dTVi
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://e.siar.us/live/dtvi.m3u8
+
 
 
 
@@ -4847,11 +4845,9 @@ http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid
 
 
 
-
-
 =========ENTERTAINMENT=========
 
-#EXTINF:-1 group-title="❤️ENTERTAINMENT" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
+#EXTINF:-1 group-title="2.2❤️ENTERTAINMENT" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
@@ -4859,37 +4855,37 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="❤️ENTERTAINMENT",ALLPLAY ENT https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="2.2❤️ENTERTAINMENT",ALLPLAY ENT https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
-#EXTINF:-1 tvg-id="Daai TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/6R8NJC9/daai.png" group-title="❤️ENTERTAINMENT", DAAI TV
+#EXTINF:-1 tvg-id="Daai TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/6R8NJC9/daai.png" group-title="2.2❤️ENTERTAINMENT", DAAI TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DAAI_TV
 
-#EXTINF:-1 group-title="❤️ENTERTAINMENT" tvg-logo="https://i.ibb.co.com/zZ5KXdz/Kbsworld.png", KBS WORLD 
+#EXTINF:-1 group-title="2.2❤️ENTERTAINMENT" tvg-logo="https://i.ibb.co.com/zZ5KXdz/Kbsworld.png", KBS WORLD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 
-#EXTINF:-1 group-title="❤️ENTERTAINMENT" tvg-id="dunialain.id" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png",Dunia Lain 
+#EXTINF:-1 group-title="2.2❤️ENTERTAINMENT" tvg-id="dunialain.id" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png",Dunia Lain 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=64756e69616c61696e30303030303030:d742218958e10ca989be6a63f2db9b6d
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
-#EXTINF:-1 tvg-id="Warner TV HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo-thumbnail.png" group-title="❤️ENTERTAINMENT",Warner TV 
+#EXTINF:-1 tvg-id="Warner TV HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo-thumbnail.png" group-title="2.2❤️ENTERTAINMENT",Warner TV 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
-#EXTINF:-1 tvg-id="DENS Food Channel.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" group-title="❤️ENTERTAINMENT",Dens Food Channel
+#EXTINF:-1 tvg-id="DENS Food Channel.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" group-title="2.2❤️ENTERTAINMENT",Dens Food Channel
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 
-#EXTINF:-1 tvg-id="DENS Showbizz Channel.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://e7.pngegg.com/pngimages/893/782/png-clipart-competitive-dance-competition-award-talent-show-award-love-television.png" group-title="❤️ENTERTAINMENT",Dens ShowBiz
+#EXTINF:-1 tvg-id="DENS Showbizz Channel.id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium2.xml" tvg-logo="https://e7.pngegg.com/pngimages/893/782/png-clipart-competitive-dance-competition-award-talent-show-award-love-television.png" group-title="2.2❤️ENTERTAINMENT",Dens ShowBiz
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h244/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="❤️ENTERTAINMENT",Dens Life & Style
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="2.2❤️ENTERTAINMENT",Dens Life & Style
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
@@ -4898,8 +4894,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h222/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/03/14121037/TV5_Style_HD.jpg" group-title="❤️ENTERTAINMENT",TV5 Monde Style
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/03/14121037/TV5_Style_HD.jpg" group-title="2.2❤️ENTERTAINMENT",TV5 Monde Style
 https://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
+
+
 
 
 
