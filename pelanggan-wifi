@@ -2459,8 +2459,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL", NET TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",NET TV
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",MD TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET
