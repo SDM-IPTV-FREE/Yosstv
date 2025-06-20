@@ -2411,259 +2411,187 @@
 
 
 #EXTM3U
-######################     LOKAL     ###############################
-
-##########################################################################################################
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL", GTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-
-=======================================
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",RCTI
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
-
-=======================================
-
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",MNC TV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-
-=======================================
-
-#EXTINF:-1 group-title="1.1 ❤️Vios-LOKAL" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/NVZKVIi.png",INEWS HD
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+############################################     LOKAL     #####################################################
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",INDOSIAR
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-
-#EXTINF:-1 group-title="1.1 ❤️Vios-LOKAL" tvg-id="ochannel.id" tvg-logo="https://i.imgur.com/NVZKVIi.png",MOJI
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL", NET TV
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=NET.
-
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",MD TV
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",RTV
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
-
-
-EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",OK TV
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/mnctv.png" group-title="1.1 🛑Vios-LOKAL",MNC TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-https://cempedak-cdn-fly.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",MNC INFOTAINMENT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rcti.png" group-title="1.1 🛑Vios-LOKAL",RCTI 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/gtv.png" group-title="1.1 🛑Vios-LOKAL",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
+
+#EXTINF:-1 group-title="1.1 🛑Vios-LOKAL" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/inews.png",I'NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://av-ch-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sctv.png" group-title="1.1 🛑Vios-LOKAL",SCTV 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a17bbb3d95ba22f0fa680bba609340f6:cb682391dc1830d2cec8ca9d4ce681cc
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",NUSANTARA
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/indosiar.png" group-title="1.1 🛑Vios-LOKAL",INDOSIAR   
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",TV ONE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/antv.png" group-title="1.1 🛑Vios-LOKAL",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
-#EXTINF:-1 group-title="1.1 ❤️Vios-LOKAL" tvg-logo="https://i.imgur.com/NVZKVIi.png",KOMPAS TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/trans7.png" group-title="1.1 🛑Vios-LOKAL",TRANS 7 
+https://av-ch-cdn.mncnow.id/live/eds/Trans7-2/sa_dash/Trans7-2.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1759219752_b280000_sleng.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/transtv.png" group-title="1.1 🛑Vios-LOKAL",TRANS TV 
+https://av-ch-cdn.mncnow.id/live/eds/TransTV-2/sa_dash/TransTV-2.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w209872312_b280000_sleng.m3u8
+#EXTINF:-1 group-title="1.1 🛑Vios-LOKAL" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tvone.png",TV ONE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://av-ch-cdn.mncnow.id/live/eds/TVOne-2/sa_dash/TVOne-2.mpd
+
+#EXTINF:-1 group-title="1.1 🛑Vios-LOKAL" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/metrotv.png",METRO TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",METRO TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/metrotv.png" group-title="1.1 🛑Vios-LOKAL",METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",METRO GLOBAL NETWORK
-https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/nettv.png" group-title="1.1 🛑Vios-LOKAL" , NET TV  / MDTV 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",TVRI NASIONAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/moji.png" group-title="1.1 🛑Vios-LOKAL", MOJI TV 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnbcindo.png" group-title="1.1 🛑Vios-LOKAL", CNBC
+#EXTVLCOPT:http-origin=https://www.cnbcindonesia.com
+#EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="1.1 🛑Vios-LOKAL" tvg-id="MNCNews.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/NVZKVIi.png",SINDO-NEWS
+https://av-ch-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash/MNCnews-HDD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/kompastv.png" group-title="1.1 🛑Vios-LOKAL",KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 🛑Vios-LOKAL",DAAI TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
+https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 🛑Vios-LOKAL", MAGNA TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://op-group1-swiftservehd-1.dens.tv/h/h24/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/nusantaratv.png" group-title="1.1 🛑Vios-LOKAL", NUSANTARA TV
+#EXTVLCOPT:http-origin=https://www.dens.tv
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
+
+#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png" group-title="1.1 🛑Vios-LOKAL",CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:-1 group-title="1.1 🛑Vios-LOKAL" tvg-id="TVRINasional.id" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tvri.png",TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",ANTRA TV
-https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
+#EXTINF:-1 group-title="1.1 🛑Vios-LOKAL" tvg-id="TVRIWorld.id" tvg-logo="https://i.imgur.com/NVZKVIi.png",TVRI WORLD
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",JAKARTA GLOBE
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",TANJUPINANG TV
-http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",JTV
-https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/playlist.m3u8
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",JAK TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rtv.png" group-title="1.1 🛑Vios-LOKAL",RTV
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
-#EXTINF:-1 group-title="1.1 ❤️Vios-LOKAL" tvg-logo="https://i.imgur.com/NVZKVIi.png",TRANS TV. 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTVLCOPT:network-caching=1000
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#EXTINF:-1 group-title="1.1 🛑Vios-LOKAL" tvg-id="IDX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.imgur.com/NVZKVIi.png",IDX
+https://av-ch-cdn.mncnow.id/live/eds/IDX/sa_dash/IDX.mpd
 
-#EXTINF:-1 group-title="1.1 ❤️Vios-LOKAL" tvg-logo="https://i.imgur.com/NVZKVIi.png",TRANS 7.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-#EXTVLCOPT:network-caching=1000
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="OChannel.id" tvg-name="" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",MOJI
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
-#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",MENTARI TV
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
-
-#EXTINF:-1 tvg-id="magnachannel.id" tvg-name="" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",MAGNA CHANNEL
-#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch111.m3u8
-
-#EXTINF:-1 tvg-id="nusantaratv.id" tvg-name="" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",NUSANTARA TV
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-https://flv.intechmedia.net/live/ch106.m3u8
-
-#EXTINF:-1 tvg-id="Maxstream.id" tvg-name="" tvg-logo="https://i.imgur.com/NVZKVIi.pngg" group-title="1.1 ❤️Vios-LOKAL",MAXSTREAM
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-
-#EXTINF:-1 tvg-id="94" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL", ELSHINTA TV
+#EXTINF:-1 tvg-id="94" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="Dens TV",ELSHINTA TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Elshinta_TV
 
-#EXTINF:-1 tvg-id="112" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL", JAK tv
+#EXTINF:-1 tvg-id="112" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/jaktv.png" group-title="Dens TV",JAK TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Jak_tv
 
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL", K-PLUS HD
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=K-PLUS_HD
-
-#EXTINF:-1 tvg-id="133" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL", KBS KOREA
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_Korea
-
-#EXTINF:-1 tvg-id="134" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL", KBS WORLD
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_World
-
-#EXTINF:-1 tvg-id="59" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL", TVN HD
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL", MAGNA Channel
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="114" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL", MY FAMILY CHANNEL
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Family_Channel
-
-#EXTINF:-1 group-title="1.1 ❤️Vios-LOKAL"  tvg-logo="https://i.imgur.com/NVZKVIi.png",BIOSKOP INDONESIA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL", UGTV
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",TV TABALONG
-https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-
-#EXTINF:-1 group-title="1.1 ❤️Vios-LOKAL" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/NVZKVIi.png",SURABAYA TV
-https://e.siar.us/live/surabayatv.m3u8
-
+#EXTINF:-1 group-title="1.1 🛑Vios-LOKAL" tvg-logo="https://i.imgur.com/NVZKVIi.png",BN CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",ALLPLAY ENT
-https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",Aniplus
-https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 🛑Vios-LOKAL", GARUDA TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
-#EXTINF:-1 tvg-id="Bandung TV.id" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",BANDUNG TV
-http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 🛑Vios-LOKAL",INSPIRA TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 group-title="1.1 ❤️Vios-LOKAL" tvg-id="bnchannel.id" tvg-logo="https://i.imgur.com/NVZKVIi.png",BN CHANNEL
-#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch112.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 🛑Vios-LOKAL",LINGKAR TV 
+https://lingkartv.my.id/hls/lingkartv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",El JHON TV
-https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive_360p/chunklist_w1865740852.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 🛑Vios-LOKAL",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
-#EXTINF:-1 group-title="1.1 ❤️Vios-LOKAL" tvg-id="fujitv" tvg-logo="https://i.imgur.com/NVZKVIi.png", FUJI Tv 
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="1.1 🛑Vios-LOKAL" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/BTV.png", BTV
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",OXYGEN TV
-http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",MY CINEMA
-https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 ❤️Vios-LOKAL",MY CINEMA ASIA 
-https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://i.imgur.com/NVZKVIi.png" group-title="1.1 🛑Vios-LOKAL",DUTA TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 
 
