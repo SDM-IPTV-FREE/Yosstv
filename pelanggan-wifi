@@ -2407,17 +2407,98 @@
 
 
 
+#EXTM3U
+###################################   LIVE EVENT    ##############################
 
+#EXTINF:-1 group-logo="https://iili.io/31b53AB.png" tvg-logo="https://iili.io/31b53AB.png" group-title="00.🛑LIVE EVENT", BRFID YOUTUBE CHANNEL
+https://www.youtube.com/@BRFID_YT
 
+#EXTINF:-1 group-logo="https://iili.io/31b53AB.png" tvg-logo="https://iili.io/31b53AB.png" group-title="00.🛑LIVE EVENT", SUPPORT ADMIN
+https://drive.google.com/uc?export=download&id=1VKzYZPuddVom07o9qxKp7s8RgHzDlC2C&usp
 
+#EXTINF:-1 group-logo="https://iili.io/31b53AB.png" tvg-logo="https://iili.io/31b53AB.png" group-title="00.🛑LIVE EVENT", RELOAD PLAYLIST DULU SETIAP BUKA LIVE EVENT
+https://drive.google.com/uc?export=download&id=1gHID3FZ0rL_MwJJFVEwdJX13jfQ1sHa2&usp
 
+##EXTINF:-1 group-title="00.🛑LIVE EVENT" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png", kulaifikasi pildun
 
+#EXTINF:-1  group-title="00.🛑LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbh7w-7tHU5h6YEA-ghLcZcyc5cdQdkHGug&s", Myanmar (w) U19 vs Indonesia (w) U19 18 Juni 2025 15:00 WIB 
 
+#EXTINF:-1 group-title="00.🛑LIVE EVENT" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", AVC NATIONS CUP 2025 1 18:00 WIB
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts
 
+#EXTINF:-1 group-title="00.🛑LIVE EVENT" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", AVC NATIONS CUP 2025 2 
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/i_zXIAvMEt5RatXT425jtw/Fv2lucGIbhPi2caWYvF5Lg/1750343939684/live/may17/chunklist.m3u8
 
+#EXTINF:-1 group-title="00.🛑LIVE EVENT" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", AVC NATIONS CUP 2025 3 Bahrain vs Indonesia 18 Juni 2025 23:00 WIB 
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/GE_fzA0tYA8c1GfrSxP0uQ/Fv2lucGIbhPi2caWYvF5Lg/1750350687226/live/may20/chunklist.m3u8
 
+#EXTINF:-1 group-title="00.🛑LIVE EVENT" tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg", VOLLEYBALL NATIONS LEAGUE 1 
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/i_zXIAvMEt5RatXT425jtw/Fv2lucGIbhPi2caWYvF5Lg/1750343939684/live/may17/chunklist.m3u8
 
+#EXTINF:-1 group-title="00.🛑LIVE EVENT" tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg", VOLLEYBALL NATIONS LEAGUE 2
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPORTV2.m3u8
 
+#EXTINF:-1 group-title="00.🛑LIVE EVENT" tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg", VOLLEYBALL NATIONS LEAGUE 3 Bulgaria W vs China W 19 Juni 2025 19:30 WIB 
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/zq7NhMdfeTjAc_cwsw18DA/Fv2lucGIbhPi2caWYvF5Lg/1750344175787/live/may171/chunklist.m3u8
+
+#EXTINF:-1 group-title="00.🛑LIVE EVENT" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", Inter Miami vs Porto 19 Juni 2025 02:00 WIB 
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=46506
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 1  
+http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 2
+http://goldv3.me:2082/live/drmtv43_476893/YFCPfQ3M/250343.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 3
+http://iptvde.de:8080/live/OsmanTokmak/fgxgthus/89081.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/novasport3.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii1.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii2.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii3.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 8
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+
+#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 9
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/1WK1lDlKzAeAH2bjlKkX6Q/Fv2lucGIbhPi2caWYvF5Lg/1750287574941/live/Z1SD/chunklist.m3u8
 
 
 
