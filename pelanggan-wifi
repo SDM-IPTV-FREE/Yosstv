@@ -4313,7 +4313,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
 
 
-############################################  Vios-PENGETAHUAN    #####################################################
+############################################  🛑Vios-PENGETAHUAN   #####################################################
 
 #EXTINF:-1 group-title="1.9 🛑Vios-PENGETAHUAN" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bbceart.png",BBC Earth
 #EXTVLCOPT:http-referrer=https://keralamaxtv.com/sliv/play.php
@@ -4868,7 +4868,8 @@ http://j.mp/2bFREcc
 
 
 
-############################  DENS TV #############################
+############################  🛑Vios-🌀DENS TV #############################
+
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="2.4🛑Vios-🌀DENS TV",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
@@ -5158,7 +5159,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=W-Sport
 
-
 #EXTINF:-1 tvg-id="61" tvg-logo="https://www.dens.tv/images/channel-logo/61.jpg" group-title="2.4🛑Vios-🌀DENS TV", CNA
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -5242,7 +5242,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid
 
 
 
-<=================== SPORTS 1 =============================>
+####################################### 🛑Vios-SPORT 1 #########################################
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena.png" group-title="2.5 🛑Vios-SPORT 1",AstroArena1
 https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
@@ -5564,7 +5564,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=Wwe
 
 
 
-###################################### SPRS 2 ######################################
+###################################### 🛑Vios-SPORT 2 ######################################
+
 #EXTINF:-1 tvg-id="Abu Dhabi Sports Premium 1.ua" tvg-logo="https://iili.io/2MEFJt9.png" group-title="2.6 🛑Vios-SPORT 2",Abu Dhabi Sports Premium 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f
@@ -6002,7 +6003,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 
-<======================= Malaysia ==========================>
+############################################    🛑Vios-MALAYSIA   ###################################################
 
 #EXTINF:-1 tvg-id="TV1" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="2.7🛑Vios-MALAYSIA",Malaysia: TV 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -6064,13 +6065,11 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
-
 #EXTINF:-1 tvg-id="" group-title="2.7🛑Vios-MALAYSIA" ch-number="136" tvg-logo="https://aqfadtv.xyz/logos/OhMyCeria.png",Oh My Ceria!
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
-
 
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg" group-title="2.7🛑Vios-MALAYSIA",Malaysia: APETITO
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
@@ -6093,8 +6092,6 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="2.7🛑Vios-MALAYSIA",Malaysia: SNAP
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
 
-################     LOKAL MALAY     ##################
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tv1my.png" group-title="2.7🛑Vios-MALAYSIA",Malaysia: TV1 HD
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
@@ -6108,7 +6105,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tv3my.png" group-title="2.7🛑Vios-MALAYSIA",Malaysia: TV 3
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tv6my.png" group-title="2.7🛑Vios-MALAYSIA",Malaysia: TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
@@ -6164,8 +6160,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
 
 
+#########################################  🛑Vios-COUNTRY   ############################################ 
 
-<=================== SOUTH KOREA =============================>
 <=================== SOUTH KOREA =============================>
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPBKtRRhL1UqJcIv-eKXsBM7PL-8sEQlVLyQ&s",Korea- ABN TV
 #EXTVLCOPT:http-origin=https://tv.garden
@@ -6931,123 +6927,167 @@ https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://stream3.shopch.jp/httporiginlivech1/ch1.stream_1280p/chunklist.m3u8
 
-
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",Japan-NHK G
 http://vthanh.utako.moe/NHK_G/index.m3u8
+
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-id="nhke_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",Japan-NHK E
 http://vthanh.utako.moe/NHK_E/index.m3u8
+
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",Japan-NTV
 http://vthanh.utako.moe/Nippon_TV/index.m3u8
+
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",Japan-TBS 
 http://vthanh.utako.moe/TBS/index.m3u8
+
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Japan-Fuji TV
 http://vthanh.utako.moe/Fuji_TV/index.m3u8
+
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",Japan-TV Asahi
 http://vthanh.utako.moe/TV_Asahi/index.m3u8
+
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",Japan-TV Tokyo
 http://vthanh.utako.moe/TV_Tokyo/index.m3u8
+
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",Japan-TOKYO MX1
 http://vthanh.utako.moe/Tokyo_MX1/index.m3u8
 
-
-
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Japan-NHK BS
 http://vthanh.utako.moe/NHK_BS/index.m3u8
+
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Japan-Animax
 http://vthanh.utako.moe/Animax/index.m3u8
+
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-id="BS11.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",Japan-BS11
 http://vthanh.utako.moe/BS11/index.m3u8
-
 
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",Japan-AT-X
 http://vthanh.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-id="qvc" tvg-logo="https://i.imgur.com/xWSzQ34.png",Japan-QVC
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 
-
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png",Japan- TV TOKYO 
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-id="homedrama" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png",Japan- ホームドラマチャンネル HOME DRAMA CHANNEL
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png",Japan- 映画・チャンネル NECO
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 group-title="2.8🛑Vios-COUNTRY" tvg-id="fox" tvg-logo="https://i.imgur.com/eTlwd3h.png",Japan- FOX JAPAN
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-id="ntvnews24" tvg-logo="https://i.imgur.com/bh9ttoG.png" group-title="2.8🛑Vios-COUNTRY",Japan-日テレNEWS24
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- BS SkyPerfecTV!
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Lala TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- BS Asahi
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Channel Neco
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Sky A
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Fox Japan
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Nittere G+
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Family Gekijo
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Movie Plus
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Nippon Eiga Senmon Channel
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Kids Station
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- BS TV Tokyo
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Super! Drama TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- BS Fuji
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- WOWOW Live
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- BS TBS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- WOWOW Cinema
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Nittere News 24
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- J Sports 1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- J Sports 2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- J Sports 3
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- J Sports 4
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Gaora Sports
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Golf Network
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- WOWOW Prime
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- NHK BS1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Music On! TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Channel Ginga
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- BS Tsuri Vision
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- BS Nittere
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Jidaigeki Senmon Channel
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- BS Animax
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Toei Channel
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- NHK BS Premium
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Star Channel 1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Star Channel 2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7ppGHgo.png" group-title="2.8🛑Vios-COUNTRY",Japan- Star Channel 3
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
@@ -7059,58 +7099,85 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- QRT (404p)(မြန်မာ)
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- 膼峄搉g Nai 1(မြန်မာ)
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- 膼峄搉g Nai 2(မြန်မာ)
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- MNTV (မြန်မာ)
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- KienGiangTV(မြန်မာ)
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- Hmong Star TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- ช่อง Houng Fa
 https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- Oh Muang Lao TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- Lao SV TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- LS TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- Vati Lao(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- Brian TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- LAO Net TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- Ning TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- Hmong TV Network(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- ช่อง Lao-Thai US TV
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- ช่อง Ning TV
 https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- ช่อง Air TV
 https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- ช่อง Lao SV TV
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- Dao Lane Xang(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- Tea TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- ISTV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- ช่อง Oh Muang Lao TV
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- Lao-Thai TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- ช่อง Supreme Master TV
 https://lbs-us1.suprememastertv.com/720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- Hmong TV Network (720p)(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- Tea TV 2(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5VDgLeS.png" group-title="2.8🛑Vios-COUNTRY",Laos- HBTV(မြန်မာ)
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
@@ -7187,7 +7254,6 @@ rtmp://f13h.mine.nu/sat/tv051
 http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 
-
 #EXTINF:0 group-title="2.8🛑Vios-COUNTRY" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",Taiwan-民視新聞台
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
@@ -7211,13 +7277,11 @@ http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=1
 http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NqcJBE7.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- 三立戲劇台
 https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NqcJBE7.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- 三立戲劇台
 http://61.221.215.25:8800/hls/41/index.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t47oKiE.png" group-title="2.8🛑Vios-COUNTRY",Taiwan-SET 三立综合台
 https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
@@ -7226,7 +7290,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t47oKiE.png" group-title="2.8🛑Vios-COUNTRY",Taiwan-SET 三立综合台
 http://198.16.100.186:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/N7lGEq1.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- SET METRO 三立都會台
 http://198.16.100.186:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
@@ -7239,10 +7302,8 @@ http://50.7.234.10:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2xhb2ap.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- SET LIVE 三立新聞台
 http://cookies.elementfx.com/ublive/ublive.php?id=43
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2xhb2ap.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- 三立新聞
 http://125.227.210.55:8162/VideoInput/play.ts
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2xhb2ap.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- SET NEWS+ 三立新聞台
 
@@ -7276,7 +7337,6 @@ http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19
 http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
 http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Sm7HwxJ.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- CTI ENTERTAINMENT 中天娱乐台
 http://61.221.215.25:8800/hls/47/index.m3u8
 
@@ -7293,7 +7353,6 @@ http://198.16.100.186:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=191
 http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 #http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0f3Iq4V.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- 中视
 https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
 
@@ -7301,8 +7360,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
 http://198.16.100.186:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 #http://4gtv.mumi.rip:9877/4/4gtv-4gtv040/index.m3u8
-
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ilA8RHU.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- CTV NEWS 中视新闻
 https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
@@ -7312,14 +7369,12 @@ http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D33777111337771
 http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 #http://4gtv.mumi.rip:9877/33/4gtv-4gtv074/index.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/lUGJt37.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- ASIA TRAVEL 亞洲旅遊台
 https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/lUGJt37.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- ASIA TRAVEL 亞洲旅遊台
 http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
 http://198.16.100.186:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8AvzEoi.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- 華視 CTS
 https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
@@ -7330,13 +7385,10 @@ http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=
 #http://4gtv.mumi.rip:9877/6/4gtv-4gtv041/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- 華視新聞
-
-
 #http://4gtv.mumi.rip:9877/34/4gtv-4gtv052/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- 華視新聞
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/hua%20shi%20xin%20wen.m3u8
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uwPtU5T.jpg" group-title="2.8🛑Vios-COUNTRY",Taiwan- 緯來體育
 http://198.16.100.186:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
@@ -7355,7 +7407,6 @@ rtmp://f13h.mine.nu/sat/tv771
 #EXTINF:-1,tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://i.imgur.com/AzxuN01.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- 纬来电影台
 http://198.16.100.186:8278/videolandmovie/playlist.m3u8?tid=ma2dac66da407&ct=18335&tsum=9a5a39559f64a71081ef9b3a85f2886c
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/K2pmEvc.jpg" group-title="2.8🛑Vios-COUNTRY",Taiwan- 緯來精采
 http://61.221.215.25:8800/hls/48/index.m3u8
 
@@ -7369,10 +7420,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
 http://cookies.elementfx.com/ublive/ublive.php?id=351
 #http://4gtv.mumi.rip:9877/19/4gtv-4gtv070/index.m3u8
 
-
 #EXTINF:-1 tvg-id="ELTA生活英語" tvg-name="ELTV 生活英語" tvg-logo="https://i.imgur.com/tGP6RB2.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- ELTA生活英語
 #http://4gtv.mumi.rip:9877/106/litv-longturn20/index.m3u8
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5EsGLUS.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- ELTA体育1台
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
@@ -7384,7 +7433,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
 https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/p8d1lrs.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- ELTA体育4台
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CQrhlG0.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- DAZN体育1
 rtmp://f13h.mine.nu/sat/tv731
@@ -7401,14 +7449,11 @@ https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rRxxu0Y.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- 环球电视台
 
-
 #EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://assets.livednow.com/logo/八大精彩台.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- 八大精彩台
 #http://4gtv.mumi.rip:9877/172/4gtv-4gtv034/index.m3u8
 
-
 #EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://assets.livednow.com/logo/八大綜藝台.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- 八大綜藝台
 #http://4gtv.mumi.rip:9877/114/4gtv-4gtv039/index.m3u8
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/axciwNe.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- GTV 八大戏剧
 https://smart.pendy.dpdns.org/Smart.php?id=badadrama
@@ -7431,7 +7476,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
 http://198.16.100.186:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HuVWUvJ.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- DISCOVERY ASIA TW 探索亚洲
 http://198.16.100.186:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 
@@ -7440,7 +7484,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=discoverych_twn
 
 #EXTINF: -1 tvg-id="dmax" tvg-logo="https://i.imgur.com/96GzL4F.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- DMAX TW
 http://198.16.100.186:8278/discoveryhd_twn/playlist.m3u8?tid=MF6F9560989795609897&ct=19254&tsum=5c76a2419ab5b56e7202248db95be60e
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/DtTo9HY.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- ANIMAL PLANET TW 动物星球
 https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
@@ -7475,11 +7518,7 @@ http://125.227.210.55:8166/VideoInput/play.ts
 https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
 #http://4gtv.mumi.rip:9877/36/litv-longturn14/index.m3u8
 
-
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/JBenMIz.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- 寰宇新聞台灣台
-
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WyNgH8Z.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- 寰宇財經台
 https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
@@ -7494,23 +7533,18 @@ rtmp://f13h.mine.nu/sat/tv331
 http://198.16.100.186:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
 #http://4gtv.mumi.rip:9877/292/4gtv-4gtv152/index.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CQzD1Pr.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- EBC FINANCIAL 東森財經新聞台
 http://198.16.100.186:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
 #http://4gtv.mumi.rip:9877/293/4gtv-4gtv153/index.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/axSwv4q.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- ETTV 东森美洲
 http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oWlU1pA.jpg" group-title="2.8🛑Vios-COUNTRY",Taiwan- ETTV AMERICA
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/jKeIllS.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- ETTV CHINA 東森中国台
 http://38.64.72.148:80/hls/modn/list/2003/chunklist1.m3u8
-
 
 #EXTINF:-1, group-title="2.8🛑Vios-COUNTRY" tvg-id="tvb xing he" tvg-logo="https://i.imgur.com/QNpsZx1.png",Taiwan-TVB XING HE
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/xinghe.m3u8
@@ -7523,7 +7557,6 @@ http://php.jdshipin.com:8880/smt.php?id=Xinhe
 #KODIPROP:inputstream.adaptive.license_key=7f123a83acae4361b3c2d5d8d918ff1a:7031880a4c0c7e29014e32554b8b422d
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBXingHe/mpd/TVBXingHe.mpd
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AFrcpmJ.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- TVBS ENTERTAINMENT CHANNEL 歡樂台
 https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
 #http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
@@ -7532,7 +7565,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
 http://198.16.100.186:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
 http://50.7.234.10:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/AFrcpmJ.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- TVBS 歡樂台 HD
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
 http://125.227.210.55:8187/VideoInput/play.ts
@@ -7540,7 +7572,6 @@ http://125.227.210.55:8187/VideoInput/play.ts
 #EXTINF:-1, group-title="2.8🛑Vios-COUNTRY" tvg-id="CHN" tvg-logo="https://i.imgur.com/RLjddWY.jpg",Taiwan- TVBS ASIA
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvbsasia.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=Tvbasia
-
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nmuAY5Z.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- TVBS台劇台
 #http://4gtv.mumi.rip:9877/285/4gtv-live088/index.m3u8
@@ -7567,11 +7598,9 @@ https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvbjade.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/MnWNvw6.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- TVB CLASSIC
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvbclassic.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
-
 
 #EXTINF: -1 tvg-id="6108" tvg-logo="https://i.imgur.com/PGIedb2.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- TAIWAN+
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
@@ -7579,15 +7608,12 @@ https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1
 #EXTINF: -1 tvg-id="DLD.TW" tvg-logo="https://i.imgur.com/1PWcINe.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- DALI 大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PuhQeUk.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- 東森超視 34.5
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-
 
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/nS8i6by.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- PHOENIX CHINESE CHANNEL
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/phoenixchn.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
-
 
 #EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/UlTx7SN.png" group-title="2.8🛑Vios-COUNTRY",Taiwan-PHOENIX INFO NEWS
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/phoenix_info.m3u8
@@ -7887,94 +7913,139 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8qlDA5N.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- Dong Nai 2
 http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w828434596_b1384000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sPyR9t6.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- BAc Ninh
 http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n02cvKQ.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- Lai ChAu
 http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&location=NA&pkg=pkg11.hni
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iaexSxL.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- LAm Dong
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJsuiHq.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- PhU YEn
 http://113.161.4.48:8080/phuyen/tv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kETe9LN.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- Cao BAng
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w1913809165_b1384000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXqjjUf.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- HA Giang
 http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&location=NA&pkg=pkg11.hni
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/180.png" group-title="2.8🛑Vios-COUNTRY",Vietnam-  THTG HD | TH Tiền Giang
 http://123.25.238.45:1935/live/thtg/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/127.png" group-title="2.8🛑Vios-COUNTRY",Vietnam-  CRTV HD | TH Cao Bằng
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/155.png" group-title="2.8🛑Vios-COUNTRY",Vietnam-  LTV HD | TH Lâm Đồng
 http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ui0sjEz.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- HAi PhOng+
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iq9JLb9.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- HAi PhOng
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JAglyuT.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- HUng YEn
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jtyDVU5.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- Dak LAk
 https://live.mediatech.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NgcSFah.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- HA Nam
 https://live.mediatech.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j9lbGel.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- BAc Giang
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/109.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- ช่อง BGTV HD | TH Bắc Giang
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yxz02UD.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- LAng SOn
 https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pL4NqYO.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- Ninh BInh
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N2gUYoh.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- KhAnh HOa
 https://tv.ktv.org.vn/hls/ktv2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TUUW6qB.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- KiAn Giang 1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YkEommU.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- CA Mau
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0yZnK57.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- BInh Dinh
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/114.png" group-title="2.8🛑Vios-COUNTRY",Vietnam-  BTV HD | TH Bình Định
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GeOj5K5.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- KiAn Giang
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601" group-title="2.8🛑Vios-COUNTRY",Vietnam-  TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TFTkBVt.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- Kon Tum
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9bFk5Lj.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- Ninh ThuAn
 https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1911661624.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7WTixVS.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- BInh PhUoc 2
 https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/123.png" group-title="2.8🛑Vios-COUNTRY",Vietnam-  BPTV2 HD | TH Bình Phước
 https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ldwQU4L.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- LAo Cai
 https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KrYncYX.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- HAi DUong
 http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&type=tv&location=NA&pkg=pkg11.hni
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/140px-WION_news_Logo.svg.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- ช่อง WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8ufYjD.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- HOa BInh.
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMDRDxN.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- DiEn BiEn
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&location=NA&pkg=pkg11.hni
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6HQeLRw.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- BAc KAn
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&type=tv&location=NA&pkg=pkg11.hni
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0fGI8cJ.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- CAn ThO
 https://live.canthotv.vn/live/tv/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tW0pGBM.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- BInh ThuAn
 https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/130.png" group-title="2.8🛑Vios-COUNTRY",Vietnam-  DRT HD | TH Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eRpyJmO.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- Quang Nam
 https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/126.png" group-title="2.8🛑Vios-COUNTRY",Vietnam-  THTPCT HD | TH Cần Thơ
 https://live.canthotv.vn/live/tv/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/140.png" group-title="2.8🛑Vios-COUNTRY",Vietnam-  THHN HD | TH Hà Nam
 https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/124.png" group-title="2.8🛑Vios-COUNTRY",Vietnam-  BTV HD | TH Bình Thuận
 https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/112.png" group-title="2.8🛑Vios-COUNTRY",Vietnam-  BLTV HD | TH Bạc Liêu
 https://tv.thbl.vn/live/tv/tv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ATG11ql.png" group-title="2.8🛑Vios-COUNTRY",Vietnam- BAc  LiAu
 https://tv.thbl.vn/live/tv/tv.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/143.png" group-title="2.8🛑Vios-COUNTRY",Vietnam-  HTTV HD | TH Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 
@@ -8105,8 +8176,6 @@ https://stream.radiojar.com/qfqd2aw80k8uv
 #EXTINF:-1 tvg-logo="https://traxonsky.com/wp-content/uploads/2021/12/trax-all-new-logo-2022-02-300x138.png" group-title="🛑Vios-RADIO",Trax FM Jakarta
 https://stream.radiojar.com/rrqf78p3bnzuv.mp3?1729556952
 
-
-
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/6/c/e/6ce08d99cf108744c63e6ba72aa941a3_icon.png" group-title="🛑Vios-RADIO",Hard Rock FM Bandung
 http://stream.radiojar.com/fnex9bkswk8uv
 
@@ -8115,7 +8184,6 @@ http://stream.radiojar.com/yg8ne2v80k8uv
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/6/c/e/6ce08d99cf108744c63e6ba72aa941a3_icon.png" group-title="🛑Vios-RADIO",Hard Rock FM Bali
 http://stream.radiojar.com/9k28wsbu5k8uv
-
 
 #EXTINF:-1 tvg-logo="https://iili.io/JmS5das.png" group-title="🛑Vios-RADIO",Pro 3 RRI
 https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
@@ -8786,8 +8854,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/06/Snow.White.
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/sexwl8lMBQZMmDhRtmVyHQewvVm.jpg",Dajal: Satu Malam Dipedajal (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/06/Night.of.Deception.Dajal.Satu.Malam.Dipedajal.2025.mp4/tracks-v1a1/mono.m3u8
 
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6lamti02vdF6xvxA7aj3Ohwaxtk.jpg",Worlds Apart (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/05/Worlds.Apart.2025.mp4/tracks-v1a1/mono.m3u8
@@ -8810,7 +8876,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/05/Scissors.20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/bnciRmZZSdyqp7HcrAwNG0mObaP.jpg",The Calendar Killer (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/05/The.Calendar.Killer.Sebastian.Fitzeks.der.heimweg.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/gBpWci0BDNjA9B010kRVIKF3mMV.jpg",The Old Way (2025)
@@ -8862,7 +8927,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/01/Drop.2025.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hsID52Xm8VyljFoILd4eW1ZtJ76.jpg",🔵 Bloat (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/05/Bloat.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/4vWDKzP6aA962Pkyb8puS106gVN.jpg",Murder at the Lighthouse (2025)
@@ -8949,8 +9013,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/10/Last.Breath
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",A Working Man (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/14/A.Working.Man.2025.mp4/tracks-v1a1/mono.m3u8
 
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/1n7CuKBshPOBtWFg5xomRr19Ydt.jpg",Oklahoma City Bombing: American Terror (2025)
 https://cdn1.turboviplay.com/data1/680487efc077c/680487efc077c720.m3u8
@@ -8983,7 +9045,6 @@ https://cdn1.turboviplay.com/data1/68026f2585e10/68026f2585e10720.m3u8
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/qysOAJmH1iZgIPAot2OYt782dQ0.jpg",Distort (2025)
 https://cdn1.turboviplay.com/data1/67ff7592092d6/67ff7592092d6720.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/n0WS2TsNcS6dtaZKzxipyO7LuCJ.jpg",The Woman in the Yard (2025)
 https://cdn1.turboviplay.com/data1/67ffdb3f676ab/67ffdb3f676ab720.m3u8
@@ -9008,8 +9069,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/07/Pets.2025.m
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/xNINmmVZuRn2MWo34Mj42OjBntN.jpg",Tyler Perry’s Duplicity (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/06/Tyler.Perrys.Duplicity.2025.mp4/tracks-v1a1/mono.m3u8
 
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/vi6LF8rTdU4DeYrXTtUBqG9gFnX.jpg",Shadow of God (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/07/Shadow.of.God.2025.mp4/tracks-v1a1/mono.m3u8
@@ -9020,12 +9079,9 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/07/Shadow.of.G
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/9rCBCm9cyI4JfLEhx3EncyncMR3.jpg",Home Sweet Home: Rebirth (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/07/Home.Sweet.Home.Rebirth.2025.mp4/tracks-v1a1/mono.m3u8
 
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/95KmR0xNuZZ6DNESDwLKWGIBvMg.jpg",The Alto Knights (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/07/The.Alto.Knights.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/i7cDPuT59TuV6hjxcrPkQONkd5Q.jpg",Frozen Hot Boys (2025)
@@ -9095,12 +9151,9 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/Mouse.of.Ho
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/uKOCOfTg8NWFiFudcHytxYLKrgY.jpg",Womb (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/04/Womb.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/h0bu4miAIDY3eKhqtHlGslbeggG.jpg",Bleed for Past (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/03/Bleed.for.Past.2025.mp4/tracks-v1a1/mono.m3u8
-
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/fulEdvN5u6mIpwig7HcBnYpkJEQ.jpg",The Last Supper (2025)
@@ -9117,7 +9170,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/17/Shiver.Me.T
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",Black Bag (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/17/Black.Bag.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/4pl2nmEyIFjq1ZZdTuuEeRGsUf6.jpg",The Forest Clown (2025)
@@ -9140,11 +9192,9 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/16/Renner.2025
 https://cloud.hownetwork.xyz/xxx/f5192564fd1f0cac82ee4591942b6a4c/31/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/16/The.Rule.of.Jenny.Pen.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/xuiOnu5HxFb67F0fm8mswtIppAZ.jpg",🔵 Love Hurts (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/14/Love.Hurts.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/fXkKcPshOZHdHgPvSvuYFmDGDFI.jpg",Babah (2025)
@@ -9174,22 +9224,16 @@ https://cdn4.turboviplay.com/data1/67e6d29249600/67e6d29249600720.m3u8
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/39jIr3A4ScUeGxFdMeARYKNxTgU.jpg",Holland (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/14/Holland.2025.mp4/tracks-v1a1/mono.m3u8
 
-
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/4u1bsyWs2stki09nl8TDPIWcflE.jpg",Beat The Tiger (Chu Fei) (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/13/Beat.The.Tiger.Chu.Fei.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/4u1bsyWs2stki09nl8TDPIWcflE.jpg",Dragon (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/13/Dragon.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",🔴 Ne Zha 2 (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/12/Ne.Zha.2.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/m9UtcOEQBtCrRHEI0B2ok4LzdM.jpg",Popeye: The Slayer Man (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/12/Popeye.The.Slayer.Man.2025.mp4/tracks-v1a1/mono.m3u8
@@ -9211,14 +9255,11 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/12/Cleaner.202
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/q0eR7Ser6JxKYQdPFGTdqY1nc0Q.jpg",High Ground (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/12/High.Ground.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/pYrmTaOnMgvS59OKSxkCSrhISoL.jpg",Tyler Perry’s Duplicity (2025)
 https://cloud.hownetwork.xyz/xxx/b7237932a82dc5cbec394800d1f386f3/31/480.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/z2yAWt1aAvhxap9mdjlQhXiEJT4.jpg",Borderline (2025)https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/08/Borderline.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/nd5Heotj6nlxM38Gjt7beq7BJS1.jpg",My Dead Friend Zoe (2025)
 https://sr81.ulrikeumdqputm.sbs/v4/rw/q3aqmb/cf-master.txt?v=1742376780|referer=https://klikxxi.upns.one/&origin=https://klikxxi.upns.one/&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
@@ -9237,31 +9278,24 @@ https://cdn3.turboviplay.com/data1/67dad697bb9ce/67dad697bb9ce720.m3u8
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/01/film-fateh-2025-lk21-d21.jpg.webp",Fateh (2025)
 https://cloud.hownetwork.xyz/xxx/eb818eb8cbae34cd66ddc2f320ebf617/25/480.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/cACC8N7cZWscPrlcNdPsx43xJmx.jpg",Qimen Mechanism Volume (2025)
 https://cloud.hownetwork.xyz/xxx/92e1d7053ed11a1548167eadafee699c/25/480.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7YZ0JRRD7mt8Ov9eIEGWMbDybx2.jpg",Silent Zone (2025)
 https://cloud.hownetwork.xyz/xxx/e0c6be20c77680660c3e6f3ad829a67a/25/480.m3u8
 
-
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/1tA8FjzfwxwZIKom7Jh36CPoqo0.jpg",Bleed for Past (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Apr/03/Bleed.for.Past.2025.mp4/tracks-v1a1/mono.m3u8
-
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/jRdxyW5ZmhD3ycStlb7gwOewTuE.jpg",The Electric State (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/08/The.Electric.State.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/kmQb07CrOddVGV0Q73aeU4e8I18.jpg",Control Freak (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/08/Control.Freak.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ugMPpC7EkY5caAZU4pAl2CYdfP0.jpg",Be Happy (2025)
@@ -9280,7 +9314,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/07/The.Parenti
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/sXVuR2G7ohLzfOBGDarjpM1SRCI.jpg",Ride the Snake (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/07/Ride.the.Snake.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vtdEHG1j07PqLlVyhKNZRHTPKGt.jpg",🔵 Wolf Man (2025)
 https://cloud.hownetwork.xyz/xxx/cfd0e834c63bd58acb444a46bbc68b0c/25/480.m3u8
@@ -9293,11 +9326,9 @@ https://cloud.hownetwork.xyz/xxx/589950dc64938c61470103cecd833c49/25/480.m3u8
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/9Qv16IqRfz4tilsHBRyWiufNy4D.jpg",The Story of Detective Zhan Zhao (展昭·探案) (2025)
 https://cloud.hownetwork.xyz/xxx/5d9c1bdd4e5124001fe42a487d19b350/25/480.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/2WoKKvmRrEcTlrhZiRnwD2rGq0I.jpg",Green Snake: The Origin (青蛇缘起) (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/06/Green.Snake.The.Origin.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/yWCNDb1ORy2UdhmK0fZISGsMdHU.jpg",Elite Force: B.R.I. – Body Recovery Immmusination (2025)
@@ -9307,87 +9338,72 @@ https://cloud.hownetwork.xyz/xxx/a9fb9120c7954d32877a7cc195d07771/25/480.m3u8
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/wXi3HeTIfoBOBWK6RQKKGW44wuG.jpg",Woods of Ash (2025)
 https://cloud.hownetwork.xyz/xxx/e8ebda4c0c8cd6d5fbffca77a0c8d675/25/480.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/lcWOKxTVZybE8aRUhzkKokU2s0s.jpg",Chaos: The Manson Murders (2025)
 https://cloud.hownetwork.xyz/xxx/15be7eccc6b316f18d37d05f75593d01/25/480.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/3W1PZYEiDXWLLjLCMUbRPfjHxmq.jpg",Delicious (2025)
 https://cloud.hownetwork.xyz/xxx/7e8ed932c91ad20486a3e617515578c6/25/480.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hGaUNLF5VZbg9ovPTyjm9Rv5xWz.jpg",Plankton: The Movie (2025)
 https://cloud.hownetwork.xyz/xxx/4a72633195691748de4ca2a1b82a3e52/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/04/Plankton.The.Movie.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/aDlystAxo1CVDE2FfML2A6NOB6Z.jpg",Tiger Squad (2025)
 https://cloud.hownetwork.xyz/xxx/3b384aa6d4125bd0fa86eb7551fb3993/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/04/Tiger.Squad.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/uDVsBMUE3QI0lZE44vfqpIojqRg.jpg",Barbie and Teresa: Recipe for Friendship (2025)
 https://cloud.hownetwork.xyz/xxx/48a366ebca9aead026d3465c6b87bafb/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/04/Barbie.and.Teresa.Recipe.for.Friendship.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/3kN0mj58gaOEEqa4qYky2sHIS8Z.jpg",Dragon Seduction (Loong of the Oceans) (2025)
 https://cloud.hownetwork.xyz/xxx/7e8542d94a385d1bfbb8c1bd44564ab5/25/480.m3u8
 https://seneng.org/v/driveid-198141-webdl-1080-terbit21-com-loong-of-the-oceans-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/oKOBmI4IA7NJ9MQngDIQUyv1i0I.jpg",Nadaaniyan (2025)
 https://cloud.hownetwork.xyz/xxx/e9d3992a69dad32b403f0de2911be7ec/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/04/Nadaaniyan.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/2Abt2GgscAGtGAXTrhH44qPhugI.jpg",Dark Nuns (2025)
 https://cloud.hownetwork.xyz/xxx/c2b9ed4b13da671a025b2ae7d3139abf/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/04/Dark.Nuns.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/zNx92KgGTJrkmL1PatGYSg2rTMR.jpg",Larissa: The Other Side of Anitta (2025)
 https://cloud.hownetwork.xyz/xxx/f53c9e9f439b142324b1d27db153bdf9/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/03/Larissa.The.Other.Side.of.Anitta.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/4kLK3cl4MbrjVFDQXb9PT11ZaV4.jpg",Heart Eyes (2025)
 https://cloud.hownetwork.xyz/xxx/c6f6720c8cd3110454c563608f3ee1e9/31/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/04/Heart.Eyes.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/exQZhSIBY79HEetphEZOC9VGuhm.jpg",The Golden Voice (2025)
 https://cloud.hownetwork.xyz/xxx/5c314f34aeb11fe9ce518e47627ddde7/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/02/The.Golden.Voice.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/j3Q2MrpmaOrKfN2pInNvRNhYa4G.jpg",Putin (2025)
 https://cloud.hownetwork.xyz/xxx/4b1be035f5924139cae0a66f991840d8/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/02/Putin.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/x4nWnfgJvL045rcUCSJzfgIIY9i.jpg",Fight or Flight (2025)
 https://cloud.hownetwork.xyz/xxx/ba0c5aa7fd81f3d6e943fa4cdecc254b/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/02/Fight.or.Flight.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/yx7AYFLoupzBfdfEAlDFuOiei2A.jpg",Vidaamuyarchi (2025)
 https://cloud.hownetwork.xyz/xxx/3b7a59f7fdb3d698ac373de55408d7c6/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/02/VidaaMuyarchi.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/wNKm4nC6vUyI1UluEr9nNNhGkNw.jpg",Cold Wallet (2025)
@@ -9400,47 +9416,39 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/01/Cold.Wallet
 https://cloud.hownetwork.xyz/xxx/8ed7628c76d8951d60cdf2d9bbaa3e5f/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/01/We.Kill.Them.All.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/lI2uFlSEkwXKljqiry7coaJ6wIS.jpg",Counterstrike (2025)
 https://cloud.hownetwork.xyz/xxx/00d55c4b04e09107a90c842357bad879/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/01/Counterstrike.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/AnDwpI8dY8iqJVUwVS5UotYAbB1.jpg",Squad 36 (2025)
 https://cloud.hownetwork.xyz/xxx/279ae25c0015cb4f6054d37ca0ef58a2/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/01/Squad.36.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/aau2E9HW5TvlxoNPHET6ZnAcV72.jpg",A Copenhagen Love Story (2025)
 https://cloud.hownetwork.xyz/xxx/ccae5331f5c31a116157e60f49559e2c/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/01/A.Copenhagen.Love.Story.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/fQ9hzto0cUuxjfzqNAiAnNJo8O7.jpg",Demon City (2025)
 https://cloud.hownetwork.xyz/xxx/bffc541e7dc7cdd149fbb7592d0b0d84/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/01/Demon.City.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/cr6y0nWdfPb3yZT9Iz63zTE1dQE.jpg",Sosyal Climbers (2025)
 https://cloud.hownetwork.xyz/xxx/e75f5dfc3d2a3c700a39fc425534ff4b/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/01/Sosyal.Climbers.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/2M0CF7UsbpQ45xGuVRhExAhUWBj.jpg", Don’t Die: The Man Who Wants to Live Forever (2025)
 https://cloud.hownetwork.xyz/xxx/14195fd0dd08728100507b6d50557071/25/480.m3u8
 h
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/xZIGHoHj0DF0zdibwa66cRWHdHO.jpg",Presence (2025)
 https://cloud.hownetwork.xyz/xxx/e101d11ae41ece7d58a426cf3921e55e/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/14/Presence.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg",Inheritance (2025)
@@ -9453,31 +9461,26 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/13/Inheritance
 https://cloud.hownetwork.xyz/xxx/ca5e99a3cff916b59bdc41927cc73ce8/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/13/Bone.Face.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/rGW9ad5TERuoluGSkgF1wHXP45H.jpg",Daaku Maharaaj (2025)
 https://cloud.hownetwork.xyz/xxx/2b11838fa0c707e047eb0a74eac33b86/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/13/Daaku.Maharaaj.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/sf6j1SbgDf7VTjL1MRq5MAQSOyE.jpg",The Bayou (2025)
 https://cloud.hownetwork.xyz/xxx/885bbc857b1c8b8271611f82b4b18f2b/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/12/The.Bayou.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg",Valiant One (2025)
 https://cloud.hownetwork.xyz/xxx/029753aaa70b481cd4251f3708cff83a/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/12/Valiant.One.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/aHHCXbPjI6xHJoo5fkBNmPm2lo1.jpg",Popeye's Revenge (2025)
 https://cloud.hownetwork.xyz/xxx/efcc1f196e4bb63d98817d82a7589bb2/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/11/Popeyes.Revenge.2025.mp4/tracks-v1a1/mono.m3u8
 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTVLCOPT:http-user-agent=Mozilla/5. (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ihLFcDHv0PdSscrdLFoFtgo6QkH.jpg",Tokyo Nights (2025)
 https://seneng.org/v/driveid-196906-webdl-1080-terbit21-com-tokyo-nights-2025.m3u8|referer=https://t21.press/&user-agent=PlusMediaPlayer/0.0.9
 
@@ -9486,37 +9489,30 @@ https://seneng.org/v/driveid-196906-webdl-1080-terbit21-com-tokyo-nights-2025.m3
 https://cloud.hownetwork.xyz/xxx/64a1451c538da03c8d0d6e991f634d72/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/11/Dog.Man.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/mhg1zYmo0CwQITXEIs45lxR5EOE.jpg",The Dead Thing (2025)
 https://cloud.hownetwork.xyz/xxx/46bebb8a7b92461a5ff682bf26f1a231/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/10/The.Dead.Thing.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/taEVBdVSqYo9YeN3ycw2SosklZL.jpg",Bridget Jones  Mad About the Boy (2025)
 https://cloud.hownetwork.xyz/xxx/fa420dee4ac2c8f65e761987e5a8a012/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/10/Bridget.Jones.Mad.About.the.Boy.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/5B7Px0GfJwNMRD5PWJW3d0seo7O.jpg",The Cursed Village (2025)
 https://cloud.hownetwork.xyz/xxx/589950dc64938c61470103cecd833c49/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mar/06/The.Cursed.Village.2025.mp4/tracks-v1a1/mono.m3u8
-
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/fLsqbS6polYms46pJ02nCmH5MjN.jpg",Umjolo  There Is No Cure (2025)
 https://cloud.hownetwork.xyz/xxx/f85672d4c328ffa450460becb7ebf945/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/10/Umjolo.There.Is.No.Cure.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/e2yAyz0PR43aIxnGjv9HJryHBys.jpg",Love Forever (2025)
 https://cloud.hownetwork.xyz/xxx/b2938778f0663766f3fbbec7ec5d8fbf/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/10/Love.Forever.Karlek.farever.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg",The Gorge (2025)
@@ -9540,37 +9536,30 @@ https://cdn.turboviplay.cc/data1/67b0455426ac9/67b0455426ac9720.m3u8
 https://cloud.hownetwork.xyz/xxx/cf3656408174245d80a6e020ab304d69/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/09/Dhoom.Dhaam.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mfy5SyaNBleBACs5mIVudDP7UNY.jpg",The Witcher  Sirens of the Deep (2025)
 https://cloud.hownetwork.xyz/xxx/362186a2f4606946251d5f5d457e11ad/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/08/The.Witcher.Sirens.of.the.Deep.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uiFSFpRzs2ue14aVBHKwXPFSCj8.jpg",Identity (2025)
 https://cloud.hownetwork.xyz/xxx/3110582825a849c89221aed04cb37010/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/08/Identity.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bzW0afBIyWZ0bjCje8GPezvETy0.jpg",Honeymoon Crasher (2025)
 https://cloud.hownetwork.xyz/xxx/477ebe248a9f031ef72119f417dd242f/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/08/Honeymoon.Crasher.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/f1KLUpaW7rbXhUm5SxG1lpPFFCJ.jpg",Sky Force (2025) 🔴
 https://cloud.hownetwork.xyz/xxx/f5cb5feb96cc766bd55fb23927c6a1c2/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/07/Sky.Force.2025.mp4/tracks-v1a1/mono.m3u8
 
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6Tzq8vYW5ji0WQnMkg8kBFx3tWJ.jpg",Black Diamond (2025)
 https://cloud.hownetwork.xyz/xxx/b9f0897073d61cbf370b66eba0ab3007/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/07/Black.Diamond.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5wZNFUJAwyX6RCxdqrLO9lLWJ20.jpg",Piglet (2025)
@@ -9582,7 +9571,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/07/Piglet.2025
 https://cloud.hownetwork.xyz/xxx/745a9c9b514e5a3812df99ec47e618e0/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/Game.Changer.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5T9WR7vIOnHm6xhVt5zBuPbBgt1.jpg",The Gardener (2025)
 https://cloud.hownetwork.xyz/xxx/46e08a992733136f93acc49dfc111897/25/480.m3u8
@@ -9592,7 +9580,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/The.Gardene
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/znlcaqgOppgEl7eHiTYo55gD8Fy.jpg",Bodyguard 3 (2025)
 https://cloud.hownetwork.xyz/xxx/6e0e3be5ae97d1556ea72bb1e17fd348/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/Bodyguard.3.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ee9iNQi91kpIkdfsAiGmJO7QdSF.jpg",With You in the Future (2025)
@@ -9604,7 +9591,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/06/With.You.in
 https://cloud.hownetwork.xyz/xxx/50eac53421708dc097f2babe6b726d49/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/05/Wish.You.Were.Here.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Xzf7IHltlUHosVKKW7cKWtTv1n.jpg",Invincible Swordsman (2025)
 https://cloud.hownetwork.xyz/xxx/a9dd313b2e5622b34369c1dfcef061d7/25/480.m3u8
@@ -9614,17 +9600,14 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/05/Invincible.
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mkxZ2dZPowd3qhLMavZc2mBRBig.jpg",Guardian of Graveyard (2025)
 https://cloud.hownetwork.xyz/xxx/1cce4f5b5c17637e6a1ea59063598032/25/480.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cEJotKlZ6Mts3sLfMsurERfjM4M.jpg",Anaconda Island (2025)
 https://cloud.hownetwork.xyz/xxx/fba1256400dec3c4a30b87b70e82ecf5/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/03/Anaconda.Island.Island.Python.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nlmhmxEZYg0SAyCHB22DS225EYR.jpg",Kutty Vaathiyar (2025)
 https://cloud.hownetwork.xyz/xxx/bb8d38d840216cfcd7fc0b232829c116/25/480.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fX3Q5hxUAUs1k8JQkNTwFpBd6BC.jpg",Lucca's World (2025)
@@ -9636,11 +9619,9 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Feb/01/Luccas.Worl
 https://cloud.hownetwork.xyz/xxx/fe81c75d192987e40fd74043588341bb/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/21/Youre.Cordially.Invited.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rzk6rY7VBy3SJI1r7Hln1PEP6nk.jpg",Agent Recon (2025) 🔵
 https://cloud.hownetwork.xyz/xxx/2dc5d37eaba9e2a9d2e917184aa14a98/25/480.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/y6tjYgG458dOp948Oy6km7aCDlg.jpg",The Intruder (2025)
@@ -9656,17 +9637,14 @@ https://cloud.hownetwork.xyz/xxx/163b5ad54b46579912a4992086208540/25/480.m3u8
 https://cloud.hownetwork.xyz/xxx/f34ada2720ea259e77d120b72e646e2a/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/18/Sunray.Fallen.Soldier.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iTEqLT7ki9ovDcJnzM6xCH0kAS7.jpg",Bleed For Justice (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/17/Bleed.For.Justice.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sqiCinCzUGlzQiFytS30N1nO3Pt.jpg",Star Trek  Section 31 (2025)
 https://cloud.hownetwork.xyz/xxx/89d8e8d577a11f7bc1adef24936d94d3/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/17/Star.Trek.Section.31.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/6Cq6caJBoFu5BOCEXkXt2l8lIbb.jpg",Fortune Teller (2025)
@@ -9682,11 +9660,9 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/17/Atrocious.2
 https://cloud.hownetwork.xyz/xxx/f29ca290fef4897d9754e57f4bd4bda3/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/16/Henry.Danger.The.Movie.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tHkFVhZji6o9UyHXezAeFma8IOW.jpg",Into the Deep (2025) 🔵
 https://cloud.hownetwork.xyz/xxx/5fe9226824f50c1ad6d195d6ca09df43/25/480.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/TVvIyCsFCmLk9MRLbAZi4X8f32.jpg",Sniper  The Last Stand (2025)
@@ -9702,12 +9678,10 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/14/The.Bear.La
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/3L3l6LsiLGHkTG4RFB2aBA6BttB.jpg",Back in Action (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/11/Back.in.Action.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kzZjCmum13xtqEGNZ9GUvrIlJoO.jpg",Life of Belle (2025)
 https://cloud.hownetwork.xyz/xxx/e822866a1ac9fb8be91a4149a9b45515/26/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/11/Life.of.Belle.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cuPqxATt872rKIR1WZI83TcpKw6.jpg",Man with No Past (2025)
@@ -9722,7 +9696,6 @@ https://cloud.hownetwork.xyz/xxx/d5c6082e7b65098cc8910b929cc14c1d/26/480.m3u8
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/15S0xOO4d7zBgasV2qNo03Ax7Qb.jpg",Den of Thieves 2  Pantera (2025)
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/19/Den.of.Thieves.2.Pantera.2025.mp4/tracks-v1a1/mono.m3u8
 https://cloud.hownetwork.xyz/xxx/163b5ad54b46579912a4992086208540/25/480.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://klikxxi.com/wp-content/uploads/2025/01/zH3CBGX0pQA8e9Psxy5BXdzbAJP-170x255.jpg",The Gardener (2025)
@@ -9754,12 +9727,10 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/05/Evil.of.The
 https://cloud.hownetwork.xyz/xxx/b318aee5a9eb3a410cdaf7556855da4b/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/14/The.Damned.2025.mp4/tracks-v1a1/mono.m3u8
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7VqUPN0oRHfYV9hdZcal1ZzffmV.jpg",Don't Die  The Man Who Wants to Live Forever (2025)
 https://cloud.hownetwork.xyz/xxx/14195fd0dd08728100507b6d50557071/25/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Jan/01/Dont.Die.The.Man.Who.Wants.to.Live.Forever.2025.mp4/tracks-v1a1/mono.m3u8
-
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="🛑Vios-FILM 2025" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",Nosferatu (2025)
