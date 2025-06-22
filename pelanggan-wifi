@@ -7247,11 +7247,8 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
 #EXTINF:0 group-title="2.8🛑Vios-COUNTRY" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg",Taiwan- 民視
 https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-#http://4gtv.mumi.rip:9877/3/4gtv-4gtv002/index.m3u8
 
 #EXTINF:0 group-title="2.8🛑Vios-COUNTRY" tvg-logo="https://i.imgur.com/RgUqF7q.jpeg",Taiwan- 民視
-rtmp://f13h.mine.nu/sat/tv051
-http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 http://198.16.100.186:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
 
 #EXTINF:0 group-title="2.8🛑Vios-COUNTRY" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",Taiwan-民視新聞台
@@ -7259,23 +7256,15 @@ http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 #EXTINF:0 group-title="2.8🛑Vios-COUNTRY" tvg-logo="https://i.imgur.com/TmnVzaA.jpeg",Taiwan-民視新聞台
 http://198.16.100.186:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
-http://50.7.234.10:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
-#http://4gtv.mumi.rip:9877/31/litv-ftv13/index.m3u8
 
 #EXTINF:0 group-title="2.8🛑Vios-COUNTRY" tvg-logo="https://i.imgur.com/LRBVNgI.jpg",Taiwan-民視台灣台
 http://198.16.100.186:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
-http://198.16.100.186:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
-#http://4gtv.mumi.rip:9877/2/4gtv-4gtv001/index.m3u8
-http://50.7.234.10:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- SET TAIWAN 三立台湾台
-https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
-http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Frxwt5h.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- SET TAIWAN 三立台湾台
 http://198.16.100.186:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
-http://50.7.234.10:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NqcJBE7.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- 三立戲劇台
 https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
@@ -7285,18 +7274,15 @@ http://61.221.215.25:8800/hls/41/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t47oKiE.png" group-title="2.8🛑Vios-COUNTRY",Taiwan-SET 三立综合台
 https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
-#http://4gtv.mumi.rip:9877/169/4gtv-live207/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t47oKiE.png" group-title="2.8🛑Vios-COUNTRY",Taiwan-SET 三立综合台
 http://198.16.100.186:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-http://50.7.234.10:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/N7lGEq1.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- SET METRO 三立都會台
 http://198.16.100.186:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
 http://50.7.234.10:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5uAIjqL.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- SET iNEWS 三立新聞台
-
 #http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2xhb2ap.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- SET LIVE 三立新聞台
@@ -7308,7 +7294,7 @@ http://125.227.210.55:8162/VideoInput/play.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/2xhb2ap.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- SET NEWS+ 三立新聞台
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ezNf75Z.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- SET INTERNATIONAL 三立国际台
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/setinternational.m3u8
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/setinternational.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/WEWJbRx.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- 台视
@@ -7329,7 +7315,7 @@ http://50.7.234.10:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L9l8lTP.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- 中天亚洲台
 https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
-http://198.16.100.186:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
+
 http://50.7.234.10:8278/ctiasia_twn/playlist.m3u8?tid=MBAB5565131955651319&ct=19249&tsum=6c292a6f51658779ced6a108f779ed35
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ctiasia.m3u8
 
@@ -7342,8 +7328,9 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Sm7HwxJ.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- CTI ENTERTAINMENT 中天娱乐台
 https://smart.pendy.dpdns.org/Smart.php?id=ctient
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L9l8lTP.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- 亚洲台
 http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
-http://198.16.100.186:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
+
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ghi7mRm.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- 中天新聞台
 https://smart.pendy.dpdns.org/Smart.php?id=ctinews
@@ -7351,7 +7338,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=ctinews
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ghi7mRm.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- 中天新聞台
 http://198.16.100.186:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
-#http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0f3Iq4V.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- 中视
 https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
@@ -7359,7 +7345,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0f3Iq4V.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- 中视
 http://198.16.100.186:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
-#http://4gtv.mumi.rip:9877/4/4gtv-4gtv040/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ilA8RHU.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- CTV NEWS 中视新闻
 https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
@@ -7367,7 +7352,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ilA8RHU.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- CTV NEWS 中视新闻
 http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 http://50.7.234.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
-#http://4gtv.mumi.rip:9877/33/4gtv-4gtv074/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/lUGJt37.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- ASIA TRAVEL 亞洲旅遊台
 https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
@@ -7382,7 +7366,6 @@ https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8AvzEoi.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- 華視 CTS
 http://198.16.100.186:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
 http://50.7.234.10:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81
-#http://4gtv.mumi.rip:9877/6/4gtv-4gtv041/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/vysg9SK.jpeg" group-title="2.8🛑Vios-COUNTRY",Taiwan- 華視新聞
 #http://4gtv.mumi.rip:9877/34/4gtv-4gtv052/index.m3u8
@@ -7586,7 +7569,6 @@ http://50.7.234.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsu
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uXOarPt.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- TVBS 新聞台
 https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 http://198.16.100.186:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-#http://4gtv.mumi.rip:9877/291/4gtv-4gtv072/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uXOarPt.png" group-title="2.8🛑Vios-COUNTRY",Taiwan- TVBS 新聞台
 #EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
