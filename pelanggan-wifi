@@ -2504,7 +2504,7 @@ https://hotlivezz179602324.akainu.xyz/1WK1lDlKzAeAH2bjlKkX6Q/Fv2lucGIbhPi2caWYvF
 
 
 
-############################################     LOKAL     #####################################################
+############################################     🛑Vios-LOKAL     #####################################################
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/mnctv.png" group-title="1.1 🛑Vios-LOKAL",MNC TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -2706,7 +2706,8 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 
 
-################    FILM    ##################
+
+############################################     🛑Vios-FILM     #####################################################
 <=================== HBO ===================>
 #EXTINF:-1 group-title="1.2 🛑Vios-FILM" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbosig.png", HBO SINGNATURE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -3010,21 +3011,25 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
 #EXTINF:-1 tvg-ID="" tvg-name="Tring Life" tvg-logo="https://i.imgur.com/GRPctzY.png" group-title="",Tring Life
 http://62.210.123.134:98/live/an75d/75d/16.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="Tring Fantasy" tvg-logo="https://i.imgur.com/GRPctzY.png" group-title="1.2 🛑Vios-FILM",TRING FANTASY
 http://62.210.123.134:98/live/an75d/75d/13.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="Tring Action" tvg-logo="https://i.imgur.com/GRPctzY.png" group-title="1.2 🛑Vios-FILM",TRING ACTION
 http://62.210.123.134:98/live/an75d/75d/17.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="Tring Super" tvg-logo="https://i.imgur.com/GRPctzY.png" group-title="1.2 🛑Vios-FILM",TRING SUPER
 http://62.210.123.134:98/live/an75d/75d/20.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="Tring Shqip" tvg-logo="https://i.imgur.com/GRPctzY.png" group-title="1.2 🛑Vios-FILM",TRING SHQIP
 http://62.210.123.134:98/live/an75d/75d/19.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="Jolly HD" tvg-logo="https://i.imgur.com/GRPctzY.png" group-title="1.2 🛑Vios-FILM",JOLLY HD
 http://62.210.123.134:98/live/an75d/75d/109.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="Fox" tvg-logo="https://i.imgur.com/GRPctzY.png" group-title="1.2 🛑Vios-FILM",Fox
 http://62.210.123.134:98/live/an75d/75d/108.ts
 
-#EXTINF:-1 tvg-id="110" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/ccm.png" group-title="1.2 🛑Vios-FILM", CCM 
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s31/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CCM_Celestial_Classic_MV-
 
@@ -3041,7 +3046,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 tvg-id="55" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/trill.png" group-title="1.2 🛑Vios-FILM", THRILL
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Thrill
+http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Thrill
 
 #EXTINF:-1 tvg-id="59" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tvnmovies.png" group-title="1.2 🛑Vios-FILM", TVN HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -3112,7 +3117,11 @@ https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-################    SPORT   ##################
+
+
+
+############################################     🛑Vios-SPORT    #####################################################
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tvrisport.png" group-title="1.3 🛑Vios-SPORT",TVRI SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -3169,7 +3178,6 @@ http://62.210.123.134:98/live/an75d/75d/145.ts
 
 #EXTINF:-1   tvg-logo="https://i.imgur.com/gSzl8d4.png" group-title="1.3 🛑Vios-SPORT",WWE.network
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="1.3 🛑Vios-SPORT",BeinSport Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
