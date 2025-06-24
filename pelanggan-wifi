@@ -2820,16 +2820,16 @@ https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GRPctzY.png" group-title="1.2 🛑Vios-FILM",ID: ETV BIOSKOP 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UbRlJ0G.png" group-title="1.2 🛑Vios-FILM",ETV BIOSKOP 1
 https://WahyuIPTV.short.gy/ETVBioskop1.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GRPctzY.png" group-title="1.2 🛑Vios-FILM",ID: ETV BIOSKOP 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UbRlJ0G.png" group-title="1.2 🛑Vios-FILM",ETV BIOSKOP 2
 https://WahyuIPTV.short.gy/ETVBioskop2.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GRPctzY.png" group-title="1.2 🛑Vios-FILM",ID: ETV BIOSKOP 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UbRlJ0G.png" group-title="1.2 🛑Vios-FILM",ETV BIOSKOP 3
 https://WahyuIPTV.short.gy/ETVBioskop3.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GRPctzY.png" group-title="1.2 🛑Vios-FILM",ID: ETV BIOSKOP 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UbRlJ0G.png" group-title="1.2 🛑Vios-FILM",ETV BIOSKOP 4
 https://WahyuIPTV.short.gy/ETVBioskop4.ts
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
