@@ -2411,11 +2411,7 @@
 #EXTM3U
 ###################################   LIVE EVENT    ##############################
 
-#EXTINF:-1 group-logo="https://i.imgur.com/WZ7r4Cg.png" tvg-logo="https://i.imgur.com/WZ7r4Cg.png" group-title="00.🛑LIVE EVENT", BRFID YOUTUBE CHANNEL
-https://www.youtube.com/@BRFID_YT
 
-#EXTINF:-1 group-logo="https://i.imgur.com/WZ7r4Cg.png" tvg-logo="https://i.imgur.com/WZ7r4Cg.png" group-title="00.🛑LIVE EVENT", SUPPORT ADMIN
-https://drive.google.com/uc?export=download&id=1VKzYZPuddVom07o9qxKp7s8RgHzDlC2C&usp
 
 #EXTINF:-1 group-logo="https://i.imgur.com/WZ7r4Cg.png" tvg-logo="https://i.imgur.com/WZ7r4Cg.png" group-title="00.🛑LIVE EVENT", RELOAD PLAYLIST DULU SETIAP BUKA LIVE EVENT
 https://drive.google.com/uc?export=download&id=1gHID3FZ0rL_MwJJFVEwdJX13jfQ1sHa2&usp
