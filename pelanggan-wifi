@@ -2851,18 +2851,6 @@ https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UbRlJ0G.png" group-title="1.2 🛑Vios-FILM",ETV BIOSKOP 1
-https://WahyuIPTV.short.gy/ETVBioskop1.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UbRlJ0G.png" group-title="1.2 🛑Vios-FILM",ETV BIOSKOP 2
-https://WahyuIPTV.short.gy/ETVBioskop2.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UbRlJ0G.png" group-title="1.2 🛑Vios-FILM",ETV BIOSKOP 3
-https://WahyuIPTV.short.gy/ETVBioskop3.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UbRlJ0G.png" group-title="1.2 🛑Vios-FILM",ETV BIOSKOP 4
-https://WahyuIPTV.short.gy/ETVBioskop4.ts
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/galaxy.png" group-title="1.2 🛑Vios-FILM",GALAXY  
@@ -2978,10 +2966,12 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 EXTINF:0 tvg-id="ID" tvg-name="Warner TV" ch-number="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/warnertv.png" group-title="1.2 🛑Vios-FILM",WARNER TV
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rockact.png" group-title="1.2 🛑Vios-FILM",ROCK ACTION
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_ACTION
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rockact.png" group-title="1.2 🛑Vios-FILM",ROCK ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rockent.png" group-title="1.2 🛑Vios-FILM",ROCK ENTERTAIMEN
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -3200,6 +3190,23 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
 https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-title="MOVIES",MN+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-title="MOVIES",MNX HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-title="MOVIES",MOVIES NOW
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+
 
 
 
