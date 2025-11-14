@@ -4465,20 +4465,11 @@ https://e.siar.us/live/dtvi.m3u8
 
 
 
-
-
-
 ################    SPORT INDO     ##################
-#EXTINF:-1 tvg-logo="https://i.ibb.co/42dwcpw/Tvri-sport-hometv.jpg" group-title="2.2 🛑Vios-SPORT INDO",TVRI SPORT
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="2.2 🛑Vios-SPORT INDO",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tvrisport.png" group-title="2.2 🛑Vios-SPORT INDO",TVRI SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="2.2 🛑Vios-SPORT INDO",BEIN SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4515,11 +4506,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="2.2 🛑Vios-SPORT INDO",SOCCER CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
-
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="2.2 🛑Vios-SPORT INDO",SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4534,9 +4520,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/z5JhjJ0/TVRISPORT.png" group-title="2.2 🛑Vios-SPORT INDO",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co.com/z5JhjJ0/TVRISPORT.png"  group-title="2.2 🛑Vios-SPORT INDO",TVRI SPORT LIVE
-#http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/166686
 
 #EXTINF:-1 group-title="2.2 🛑Vios-SPORT INDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png", SPORTSTARS 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
@@ -4577,57 +4560,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="2.2 🛑Vios-SPORT INDO",SOCCER CHANNEL 
-https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id/&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/655/655-LOGO-m.png" group-title="2.2 🛑Vios-SPORT INDO",Soccer Channel V+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena.png" group-title="2.2 🛑Vios-SPORT INDO",ASTRO ARENA 1
-https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArena2.png" group-title="2.2 🛑Vios-SPORT INDO", ASTRO ARENA 2
-https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="2.2 🛑Vios-SPORT INDO", ASTRO ARENA Bola1
-https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola2.png" group-title="2.2 🛑Vios-SPORT INDO", ASTRO ARENA Bola2
-https://wahyu1ptv.pages.dev/AstroArenaBola2-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus1.png" group-title="2.2 🛑Vios-SPORT INDO", ASTRO SPORT PLUS1
-https://wahyu1ptv.pages.dev/AstroSportPlus1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="2.2 🛑Vios-SPORT INDO", ASTRO BADMINTON 1
-https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton2.png" group-title="2.2 🛑Vios-SPORT INDO", ASTRO BADMINTON 2
-https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="2.2 🛑Vios-SPORT INDO", ASTRO PREMIER LEAGUE
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="2.2 🛑Vios-SPORT INDO", ASTRO PREMIER LEAGUE 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="2.2 🛑Vios-SPORT INDO", ASTRO GRANDSTAND
-#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="2.2 🛑Vios-SPORT INDO", ASTRO FOOTBALL
-https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="2.2 🛑Vios-SPORT INDO", ASTRO BADMINTON
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="2.2 🛑Vios-SPORT INDO", ASTRO BADMINTON 2
-https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S1.png" group-title="2.2 🛑Vios-SPORT INDO", SUPER SPORT 1
 https://wahyu1ptv.pages.dev/SuperSport1-HD.m3u8
@@ -4638,11 +4576,9 @@ https://wahyu1ptv.pages.dev/SuperSport2-HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/S3.png" group-title="2.2 🛑Vios-SPORT INDO", SUPER SPORT 3
 https://wahyu1ptv.pages.dev/SuperSport3-HD.m3u8
 
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TruePremierFootball1.png" group-title="2.2 🛑Vios-SPORT INDO", TRUE PREMIERE FOOTBALL 1
-https://wahyu1ptv.pages.dev/TruePremier1-HD.m3u8
 
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TruePremierFootball2.png" group-title="2.2 🛑Vios-SPORT INDO", TRUE PREMIERE FOOTBALL 2
-https://wahyu1ptv.pages.dev/TruePremier2-HD.m3u8
+
+
 
 
 
