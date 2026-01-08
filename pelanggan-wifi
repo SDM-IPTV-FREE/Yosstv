@@ -7007,23 +7007,38 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/in
 
 
 
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 group-title="@HOROR" tvg-logo="https", PABRIK GULA
 https://vod1.suwalbolong.workers.dev/0:/2025/indo/Pabrik.Gula.2025.1080p.NF.WEB-DL.DDP5.1.H.264-SEIKEL.mkv
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 group-title="@HOROR" tvg-logo="https", PETAKA GUNUNG GEDE
 https://vod1.suwalbolong.workers.dev/0:/2025/indo/Haunting.of.Mount.Gede.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 group-title="@HOROR" tvg-logo="https", PENGANTIN SETAN
 https://files.dubbindo.site/upload/videos/2025/05/PPEQMCL9Jk6tkKTAd8LE_29_2d2637b8c1a3bef30603a3b106ff141d_video_720p_converted.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 group-title="@HOROR" tvg-logo="https", ALMARHUM
 https://vod1.suwalbolong.workers.dev/0:/2025/indo/Almarhum.2025.1080p.NF.WEB-DL.AAC2.0.H265-Lucasan.mkv
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 group-title="@HOROR" tvg-logo="https", NARIK SUKMO
 https://tiviku69.github.io/apk/m3u/t62.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 group-title="@HOROR" tvg-logo="https", TASBIH KOSONG
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/KcZm3.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 group-title="@HOROR" tvg-logo="https", KAJIMAN
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/78qs1t.m3u8
-#EXTINF:-1 group-title="@HOROR" tvg-logo="https", SEBELUM 7 HARI
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0 
+#EXTINF:-1 group-title="@HOROR" tvg-logo="https", HARI SEBELUM 7
 https://vod1.suwalbolong.workers.dev/0:/2025/indo/The.Last.7.Days.2025.1080p.NF.WEB-DL.DDP5.1.H.264-KQRM.mkv
+
 #EXTINF:-1 group-title="@HOROR" tvg-logo="https", RUMAH TETEH STORY OF HELENA
 https://vod1.suwalbolong.workers.dev/0:/2025/indo/Rumah.Teteh.Story.of.Helena.2025.1080p.WEB-DL.DDP5.1.H.264-KQRM.mkv
 #EXTINF:-1 group-title="@HOROR" tvg-logo="https", TEMAN TIDUR
