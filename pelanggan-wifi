@@ -2504,7 +2504,8 @@ https://hotlivezz179602324.akainu.xyz/1WK1lDlKzAeAH2bjlKkX6Q/Fv2lucGIbhPi2caWYvF
 
 ############################################     🛑Vios-LOKAL     #####################################################
 #EXTM3U
-
+#EXTINF:-1 group-title="1.1 🛑Vios-LOKAL",▂ ▃ ▅ ▇ █ ▓ ▒ ░ VIOSNET TV ░ ▒ ▓ █ ▇ ▅ ▃ ▂
+https://i.imgur.com/01li6iS.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
@@ -7053,6 +7054,9 @@ https://filmovie.github.io/96/t9960i/kafprm.mp4.m3u8
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/i93rZt4.m3u8
 #EXTINF:-1 group-title="@HOROR" tvg-logo="https", QODRAT
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/k4idF.m3u8
- 
+
+
+#EXTINF:-1 group-title="ViosNet",▂ ▃ ▅ ▇ █ ▓ ▒ ░ VIOSNET TV ░ ▒ ▓ █ ▇ ▅ ▃ ▂
+https://i.imgur.com/01li6iS.mp4
 
 #EXTM3U billed-msg="*(Playlist ViosNet) Selain Pelanggan Akan Di Hack*"
