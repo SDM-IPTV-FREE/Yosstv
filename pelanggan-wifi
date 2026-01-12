@@ -2408,10 +2408,15 @@
 
 
 #EXTM3U
+
+
+#EXTINF:-1 ,▂ ▃ ▅ ▇ █ ▓ ▒ ░ ViosNet TV ░ ▒ ▓ █ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
+
 #EXTM3U
 ###################################   LIVE EVENT    ##############################
-
-
+#EXTINF:-1 group-logo="https://i.imgur.com/WZ7r4Cg.png" group-title="00.🛑LIVE EVENT", ▂ ▃ ▅ ▇ █ ▓ ▒ ░ ViosNet TV ░ ▒ ▓ █ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
 
 #EXTINF:-1 group-logo="https://i.imgur.com/WZ7r4Cg.png" tvg-logo="https://i.imgur.com/WZ7r4Cg.png" group-title="00.🛑LIVE EVENT", RELOAD PLAYLIST DULU SETIAP BUKA LIVE EVENT
 https://drive.google.com/uc?export=download&id=1gHID3FZ0rL_MwJJFVEwdJX13jfQ1sHa2&usp
@@ -7050,9 +7055,6 @@ https://filmovie.github.io/96/t9960i/kafprm.mp4.m3u8
 #EXTINF:-1 group-title="@HOROR" tvg-logo="https", JAILANGKUNG SANDEKALA
 https://filmovie.github.io/oq90jy/i85FtikK9rZ/i93rZt4.m3u8
 
-
-#EXTINF:-1 group-title="",▂ ▃ ▅ ▇ █ ▓ ▒ ░ VIOSNET TV1 ░ ▒ ▓ █ ▇ ▅ ▃ ▂
-https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
 
 
 
