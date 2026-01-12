@@ -7456,7 +7456,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/in
 
 
 
-
+$$$$$$$$$$$$$$$$$$$$$$$$$  TV INDONESIA  $$$$$$$$$$$$$$$$$$$$$$$$$$$
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="TV-INDONESIA" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/miJIOvX.png" group-title="TV-INDONESIA",SPOTV
 http://tv.casindo.org/hls/15/15.m3u8
@@ -7966,6 +7968,10 @@ https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
 
 
 $$$$$$$$$$$$$$$$$$$$ VISION + $$$$$$$$$$$$$$$$$$$$$
+
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title=" VISION +" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
+
 
 #EXTINF:-1 tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title=" VISION +",Soccer Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
@@ -8539,6 +8545,9 @@ https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_1.m3u8
 
 $$$$$$$$$$$$$$$$$$$$$ FIRST MEDIA $$$$$$$$$$$$$$$$$$$$$
 
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="FIRST MEDIA" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -9056,6 +9065,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mediampd/MTVLiveHD.mpd
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$  TRANSVISION  $$$$$$$$$$$$$$$$$$$$$
+
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="TRANSVISION", tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
 
 #EXTINF:-1 group-title="TRANSVISION" tvg-logo="https://www.transtv.co.id/livetv/anytv/MNC_TV_live_streaming_tv.jpg", MNC TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -9880,6 +9892,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b41
 
 $$$$$$$$$$$$$$$$$$$$$$$$  INDIHOME  $$$$$$$$$$$$$$$$$$$$$$
 
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="INDIHOME", tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
+
+
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO" group-title="INDIHOME" tvg-logo="https://iili.io/Ju79f8g.png",HBO
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
@@ -10103,6 +10119,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd
 
 
 $$$$$$$$$$$$$$$$$$$$$$$$  DENZ TV  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="DENZ TV", tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
 
 #EXTINF:-1 tvg-id="HBO" group-title="DENZ TV" tvg-logo="https://iili.io/Ju79f8g.png",HBO (INDIHOME)
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
