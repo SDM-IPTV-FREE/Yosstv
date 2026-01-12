@@ -2408,6 +2408,13 @@
 
 
 #EXTM3U
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="0.🛑Ws-Net" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ Ws-Net TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
+
+
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="Ws-Net" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ Ws-Net TV ░ ▒ ▇ ▅ ▃ ▂
+https://i.imgur.com/EuSQuCz.mp4
+
 #EXTM3U
 ###################################   LIVE EVENT    ##############################
 
