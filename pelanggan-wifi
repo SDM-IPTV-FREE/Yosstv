@@ -2409,7 +2409,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="00.🛑1-ViosNet" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="0.🛑ViosNet" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
 https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
 
 #EXTM3U
@@ -2508,6 +2508,9 @@ https://hotlivezz179602324.akainu.xyz/1WK1lDlKzAeAH2bjlKkX6Q/Fv2lucGIbhPi2caWYvF
 
 ############################################     🛑Vios-LOKAL     #####################################################
 #EXTM3U
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="1.1 🛑Vios-LOKAL" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -2740,6 +2743,9 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
 
 ############################################     🛑Vios-FILM     #####################################################
+
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="1.2 🛑Vios-FILM" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -3066,6 +3072,10 @@ http://cord-cutter.net:8080/live/95549031/69361122/16143.m3u8
 
 ############################################     🛑Vios-SPORT    #####################################################
 
+
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="1.3 🛑Vios-SPORT" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tvrisport.png" group-title="1.3 🛑Vios-SPORT",TVRI SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -3347,6 +3357,9 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 ##################################    🛑Vios-BERITA     ####################################
 
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="1.4 🛑Vios-BERITA" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cna.png" group-title="1.4 🛑Vios-BERITA",News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
@@ -3484,6 +3497,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 
 
 ##################################    🛑Vios-ANAK     ####################################
+
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="1.5 🛑Vios-ANAK" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
 
 #EXTINF:-1 group-title="1.5 🛑Vios-ANAK" tvg-logo="https://i.imgur.com/5hopoo1.png",Marbel
 https://m.vidio.com/videos/7139870/common_tokenized_playlist.m3u8
@@ -3741,6 +3757,9 @@ https://gooo.blog/opix/genx.m3u8?id=deikids&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI
 
 ##################################    🛑Vios-RELIGI     ####################################
 
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="1.6 🛑Vios-RELIGI" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/qurantv.png" group-title="1.6 🛑Vios-RELIGI",Al Quran Al Kareem 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3890,6 +3909,9 @@ https://www.googleapis.com/drive/v3/files/11LBp4YaEbseYj7QySVewJj2Sa37GnVCR?alt=
 
 ##################################    🛑Vios-MUSIK     ####################################
 
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="1.7 🛑Vios-MUSIK" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
+
 #EXTINF:-1 group-title="1.7 🛑Vios-MUSIK" tvg-logo="https://i.imgur.com/tLwBOtU.jpg",Krone Hit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
@@ -3987,6 +4009,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
 
 ############################################  🛑Vios-ENTERTAINMENT    #####################################################
+
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="1.8🛑Vios-ENTERTAINMENT" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
 
 #EXTINF:-1 group-title="1.8🛑Vios-ENTERTAINMENT" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -4194,6 +4219,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
 ############################################  🛑Vios-PENGETAHUAN   #####################################################
 
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="1.9 🛑Vios-PENGETAHUAN" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
+
 #EXTINF:-1 group-title="1.9 🛑Vios-PENGETAHUAN" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bbceart.png",BBC Earth
 #EXTVLCOPT:http-referrer=https://keralamaxtv.com/sliv/play.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -4360,6 +4388,9 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 ##############################  🛑Vios-TV DAERAH   ##############################
 
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="2.1 🛑Vios-TV DAERAH" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
+
 #EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="2.1 🛑Vios-TV DAERAH",Jowo Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web
@@ -4466,6 +4497,9 @@ https://e.siar.us/live/dtvi.m3u8
 
 
 ################    SPORT INDO     ##################
+
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="2.2 🛑Vios-SPORT INDO" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
 
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="2.2 🛑Vios-SPORT INDO",Sukan RTM
@@ -4588,6 +4622,10 @@ https://wahyu1ptv.pages.dev/SuperSport3-HD.m3u8
 //Collected by ViosNet menampilkan playlist >>> 1.9 ❤️Murrotal Al-Quran❤️
 //========================================================================
 
+
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="2.3🛑Vios-Murrotal Al-Quran" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
+
 #EXTINF:-1 group-title="2.3🛑Vios-Murrotal Al-Quran" tvg-logo="https://i.imgur.com/IS9HqO1.png", Juzz 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://j.mp/2b8SiNO
@@ -4684,6 +4722,9 @@ http://j.mp/2bFREcc
 
 
 ############################  🛑Vios-🌀DENS TV #############################
+
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="2.4🛑Vios-🌀DENS TV" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="2.4🛑Vios-🌀DENS TV",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5058,6 +5099,10 @@ http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid
 
 ############################################    🛑Vios-MALAYSIA   ###################################################
 
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="2.7🛑Vios-MALAYSIA" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
+
+
 #EXTINF:-1 tvg-id="TV1" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="2.7🛑Vios-MALAYSIA",Malaysia: TV 1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
@@ -5219,6 +5264,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 
 
 <=================== RADIO =============================>
+
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="🛑Vios-RADIO" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
 
 #EXTINF:-1 SHDgroup-title="🛑Vios-RADIO" group-logo="🛑Vios-RADIO"  tvg-logo="https://st4.depositphotos.com/1024345/39496/v/450/depositphotos_394960768-stock-illustration-vector-illustration-button-online-radio.jpg", AL-Bahjah
 https://ssg.streamingmurah.com:8034/stream
@@ -6471,7 +6519,8 @@ https://cloud.hownetwork.xyz/xxx/a3adca4605b55c2fb4337c6745d92ba4/25/480.m3u8
 <=================== VISION =============================>
 
 
-
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="VISION+" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
@@ -6927,6 +6976,11 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/ind
 #############################   FILM Teks IND   ##########################
 
 
+
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="1.0 🛑fILM Teks IND" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -7008,6 +7062,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/in
 
 
 
+
+#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="@HOROR" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 group-title="@HOROR" tvg-logo="https", PABRIK GULA
