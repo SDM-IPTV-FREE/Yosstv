@@ -5770,7 +5770,21 @@ http://fortv.cc:8080/live/q8KuDU/354945/21842.ts
 #EXTINF:-1 tvg-logo="http://adp-premium.my.id/logo/sports.id/4.jpg" group-title="1.3 🛑Vios-SPORT",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="1.3 🛑Vios-SPORT",SPOTV
+http://tv.casindo.org/hls/15/15.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="1.3 🛑Vios-SPORT",SPOTV 2
+http://tv.casindo.org/hls/86/86.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="1.3 🛑Vios-SPORT",VOLI TV
+http://tv.casindo.org/hls/2/2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="1.3 🛑Vios-SPORT",TVRI sports
+http://tv.casindo.org/hls/49/49.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="1.3 🛑Vios-SPORT",NBA TV
+http://tv.casindo.org/hls/25/25.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="1.3 🛑Vios-SPORT",Motor Sports
+http://tv.casindo.org/hls/24/24.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="1.3 🛑Vios-SPORT",Fight Sports
+http://tv.casindo.org/hls/16/16.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="1.3 🛑Vios-SPORT",W SPORTS
 
 
 
