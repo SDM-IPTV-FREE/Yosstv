@@ -4819,13 +4819,17 @@
 #EXTM3U
 ###############################  ViosNet TV  ###################################
 
-#EXTINF:-1 group-logo="https://i.imgur.com/5qfIXUe.jpeg" group-title="0.🛑ViosNet" tvg-logo="https://i.imgur.com/5qfIXUe.jpeg", ViosNet TV
+#EXTINF:-1 group-logo="https://i.imgur.com/5qfIXUe.jpeg" group-title="0.🛑ViosNet" tvg-logo="https://i.imgur.com/5qfIXUe.jpeg",▂ ▃ ▅ ViosNet TV ▅ ▃ ▂
 https://github.com/user-attachments/assets/1cec63cd-6eaa-485e-a2b8-553703863a36
 
-#EXTINF:-1 group-logo="https://i.imgur.com/5qfIXUe.jpeg" group-title="0.🛑ViosNet" tvg-logo="https://i.imgur.com/5qfIXUe.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+#EXTINF:-1 group-logo="https://i.imgur.com/5qfIXUe.jpeg" group-title="0.🛑ViosNet" tvg-logo="https://i.imgur.com/5qfIXUe.jpeg",▂ ▃ ▅ ▇ ▒ ░  ViosNet TV  ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/5cfae1ab-cc3c-4740-ab07-1dcda2437e4b
+
+#EXTINF:-1 group-logo="https://i.imgur.com/5qfIXUe.jpeg" group-title="0.🛑ViosNet" tvg-logo="https://i.imgur.com/5qfIXUe.jpeg",▂ ▃ ▅ ▇ ▒ ViosNet TV ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/57594a11-2256-403f-af69-18c260533a47
+
+#EXTINF:-1 group-logo="https://i.imgur.com/5qfIXUe.jpeg" group-title="0.🛑ViosNet" tvg-logo="https://i.imgur.com/5qfIXUe.jpeg",▂ ▃ ▅ ▇ ViosNet TV ▇ ▅ ▃ ▂
 https://github.com/user-attachments/assets/c2145c1b-d5fe-4f40-8b3b-798e6f79610d
-
-
 
 #EXTM3U
 ###################################   LIVE EVENT    ##############################
