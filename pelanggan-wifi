@@ -6973,6 +6973,12 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- PLAYLISTTV || INDONESIA",SPOTV
+http://tv.casindo.org/hls/15/15.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- PLAYLISTTV || INDONESIA",SPOTV 2
+http://tv.casindo.org/hls/86/86.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- PLAYLISTTV || INDONESIA",VOLI TV
+
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="2.2 🛑Vios-SPORT INDO",SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
