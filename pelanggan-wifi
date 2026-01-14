@@ -4817,15 +4817,17 @@
 
 
 #EXTM3U
-
-
-#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="0.🛑ViosNet" tvg-logo="https://i.imgur.com/158wPci.jpeg", ViosNet TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qfIXUe.jpeg", ViosNet TV
 https://github.com/user-attachments/assets/1cec63cd-6eaa-485e-a2b8-553703863a36
 
+#EXTINF:-1 group-logo="https://i.imgur.com/5qfIXUe.jpeg" group-title="0.🛑ViosNet" tvg-logo="https://i.imgur.com/5qfIXUe.jpeg", ViosNet TV
+https://github.com/user-attachments/assets/1cec63cd-6eaa-485e-a2b8-553703863a36
 
+#EXTINF:-1 group-logo="https://i.imgur.com/5qfIXUe.jpeg" group-title="0.🛑ViosNet" tvg-logo="https://i.imgur.com/5qfIXUe.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/c2145c1b-d5fe-4f40-8b3b-798e6f79610d
 
-#EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="0.🛑ViosNet" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
-https://github.com/user-attachments/assets/690c4a51-92a4-4399-bef1-7dc35668af0d
+#EXTINF:-1 group-logo="https://i.imgur.com/5qfIXUe.jpegg" group-title="0.🛑ViosNet" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
+https://github.com/user-attachments/assets/c2145c1b-d5fe-4f40-8b3b-798e6f79610d
 #EXTM3U
 ###################################   LIVE EVENT    ##############################
 #EXTINF:-1 group-logo="https://i.imgur.com/WZ7r4Cg.png" group-title="00.🛑LIVE EVENT" tvg-logo="https://i.imgur.com/158wPci.jpeg" ,▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
@@ -10744,8 +10746,7 @@ https://filmovie.github.io/oq90jy/i85FtikK9rZ/i93rZt4.m3u8
 
 
 #EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="ViosNet" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
-https://i.imgur.com/EuSQuCz.mp4
-
+https://i.imgur.com/y4RE55M.mp4
 
 #EXTM3U billed-msg="*(Playlist ViosNet) Selain Pelanggan Akan Di Hack*"
 
