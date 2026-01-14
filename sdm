@@ -1,4 +1,3 @@
-
 404 : Not Found
 
 
@@ -4914,9 +4913,9 @@ http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843f.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eLjHSKm.png?v=1.0.0.1" group-title="SDM-LOKAL_ID", Nusantara TV..
 http://khano.nng.cloudns.us/live/m3u8/id/378a642ff00fed9.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM-LOKAL_ID",BANDUNG•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-LOKAL_ID",BANDUNG•TV••🇮🇩
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM-LOKAL_ID",SURABAYA•TV••🇮🇩
+#EXTINF:-1  tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-LOKAL_ID",SURABAYA•TV••🇮🇩
 https://e.siar.us/live/surabayatv.m3u8
 #EXTINF:-1 group-title="SDM-LOKAL_ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logo_Jurnal_TV_%282012%29.svg/2560px-Logo_Jurnal_TV_%282012%29.svg.png",Jurnal•TV
 https://5bf7b725107e5.streamlock.net/jurnaltv/jurnaltv/chunklist_w619472049.m3u8
@@ -5637,52 +5636,52 @@ https://op-group1-swiftservehd-1.dens.tv/h\/h193/index.m3u8
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv\h/h191/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- DENZ TV",INDOSIAR_
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- DENZ TV",INDOSIAR_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 group-title="SDM- DENZ TV" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- DENZ TV",TRANSTV_detik
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- DENZ TV",TRANSTV_detik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- DENZ TV",TRANS7_detik
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- DENZ TV",TRANS7_detik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- DENZ TV",Mekkah Tv_swift
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- DENZ TV",Mekkah Tv_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- DENZ TV",Madinah Tv_swift
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- DENZ TV",Madinah Tv_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- DENZ TV",Rodja Tv_swift
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- DENZ TV",Rodja Tv_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- DENZ TV",TV9 NUSANTARA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- DENZ TV",TV9 NUSANTARA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- DENZ TV",MADU TV NUSANTARA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- DENZ TV",MADU TV NUSANTARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://v6.siar.us:443/madutv/hd720/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- DENZ TV",JAWA POS TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- DENZ TV",JAWA POS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- DENZ TV",SURABAYA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- DENZ TV",SURABAYA TV
 https://e.siar.us/live/surabayatv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- DENZ TV",LINGKARTV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- DENZ TV",LINGKARTV 
 https://lingkartv.my.id/hls/lingkartv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- DENZ TV",INSPIRA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- DENZ TV",INSPIRA TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- DENZ TV",TVKU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- DENZ TV",TVKU
 http://103.30.1.14:8080/hls/live.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- DENZ TV",JITV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- DENZ TV",JITV HD
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- DENZ TV",UGTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- DENZ TV",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- DENZ TV",SANGAJI TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- DENZ TV",SANGAJI TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- DENZ TV",WION_swift
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- DENZ TV",WION_swift
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 
@@ -7563,11 +7562,11 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xhX8S0D/jawa-pos.png" group-title="SDM-TEVE_DAERAH",Jawa Pos TV
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM-TEVE_DAERAH",TV9 Nusantara
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-TEVE_DAERAH",TV9 Nusantara
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM-TEVE_DAERAH",Dhamma TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-TEVE_DAERAH",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM-TEVE_DAERAH",Magna Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-TEVE_DAERAH",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Inspira.id" tvg-logo="https://i.ibb.co/FVjrdsg/Inspira-TV.png" group-title="SDM-TEVE_DAERAH",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
@@ -7730,11 +7729,11 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/ind
 #EXTINF:-1 tvg-id="beINSports5" group-title="SDM- TIVIMATE || VISION•PLUS" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- TIVIMATE || VISION•PLUS",INDOSIAR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- TIVIMATE || VISION•PLUS",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SDM- TIVIMATE || VISION•PLUS",SCTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM- TIVIMATE || VISION•PLUS",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
@@ -8546,54 +8545,54 @@ http://supersonictv.live:8080/Allen123/Allen123/85589
 
 
 
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex", BruceLee Movie
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex", BruceLee Movie
 http://supersonictv.live:8080/live/Allen123/Allen123/81942.ts
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",三国演义•••
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",三国演义•••
 https://live.iill.top/huya/11602081
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",三国演义
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",三国演义
 http://live.iill.top/yy.php?id=1354936241
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",猫和老鼠
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",猫和老鼠
 https://live.iill.top/huya/11352879
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",猫和老鼠
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",猫和老鼠
 http://live.iill.top/huya.php?id=11352879
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",笑傲江湖
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",笑傲江湖
 https://live.iill.top/huya/23865142
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",笑傲江湖
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",笑傲江湖
 http://live.iill.top/yy.php?id=1354282410
 
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",动作
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",动作
 https://live.metshop.top/huya/11602041
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",探险
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",探险
 https://live.metshop.top/huya/11352913
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",贺岁电影
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",贺岁电影
 https://live.metshop.top/huya/11601986
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",金庸武侠电影 ①
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",金庸武侠电影 ①
 https://live.metshop.top/huya/11342427
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",金庸武侠电影 ②
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",金庸武侠电影 ②
 https://live.metshop.top/huya/11342435
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",喜剧
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",喜剧
 https://live.metshop.top/huya/11352897
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",悬疑
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",悬疑
 https://live.metshop.top/huya/11342395
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",灾难
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",灾难
 https://live.metshop.top/huya/11602075
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",DouBan Top 250
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",DouBan Top 250
 https://live.metshop.top/douyu/8770422
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",DouYu 4332
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",DouYu 4332
 https://live.metshop.top/douyu/4332
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",DouYu 20415（可乐电影
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",DouYu 20415（可乐电影
 https://live.metshop.top/douyu/20415
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",DouYu 263824（吃奶滴虫
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",DouYu 263824（吃奶滴虫
 https://live.metshop.top/douyu/263824
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",DouYu 508118
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",DouYu 508118
 https://live.metshop.top/douyu/508118
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",DouYu 2793084
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",DouYu 2793084
 https://live.metshop.top/douyu/2793084
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",DouYu 贝爷影厅
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",DouYu 贝爷影厅
 https://live.metshop.top/douyu/36337
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",DouYu 冰冰小剧场
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",DouYu 冰冰小剧场
 https://live.metshop.top/douyu/74374
-#EXTINF:-1 tvg-logo="http://www.kuaipng.com/Uploads/pic/w/2020/05-12/80220/water_80220_698_698_.png" group-title="SDM-DOUYU_21 Cineplex",DouYu 邵氏影院
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MkAxwTw.jpeg" group-title="SDM-DOUYU_21 Cineplex",DouYu 邵氏影院
 https://live.metshop.top/douyu/4246519
 
 
