@@ -16617,6 +16617,23 @@ https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&v
 https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166073881&quality=s240p&product_id=1784476&lang=Malay
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026", LIVE FIFA 1
+https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/Eju9ybN8uMmkG6B4j5XnzATkivlRUFJ0eYMOYsEKaT_z1vXMe9RFjk76jHg6AkPZmhwZ-MH85-NQPesUVbEwig/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026", LIVE FIFA 2
+https://kick-hls-79150553-de-1780582789.s3.eu-central-1.amazonaws.com/index
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026", LIVE FIFA 3
+https://live.tuoranz.cfd/goodo1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026", LIVE FIFA 4
+https://di5v91i87riar.cloudfront.net/slot/1/fronts.woff2?2f5fbe
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026", LIVE FIFA 5
+https://di5v91i87riar.cloudfront.net/slot/1/fronts.woff2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026", LIVE FIFA 6
+https://soccerball.st/s1.php
 
 
 
