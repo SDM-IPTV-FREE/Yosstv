@@ -16469,9 +16469,9 @@ https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&v
 #EXTM3U
 #########################################  WORLD CUP 2026  ######################################
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026",1a LiFE FIFA-Vios WC-2026
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026",1a LiVE FIFA-Vios WC-2026
 https://soccerball.st/s1.php
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026",1b LiFE FIFA-Vios WC-2026
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026",1b LiVE FIFA-Vios WC-2026
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026",1 Caze TV - BRA 🇧🇷
@@ -16540,6 +16540,41 @@ https://soccerball.st/s1.php
 https://lcdn-3.kumo.social/media/pass/fox/ddc285982de201da.m3u8
 
 
+# <============================================== WorldCup 2026 ===========================================================>
+
+#KODIPROP:inputstreamaddon=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
+#EXTINF:-1 group-title="WorldCup 2026" tvg-id="GoLive" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live FHD
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
+
+#KODIPROP:inputstreamaddon=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
+#EXTINF:-1 group-title="WorldCup 2026" tvg-id="Aneka" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka FHD
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-id="auto.joj.sport" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/jojsport.jpg" group-title="WorldCup 2026",JOJ SPORT
+https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+#EXTINF:-1 tvg-id="auto.ct.sport" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="WorldCup 2026",CT SPORT
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
 
 
 
