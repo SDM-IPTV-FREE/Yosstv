@@ -16468,7 +16468,10 @@ https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&v
 
 #EXTM3U
 #########################################  WORLD CUP 2026  ######################################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026",1a Vios WC2026
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026",1a LiFE FIFA-Vios WC-2026
+https://soccerball.st/s1.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026",1b LiFE FIFA-Vios WC-2026
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026",1 Caze TV - BRA 🇧🇷
@@ -16477,14 +16480,13 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026",1 Caze TV B - BRA 🇧🇷
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026",1 LIVE FIFA 
-https://soccerball.st/s1.php
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026",1 FIFA Plus English
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026",1 FIFA Plus B
 https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports  - 🇫🇷 (FIFA)
@@ -16499,27 +16501,9 @@ http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports 2 - 🇷🇸 (FIFA)
 http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", TUDN 1080 (FIFA)
-http://177.10.184.60:8002/play/a013/index.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Tyc Sports - ARG 🇦🇷
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", DAZN 1 HD
-http://znty.dyndns.org:5010/hls/eleven1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", DAZN 2 HD
-http://znty.dyndns.org:5010/hls/eleven2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", DAZN 3 HD
-http://znty.dyndns.org:5010/hls/eleven3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", DAZN 4 HD
-http://znty.dyndns.org:5010/hls/eleven4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", DAZN 5 HD
-http://znty.dyndns.org:5010/hls/eleven5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", beIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
@@ -16533,10 +16517,6 @@ https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports 4
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Euro TV
-https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
-
 
 
 
