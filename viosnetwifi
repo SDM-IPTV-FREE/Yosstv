@@ -4830,97 +4830,6 @@ https://github.com/user-attachments/assets/c2145c1b-d5fe-4f40-8b3b-798e6f79610d
 #EXTINF:-1 group-logo="https://i.imgur.com/5qfIXUe.jpegg" group-title="0.🛑ViosNet" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
 https://github.com/user-attachments/assets/c2145c1b-d5fe-4f40-8b3b-798e6f79610d
 #EXTM3U
-###################################   LIVE EVENT    ##############################
-#EXTINF:-1 group-logo="https://i.imgur.com/WZ7r4Cg.png" group-title="00.🛑LIVE EVENT" tvg-logo="https://i.imgur.com/158wPci.jpeg" ,▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
-https://github.com/user-attachments/assets/40c63db4-6088-4a75-9fe9-821514986cb5
-
-#EXTINF:-1 group-logo="https://i.imgur.com/WZ7r4Cg.png" tvg-logo="https://i.imgur.com/WZ7r4Cg.png" group-title="00.🛑LIVE EVENT", RELOAD PLAYLIST DULU SETIAP BUKA LIVE EVENT
-https://drive.google.com/uc?export=download&id=1gHID3FZ0rL_MwJJFVEwdJX13jfQ1sHa2&usp
-
-##EXTINF:-1 group-logo="https://i.imgur.com/WZ7r4Cg.png" group-title="00.🛑LIVE EVENT" tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/03/FIFA_Qualifier_Tour_Logo-Grid.png", kulaifikasi pildun
-
-#EXTINF:-1  group-logo="https://i.imgur.com/WZ7r4Cg.png" group-title="00.🛑LIVE EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbbh7w-7tHU5h6YEA-ghLcZcyc5cdQdkHGug&s", Myanmar (w) U19 vs Indonesia (w) U19 18 Juni 2025 15:00 WIB 
-
-#EXTINF:-1 group-logo="https://i.imgur.com/WZ7r4Cg.png" group-title="00.🛑LIVE EVENT" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", AVC NATIONS CUP 2025 1 18:00 WIB
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=350997
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-http://xtv.ooo:8080/live/Raza335/3355141450/350997.ts
-
-#EXTINF:-1 group-logo="https://i.imgur.com/WZ7r4Cg.png" group-title="00.🛑LIVE EVENT" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", AVC NATIONS CUP 2025 2 
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/i_zXIAvMEt5RatXT425jtw/Fv2lucGIbhPi2caWYvF5Lg/1750343939684/live/may17/chunklist.m3u8
-
-#EXTINF:-1 group-logo="https://i.imgur.com/WZ7r4Cg.png" group-title="00.🛑LIVE EVENT" tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2025/06/01_NATION_MEN-1024x491.jpg", AVC NATIONS CUP 2025 3 Bahrain vs Indonesia 18 Juni 2025 23:00 WIB 
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/GE_fzA0tYA8c1GfrSxP0uQ/Fv2lucGIbhPi2caWYvF5Lg/1750350687226/live/may20/chunklist.m3u8
-
-#EXTINF:-1 group-logo="https://i.imgur.com/WZ7r4Cg.png" group-title="00.🛑LIVE EVENT" tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg", VOLLEYBALL NATIONS LEAGUE 1 
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/i_zXIAvMEt5RatXT425jtw/Fv2lucGIbhPi2caWYvF5Lg/1750343939684/live/may17/chunklist.m3u8
-
-#EXTINF:-1 group-logo="https://i.imgur.com/WZ7r4Cg.png" group-title="00.🛑LIVE EVENT" tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg", VOLLEYBALL NATIONS LEAGUE 2
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPORTV2.m3u8
-
-#EXTINF:-1 group-logo="https://i.imgur.com/WZ7r4Cg.png" group-title="00.🛑LIVE EVENT" tvg-logo="https://thumb.viva.id/vivawisata/665x374/2025/05/30/683893be07956-vnl-2025_wisata.jpg", VOLLEYBALL NATIONS LEAGUE 3 Bulgaria W vs China W 19 Juni 2025 19:30 WIB 
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179026907.akainu.xyz/zq7NhMdfeTjAc_cwsw18DA/Fv2lucGIbhPi2caWYvF5Lg/1750344175787/live/may171/chunklist.m3u8
-
-#EXTINF:-1 group-logo="https://i.imgur.com/WZ7r4Cg.png" group-title="00.🛑LIVE EVENT" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571", Inter Miami vs Porto 19 Juni 2025 02:00 WIB 
-#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.program_number=46506
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
-
-#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 1  
-http://kstv.us:8080/live/tH300gvHff/8606073792/46506.m3u8
-
-#EXTINF:-1 MV group-logo="https://i.imgur.com/WZ7r4Cg.png" group-logo="https://i.imgur.com/WZ7r4Cg.png" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 2
-http://goldv3.me:2082/live/drmtv43_476893/YFCPfQ3M/250343.m3u8
-
-#EXTINF:-1 MV group-logo="https://i.imgur.com/WZ7r4Cg.png" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 3
-http://iptvde.de:8080/live/OsmanTokmak/fgxgthus/89081.m3u8
-
-#EXTINF:-1 MV group-logo="https://i.imgur.com/WZ7r4Cg.png" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/novasport3.m3u8
-
-#EXTINF:-1 MV group-logo="https://i.imgur.com/WZ7r4Cg.png" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii1.m3u8
-
-#EXTINF:-1 MV group-logo="https://i.imgur.com/WZ7r4Cg.png" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii2.m3u8
-
-#EXTINF:-1 MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/hnnyo/coba/refs/heads/main/tabii3.m3u8
-
-#EXTINF:-1 MV group-logo="https://i.imgur.com/WZ7r4Cg.png" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 8
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-
-#EXTINF:-1 group-logo="https://i.imgur.com/WZ7r4Cg.png" MV tvg-logo="https://images.daznservices.com/di/library/DAZN_News/d5/9b/club-world-cup_cxhypc2cyb6x1keem1ipefjci.jpg?t=-1245724571" group-title="00.🛑LIVE EVENT", WORLD CUP CLUB 9
-#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
-#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
-https://hotlivezz179602324.akainu.xyz/1WK1lDlKzAeAH2bjlKkX6Q/Fv2lucGIbhPi2caWYvF5Lg/1750287574941/live/Z1SD/chunklist.m3u8
-
-
-
-
 
 
 ############################################     🛑Vios-LOKAL     #####################################################
@@ -11093,66 +11002,6 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
 https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026", FIFA Plus English
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png"" group-title="WORLD CUP 2026", FIFA Plus B
-https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Tyc Sports - ARG 🇦🇷
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Caze TV - BRA 🇧🇷
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Caze TV B - BRA 🇧🇷
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026",Somoy TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", DAZN 1 HD
-http://znty.dyndns.org:5010/hls/eleven1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", DAZN 2 HD
-http://znty.dyndns.org:5010/hls/eleven2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", DAZN 3 HD
-http://znty.dyndns.org:5010/hls/eleven3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", DAZN 4 HD
-http://znty.dyndns.org:5010/hls/eleven4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", DAZN 5 HD
-http://znty.dyndns.org:5010/hls/eleven5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports  - 🇫🇷 (FIFA)
-http://145.239.5.177/559/mpegts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports 2 B- 🇫🇷 (FIFA)
-http://145.239.5.177:80/559/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=https://commons.wikimedia.org/wiki/File:Bein_sports.png"" group-title="WORLD CUP 2026", Bein Sports 1 - 🇷🇸 (FIFA)
-http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports 2 - 🇷🇸 (FIFA)
-http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", TUDN 1080 (FIFA)
-http://177.10.184.60:8002/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", beIN Sports Xtra
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports 1
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports 2
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports 3
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports 4
-https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Cricbuzz HD
-http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Euro TV
-https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Cricket Gold
-https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Star Jalsha
-https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Zee Bangla
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Colors Bangla
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Sun Bangla
-http://27.124.71.27/Sun_Bangla/index.m3u8
 
 
 
@@ -16616,6 +16465,66 @@ https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&v
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166073881/1166082022/aa9232507b54d9f9c2f7ebac1712082f6a9705e1" group-title="VOD VIU", The Witch: Part 2. The Other One
 https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166073881&quality=s240p&product_id=1784476&lang=Malay
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026", FIFA Plus English
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png"" group-title="WORLD CUP 2026", FIFA Plus B
+https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Tyc Sports - ARG 🇦🇷
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Caze TV - BRA 🇧🇷
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Caze TV B - BRA 🇧🇷
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026",BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", DAZN 1 HD
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", DAZN 2 HD
+http://znty.dyndns.org:5010/hls/eleven2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", DAZN 3 HD
+http://znty.dyndns.org:5010/hls/eleven3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", DAZN 4 HD
+http://znty.dyndns.org:5010/hls/eleven4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", DAZN 5 HD
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports  - 🇫🇷 (FIFA)
+http://145.239.5.177/559/mpegts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports 2 B- 🇫🇷 (FIFA)
+http://145.239.5.177:80/559/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=https://commons.wikimedia.org/wiki/File:Bein_sports.png"" group-title="WORLD CUP 2026", Bein Sports 1 - 🇷🇸 (FIFA)
+http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports 2 - 🇷🇸 (FIFA)
+http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", TUDN 1080 (FIFA)
+http://177.10.184.60:8002/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", beIN Sports Xtra
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports 1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports 2
+https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports 3
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports 4
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Cricbuzz HD
+http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Euro TV
+https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Cricket Gold
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Star Jalsha
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Zee Bangla
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Colors Bangla
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Sun Bangla
+http://27.124.71.27/Sun_Bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026", LIVE FIFA 
 https://soccerball.st/s1.php
