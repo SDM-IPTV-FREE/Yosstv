@@ -16505,18 +16505,7 @@ http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026", Tyc Sports - ARG 🇦🇷
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", beIN Sports Xtra
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports 2
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports 3
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://commons.wikimedia.org/wiki/File:Bein_sports.png" group-title="WORLD CUP 2026", Bein Sports 4
-https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026", LIVE FIFA 1
 https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/Eju9ybN8uMmkG6B4j5XnzATkivlRUFJ0eYMOYsEKaT_z1vXMe9RFjk76jHg6AkPZmhwZ-MH85-NQPesUVbEwig/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live
@@ -16547,7 +16536,7 @@ https://lcdn-3.kumo.social/media/pass/fox/ddc285982de201da.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
-#EXTINF:-1 group-title="WORLD CUP 2026" tvg-id="GoLive" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live FHD
+#EXTINF:-1 group-title="WORLD CUP 2026" tvg-id="GoLive" tvg-logo="https://i.imgur.com/CGlzsD5.png",2 RTB Go Live FHD
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
 
 #KODIPROP:inputstreamaddon=inputstream.ffmpegdirect
@@ -16555,7 +16544,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?i
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
-#EXTINF:-1 group-title="WORLD CUP 2026" tvg-id="Aneka" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka FHD
+#EXTINF:-1 group-title="WORLD CUP 2026" tvg-id="Aneka" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",2 RTB Aneka FHD
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -16581,7 +16570,7 @@ https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTVLCOPT:http-referrer=https://tvri.go.id/
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://tvrinasional.wordpress.com/wp-content/uploads/2019/11/cropped-png-small-white.png" group-title="WORLD CUP 2026",TVRI Sports (Piala Dunia 2026)
+#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://tvrinasional.wordpress.com/wp-content/uploads/2019/11/cropped-png-small-white.png" group-title="WORLD CUP 2026",2 TVRI Sports (Piala Dunia 2026)
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 group-logo="https://i.imgur.com/158wPci.jpeg" group-title="ViosNet" tvg-logo="https://i.imgur.com/158wPci.jpeg",▂ ▃ ▅ ▇ ▒ ░ ViosNet TV ░ ▒ ▇ ▅ ▃ ▂
