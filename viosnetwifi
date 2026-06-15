@@ -16511,7 +16511,7 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/Eju9ybN8uMmkG6B4j5XnzATkivlRUFJ0eYMOYsEKaT_z1vXMe9RFjk76jHg6AkPZmhwZ-MH85-NQPesUVbEwig/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026", LIVE FIFA 2
-https://kick-hls-79150553-de-1780582789.s3.eu-central-1.amazonaws.com/index
+http://xplatinmedia.com:8080/Captain_of_streams/k8e83FIhK10284m8LwGI54pT8FS1z4w48oEK/1133
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP 2026", LIVE FIFA 3
 https://live.tuoranz.cfd/goodo1/index.m3u8
