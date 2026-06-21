@@ -10320,6 +10320,25 @@ https://cast.tricolrock.com:8000/radio-tricolrock
 #EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/85482.v7.png" group-title="🛑ROCK RADIO" ,Classic Rock Portugal
 https://online.classicrock.pt/
 
+#EXTINF:-1 group-title="🛑ROCK RADIO" tvg-logo="https://i.imgur.com/158wPci.jpeg",1.Vios Radio Rock 1
+http://stream.radioreklama.bg/radio1rock64
+
+#EXTINF:-1 group-title="🛑ROCK RADIO" tvg-logo="https://i.imgur.com/158wPci.jpeg",1.Vios Radio Rock 2
+http://rosetta.shoutca.st:8352/stream/1/
+
+#EXTINF:-1 group-title="🛑ROCK RADIO" tvg-logo="https://i.imgur.com/158wPci.jpeg",1.Vios Radio Rock 3
+http://145.14.14.93:9034/stream/1/
+
+#EXTINF:-1 group-title="🛑ROCK RADIO" tvg-logo="https://i.imgur.com/158wPci.jpeg",1.Vios Radio Rock 4
+https://regiocast.streamabc.net/regc-90s90srock1436287-mp3-192-2191420
+
+#EXTINF:-1 group-title="🛑ROCK RADIO" tvg-logo="https://i.imgur.com/158wPci.jpeg",1.Vios Radio Rock 5
+http://stric6.streamakaci.com/4uclassicrock.mp3
+
+
+
+
+
 
 
 
