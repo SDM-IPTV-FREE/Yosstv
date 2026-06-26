@@ -11200,38 +11200,39 @@ https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
 
 
 
-
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026",PTV SPORTS FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP,PTV SPORTS FHD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026"FIFA WORLDCUP  eng
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP  eng
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1306.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026"FIFA WORLDCUP bbc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP bbc
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4958.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026"FIFA WORLDCUP itv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP itv
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/501.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026"FIFA WORLDCUP hindi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP hindi
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/5008.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026"FIFA WORLDCUP unite8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP unite8
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1064.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026"FIFA WORLDCUP german
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP german
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1582.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026"FIFA WORLDCUP german
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP german
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2572.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026"FIFA WORLDCUP spanish
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP spanish
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6659.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026"FIFA WORLDCUP portu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP portu
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1423.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026"FIFA WORLDCUP fox
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP fox
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1140.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026"TSN 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPTSN 4 HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6654.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026"TSN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPTSN 3 HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6653.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026"TSN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPTSN 2 HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6652.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026"TSN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPTSN 1 HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6650.ts
+
+
 
 
 
