@@ -11164,74 +11164,36 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://tvrinasional.wordpress.com/wp-content/uploads/2019/11/cropped-png-small-white.png" group-title="WORLD CUP 2026",2 TVRI Sports (Piala Dunia 2026)
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
-#EXTINF:-1 group-title="WORLD CUP 2026" tvg-id="GoLive" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live FHD
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
-
-#KODIPROP:inputstreamaddon=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
-#EXTINF:-1 group-title="WORLD CUP 2026" tvg-id="Aneka" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka FHD
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#EXTINF:-1 tvg-id="auto.joj.sport" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/antik/jojsport.jpg" group-title="WORLD CUP 2026",JOJ SPORT
-https://dash3.antik.sk/stream/nvidia_joj_sport/playlist_cbcs.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referer=https://webtv.sk/tv/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#EXTINF:-1 tvg-id="auto.ct.sport" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/%C4%8CT_sport_logo.png" group-title="WORLD CUP 2026",CT SPORT
-https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUP,PTV SPORTS FHD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026" ,PTV SPORTS FHD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP  eng
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026" ,FIFA WORLDCUP  eng
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1306.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP bbc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026" ,FIFA WORLDCUP bbc
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/4958.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP itv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026" ,FIFA WORLDCUP itv
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/501.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP hindi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026" ,FIFA WORLDCUP hindi
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/5008.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP unite8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026" ,FIFA WORLDCUP unite8
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1064.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP german
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026" ,FIFA WORLDCUP german
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1582.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP german
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026" ,FIFA WORLDCUP german
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/2572.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP spanish
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026" ,FIFA WORLDCUP spanish
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6659.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP portu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026" ,FIFA WORLDCUP portu
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1423.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPFIFA WORLDCUP fox
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026" ,FIFA WORLDCUP fox
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/1140.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPTSN 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026" ,TSN 4 HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6654.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPTSN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026" ,TSN 3 HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6653.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPTSN 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026" ,TSN 2 HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6652.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.mos.cms.futurecdn.net/Tdvb4DPB6XfaMgAdxV4aZB.png" group-title="WORLD CUPTSN 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD CUP 2026" ,TSN 1 HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/6650.ts
-
 
 
 
